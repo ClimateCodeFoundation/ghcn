@@ -7284,7 +7284,6 @@ all=["10160355000.svg",
 var where = 0
 if (window.location.hash) {
     where = window.location.hash.substr(1);
-    window.alert(where)
 }
 $(document).keypress(function(e){
   if(e.keyCode == 112) {
@@ -7300,6 +7299,7 @@ $(document).keypress(function(e){
     where = all.length - 1
   }
   url = all[where]
+  window.location.hash='#'+where
   $('#plot').attr('src', url)
 })
 $(function() {
