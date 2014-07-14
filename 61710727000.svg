@@ -1,0 +1,80 @@
+<svg width='1570px' height='303px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record61710727000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>61710727000 +49.03+008.37  KARLSRUHE</text>
+</g>
+<g transform='translate(0, 147.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>61710727000</text>
+  <g class='record61710727000'><path d='M0.0 32l1380.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M6 16.0l0 -163.0M66 16.0l0 -163.0M126 16.0l0 -163.0M186 16.0l0 -163.0M246 16.0l0 -163.0M306 16.0l0 -163.0M366 16.0l0 -163.0M426 16.0l0 -163.0M486 16.0l0 -163.0M546 16.0l0 -163.0M606 16.0l0 -163.0M666 16.0l0 -163.0M726 16.0l0 -163.0M786 16.0l0 -163.0M846 16.0l0 -163.0M906 16.0l0 -163.0M966 16.0l0 -163.0M1026 16.0l0 -163.0M1086 16.0l0 -163.0M1146 16.0l0 -163.0M1206 16.0l0 -163.0M1266 16.0l0 -163.0M1326 16.0l0 -163.0' />
+  <text text-anchor='middle' font-size='16.0' x='6' y='16'>1780</text>
+  <text text-anchor='middle' font-size='16.0' x='66' y='16'>1790</text>
+  <text text-anchor='middle' font-size='16.0' x='126' y='16'>1800</text>
+  <text text-anchor='middle' font-size='16.0' x='186' y='16'>1810</text>
+  <text text-anchor='middle' font-size='16.0' x='246' y='16'>1820</text>
+  <text text-anchor='middle' font-size='16.0' x='306' y='16'>1830</text>
+  <text text-anchor='middle' font-size='16.0' x='366' y='16'>1840</text>
+  <text text-anchor='middle' font-size='16.0' x='426' y='16'>1850</text>
+  <text text-anchor='middle' font-size='16.0' x='486' y='16'>1860</text>
+  <text text-anchor='middle' font-size='16.0' x='546' y='16'>1870</text>
+  <text text-anchor='middle' font-size='16.0' x='606' y='16'>1880</text>
+  <text text-anchor='middle' font-size='16.0' x='666' y='16'>1890</text>
+  <text text-anchor='middle' font-size='16.0' x='726' y='16'>1900</text>
+  <text text-anchor='middle' font-size='16.0' x='786' y='16'>1910</text>
+  <text text-anchor='middle' font-size='16.0' x='846' y='16'>1920</text>
+  <text text-anchor='middle' font-size='16.0' x='906' y='16'>1930</text>
+  <text text-anchor='middle' font-size='16.0' x='966' y='16'>1940</text>
+  <text text-anchor='middle' font-size='16.0' x='1026' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='1086' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='1146' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='1206' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='1266' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='1326' y='16'>2000</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -14.0l-8 0M0.0 -34.0l-8 0M0.0 -54.0l-8 0M0.0 -74.0l-8 0M0.0 -94.0l-8 0M0.0 -114.0l-8 0M0.0 -134.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-14.0'>-10</text>
+  <text alignment-baseline='middle' x='-8.0' y='-34.0'>-8</text>
+  <text alignment-baseline='middle' x='-8.0' y='-54.0'>-6</text>
+  <text alignment-baseline='middle' x='-8.0' y='-74.0'>-4</text>
+  <text alignment-baseline='middle' x='-8.0' y='-94.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-114.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-134.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 326.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -114.0l1380.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='1380' height='145.0'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record61710727000'>
+<path d='M3.000 146.3L9.000 111.8 15.000 122.9 21.000 98.8 27.000 111.2 33.000 89.1 39.000 89.0 45.000 101.1' />
+<path d='M57.000 1.3L63.000 109.1' />
+<path d='M117.000 113.3L123.000 100.8 129.000 116.1 135.000 122.9 141.000 115.6 147.000 104.2 153.000 113.2 159.000 97.4 165.000 122.8 171.000 115.7 177.000 105.7 183.000 109.3 189.000 108.6 195.000 125.0 201.000 101.9 207.000 108.8 213.000 104.3 219.000 110.5 225.000 97.9 231.000 111.0 237.000 115.1 243.000 119.1 249.000 106.0 255.000 115.1 261.000 133.2 267.000 115.7 273.000 121.4 279.000 121.7 285.000 120.4 291.000 116.9 297.000 121.7 303.000 98.7 309.000 108.1 315.000 119.5 321.000 112.2 327.000 115.9 333.000 128.7 339.000 109.0 345.000 118.1 351.000 108.8 357.000 101.4 363.000 117.1 369.000 103.6 375.000 119.4 381.000 110.9 387.000 117.9 393.000 107.6 399.000 102.8 405.000 126.8 411.000 108.5 417.000 115.4 423.000 112.8 429.000 108.3 435.000 107.4 441.000 121.6 447.000 102.5 453.000 107.6 459.000 102.0 465.000 110.4 471.000 118.0 477.000 107.7 483.000 126.8 489.000 106.0 495.000 114.7 501.000 122.7 507.000 119.9 513.000 102.3 519.000 119.5 525.000 120.8 531.000 114.6 537.000 125.0 543.000 115.0 549.000 105.6 555.000 98.7 561.000 122.0 567.000 116.3 573.000 111.8 579.000 111.9 585.000 116.7 591.000 116.9 597.000 114.5 603.000 98.4 609.000 116.2 615.000 110.7 621.000 114.0 627.000 112.9 633.000 119.0 639.000 110.6 645.000 114.6 651.000 99.5 657.000 101.4 663.000 104.4 669.000 105.2 675.000 105.9 681.000 110.2 687.000 115.3 693.000 114.5 699.000 106.8 705.000 110.0 711.000 115.9 717.000 119.3 723.000 116.0 729.000 119.7 735.000 108.9 741.000 111.0 747.000 116.5 753.000 117.4 759.000 115.0 765.000 116.0 771.000 115.1 777.000 106.6 783.000 108.1 789.000 116.8 795.000 123.5 801.000 114.5 807.000 118.9 813.000 114.1 819.000 116.4 825.000 118.9 831.000 108.5 837.000 117.4 843.000 109.4 849.000 117.7 855.000 124.0 861.000 108.9 867.000 117.3 873.000 108.7 879.000 116.3 885.000 122.3 891.000 118.3 897.000 123.0 903.000 111.7 909.000 123.0' />
+<path d='M1287.000 117.7L1293.000 133.2' />
+<path d='M1305.000 109.7L1311.000 122.1 1317.000 125.0 1323.000 128.1 1329.000 133.6 1335.000 123.7 1341.000 128.7 1347.000 130.1 1353.000 123.3 1359.000 123.7 1365.000 128.0 1371.000 130.3 1377.000 127.7' />
+</g>
+</g>
+</g>
+</g>
+</svg>

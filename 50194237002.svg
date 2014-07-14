@@ -1,0 +1,56 @@
+<svg width='556px' height='184px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record50194237002 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>50194237002 -16.25+133.37  DALY WATERS PUB (DALY WATERS C</text>
+</g>
+<g transform='translate(0, 28.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>50194237002</text>
+  <g class='record50194237002'><path d='M0.0 32l366.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M24 16.0l0 -44.0M84 16.0l0 -44.0M144 16.0l0 -44.0M204 16.0l0 -44.0M264 16.0l0 -44.0M324 16.0l0 -44.0' />
+  <text text-anchor='middle' font-size='16.0' x='24' y='16'>1930</text>
+  <text text-anchor='middle' font-size='16.0' x='84' y='16'>1940</text>
+  <text text-anchor='middle' font-size='16.0' x='144' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='204' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='264' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='324' y='16'>1980</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -11.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-11.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 386.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -11.0l366.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='366' height='25.3'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record50194237002'>
+<path d='M3.000 16.6L9.000 10.7 15.000 20.6 21.000 9.4 27.000 3.9 33.000 17.5 39.000 14.0 45.000 11.7 51.000 10.7 57.000 11.9 63.000 26.7' />
+<path d='M75.000 10.9L81.000 6.2 87.000 1.7 93.000 1.4 99.000 20.1 105.000 7.1 111.000 2.2 117.000 5.4 123.000 2.9 129.000 11.2 135.000 7.5 141.000 5.8 147.000 5.8' />
+<path d='M267.000 12.8L273.000 12.6 279.000 16.0 285.000 22.9 291.000 9.9 297.000 16.5 303.000 8.0 309.000 9.6 315.000 4.7 321.000 22.4 327.000 14.8 333.000 16.7 339.000 9.1' />
+<path d='M357.000 13.4L363.000 14.9' />
+</g>
+</g>
+</g>
+</g>
+</svg>

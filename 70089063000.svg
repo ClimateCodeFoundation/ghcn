@@ -14,6 +14,9 @@
   </style>
 </defs>
 <g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>70089063000 -65.25-064.27  FARADAY</text>
+</g>
 <g transform='translate(0, 58.0)'>
 <g id="legend">
   <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>70089063000</text>

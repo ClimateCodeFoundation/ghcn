@@ -1,0 +1,60 @@
+<svg width='838px' height='211px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record42500301966 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>42500301966 +44.72-073.72  DANNEMORA</text>
+</g>
+<g transform='translate(0, 55.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>42500301966</text>
+  <g class='record42500301966'><path d='M0.0 32l648.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M18 16.0l0 -71.0M78 16.0l0 -71.0M138 16.0l0 -71.0M198 16.0l0 -71.0M258 16.0l0 -71.0M318 16.0l0 -71.0M378 16.0l0 -71.0M438 16.0l0 -71.0M498 16.0l0 -71.0M558 16.0l0 -71.0M618 16.0l0 -71.0' />
+  <text text-anchor='middle' font-size='16.0' x='18' y='16'>1910</text>
+  <text text-anchor='middle' font-size='16.0' x='78' y='16'>1920</text>
+  <text text-anchor='middle' font-size='16.0' x='138' y='16'>1930</text>
+  <text text-anchor='middle' font-size='16.0' x='198' y='16'>1940</text>
+  <text text-anchor='middle' font-size='16.0' x='258' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='318' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='378' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='438' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='498' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='558' y='16'>2000</text>
+  <text text-anchor='middle' font-size='16.0' x='618' y='16'>2010</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -10.0l-8 0M0.0 -30.0l-8 0M0.0 -50.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-10.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-30.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-50.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 372.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -30.0l648.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='648' height='53.1'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record42500301966'>
+<path d='M3.000 21.0L9.000 23.2 15.000 15.5 21.000 18.9 27.000 25.1 33.000 15.0 39.000 35.5 45.000 14.7 51.000 28.4 57.000 19.6 63.000 0.8 69.000 16.4 75.000 22.7 81.000 20.2 87.000 36.2 93.000 26.7 99.000 15.6 105.000 14.4 111.000 18.9 117.000 2.5 123.000 25.9 129.000 24.0 135.000 21.9 141.000 29.9 147.000 37.8 153.000 29.4 159.000 26.5 165.000 20.0 171.000 20.9 177.000 23.0 183.000 33.7 189.000 32.3 195.000 20.5 201.000 14.6 207.000 30.8 213.000 28.7 219.000 17.8 225.000 28.7 231.000 31.4 237.000 37.1 243.000 30.4 249.000 33.2 255.000 44.8 261.000 31.2 267.000 33.2 273.000 40.3 279.000 48.2 285.000 28.7 291.000 35.4 297.000 26.9 303.000 36.6 309.000 22.9 315.000 33.2 321.000 30.8 327.000 34.7 333.000 27.3 339.000 25.5 345.000 32.4 351.000 23.9 357.000 30.8 363.000 26.9 369.000 26.9 375.000 29.4 381.000 26.8 387.000 27.9 393.000 18.4 399.000 39.1 405.000 24.6 411.000 34.3 417.000 21.4 423.000 30.9 429.000 24.8 435.000 32.6 441.000 24.0 447.000 33.2 453.000 34.1 459.000 34.8 465.000 33.8 471.000 28.7 477.000 30.3 483.000 36.6 489.000 33.7 495.000 26.8 501.000 45.2 507.000 42.8 513.000 28.7 519.000 28.7 525.000 32.5 531.000 36.6 537.000 32.2 543.000 28.5 549.000 51.3 555.000 48.4 561.000 34.0 567.000 45.6 573.000 43.6 579.000 32.8 585.000 30.9 591.000 42.0 597.000 49.0 603.000 36.5 609.000 38.8 615.000 39.4 621.000 51.1 627.000 46.9 633.000 53.8 639.000 34.7 645.000 17.4' />
+</g>
+</g>
+</g>
+</g>
+</svg>

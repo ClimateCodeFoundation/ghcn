@@ -1,0 +1,51 @@
+<svg width='334px' height='181px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record50195660000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>50195660000 -30.45+137.17  ANDAMOOKA</text>
+</g>
+<g transform='translate(0, 25.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>50195660000</text>
+  <g class='record50195660000'><path d='M0.0 32l144.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M6 16.0l0 -41.0M66 16.0l0 -41.0M126 16.0l0 -41.0' />
+  <text text-anchor='middle' font-size='16.0' x='6' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='66' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='126' y='16'>1990</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -16.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-16.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 387.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -16.0l144.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='144' height='22.8'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record50195660000'>
+<path d='M3.000 1.0L9.000 12.4 15.000 12.4 21.000 15.5 27.000 20.0 33.000 12.1 39.000 14.9 45.000 6.9 51.000 19.4 57.000 10.0 63.000 18.9 69.000 21.8 75.000 23.2 81.000 20.0 87.000 20.5 93.000 10.5 99.000 14.7 105.000 18.6' />
+<path d='M135.000 23.8L141.000 10.3' />
+</g>
+</g>
+</g>
+</g>
+</svg>

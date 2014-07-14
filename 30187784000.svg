@@ -1,0 +1,58 @@
+<svg width='694px' height='189px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record30187784000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>30187784000 -40.78-065.10  SAN ANTONIO O</text>
+</g>
+<g transform='translate(0, 33.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>30187784000</text>
+  <g class='record30187784000'><path d='M0.0 32l504.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M54 16.0l0 -49.0M114 16.0l0 -49.0M174 16.0l0 -49.0M234 16.0l0 -49.0M294 16.0l0 -49.0M354 16.0l0 -49.0M414 16.0l0 -49.0M474 16.0l0 -49.0' />
+  <text text-anchor='middle' font-size='16.0' x='54' y='16'>1940</text>
+  <text text-anchor='middle' font-size='16.0' x='114' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='174' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='234' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='294' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='354' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='414' y='16'>2000</text>
+  <text text-anchor='middle' font-size='16.0' x='474' y='16'>2010</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -2.0l-8 0M0.0 -22.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-2.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-22.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 383.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -22.0l504.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='504' height='30.9'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record30187784000'>
+<path d='M3.000 24.7L9.000 21.7 15.000 17.1 21.000 12.9 27.000 22.2 33.000 16.7 39.000 16.3 45.000 20.1 51.000 20.1 57.000 23.2 63.000 21.1 69.000 20.3 75.000 26.4 81.000 29.5 87.000 29.2 93.000 18.6 99.000 24.3 105.000 19.6 111.000 25.0 117.000 19.0 123.000 18.5 129.000 25.9 135.000 24.7 141.000 17.8 147.000 17.5 153.000 17.5 159.000 19.4 165.000 22.5 171.000 16.6 177.000 21.0 183.000 21.4 189.000 26.6 195.000 19.7 201.000 14.3 207.000 23.0 213.000 19.7 219.000 22.6 225.000 29.5 231.000 21.5 237.000 22.7 243.000 18.3 249.000 17.1 255.000 18.2 261.000 17.2 267.000 25.3 273.000 13.9 279.000 24.3 285.000 25.6 291.000 26.3 297.000 27.5 303.000 23.1 309.000 22.6 315.000 19.3' />
+<path class='singleton' d='M327.000 0.9l 0 0' />
+<path d='M363.000 17.9L369.000 18.8 375.000 23.2 381.000 24.6 387.000 19.9 393.000 21.7 399.000 23.6 405.000 24.5 411.000 24.6 417.000 16.7 423.000 22.0 429.000 21.9 435.000 25.1 441.000 24.7 447.000 22.4 453.000 25.4 459.000 20.6 465.000 28.5 471.000 26.9 477.000 22.3 483.000 30.2 489.000 28.0 495.000 31.8 501.000 20.7' />
+</g>
+</g>
+</g>
+</g>
+</svg>

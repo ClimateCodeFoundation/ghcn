@@ -1,0 +1,52 @@
+<svg width='310px' height='168px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record40778482001 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>40778482001 +18.50-070.70  AZUA DOMINICAN REPUBLIC</text>
+</g>
+<g transform='translate(0, 12.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>40778482001</text>
+  <g class='record40778482001'><path d='M0.0 32l120.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M54 16.0l0 -28.0M114 16.0l0 -28.0' />
+  <text text-anchor='middle' font-size='16.0' x='54' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='114' y='16'>1970</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -5.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-5.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 394.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -5.0l120.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='120' height='10.1'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record40778482001'>
+<path d='M3.000 8.6L9.000 5.7 15.000 6.0 21.000 1.9 27.000 1.1 33.000 2.6' />
+<path d='M51.000 7.5L57.000 4.6 63.000 7.6' />
+<path d='M81.000 2.1L87.000 2.2 93.000 11.2' />
+<path d='M105.000 7.5L111.000 8.7 117.000 6.7' />
+</g>
+</g>
+</g>
+</g>
+</svg>

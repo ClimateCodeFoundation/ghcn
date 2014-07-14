@@ -1,0 +1,55 @@
+<svg width='556px' height='187px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record40371894002 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>40371894002 +49.15-125.90  CLAYOQUOT,BC</text>
+</g>
+<g transform='translate(0, 31.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>40371894002</text>
+  <g class='record40371894002'><path d='M0.0 32l366.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M24 16.0l0 -47.0M84 16.0l0 -47.0M144 16.0l0 -47.0M204 16.0l0 -47.0M264 16.0l0 -47.0M324 16.0l0 -47.0' />
+  <text text-anchor='middle' font-size='16.0' x='24' y='16'>1900</text>
+  <text text-anchor='middle' font-size='16.0' x='84' y='16'>1910</text>
+  <text text-anchor='middle' font-size='16.0' x='144' y='16'>1920</text>
+  <text text-anchor='middle' font-size='16.0' x='204' y='16'>1930</text>
+  <text text-anchor='middle' font-size='16.0' x='264' y='16'>1940</text>
+  <text text-anchor='middle' font-size='16.0' x='324' y='16'>1950</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -16.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-16.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 384.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -16.0l366.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='366' height='29.2'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record40371894002'>
+<path d='M3.000 13.0L9.000 22.4 15.000 16.8 21.000 8.1 27.000 19.0 33.000 15.4 39.000 17.9 45.000 9.4 51.000 14.6 57.000 18.7 63.000 26.1 69.000 22.9 75.000 16.3 81.000 4.8 87.000 12.4 93.000 9.1 99.000 18.4 105.000 14.6 111.000 21.8 117.000 30.4' />
+<path d='M141.000 1.1L147.000 11.1 153.000 10.6 159.000 8.0 165.000 19.3 171.000 21.1' />
+<path d='M183.000 25.4L189.000 13.1 195.000 17.0 201.000 12.5 207.000 17.2 213.000 19.6 219.000 18.2 225.000 15.4 231.000 19.6 237.000 12.4 243.000 18.3 249.000 10.4 255.000 14.6 261.000 17.9 267.000 27.5 273.000 27.0 279.000 17.7 285.000 12.1 291.000 23.1 297.000 16.8 303.000 13.1 309.000 19.1 315.000 13.5 321.000 10.1 327.000 9.3 333.000 11.2 339.000 14.8 345.000 18.3 351.000 12.2 357.000 4.8 363.000 8.2' />
+</g>
+</g>
+</g>
+</g>
+</svg>

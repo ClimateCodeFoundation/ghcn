@@ -1,0 +1,50 @@
+<svg width='262px' height='217px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record64917085002 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>64917085002 +40.60+035.70  GOKHOYUK</text>
+</g>
+<g transform='translate(0, 61.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>64917085002</text>
+  <g class='record64917085002'><path d='M0.0 32l72.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M54 16.0l0 -77.0' />
+  <text text-anchor='middle' font-size='16.0' x='54' y='16'>1970</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -6.0l-8 0M0.0 -26.0l-8 0M0.0 -46.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-6.0'>-4</text>
+  <text alignment-baseline='middle' x='-8.0' y='-26.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-46.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 369.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -46.0l72.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='72' height='59.4'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record64917085002'>
+<path d='M3.000 39.7L9.000 56.0 15.000 46.7 21.000 39.3 27.000 42.8 33.000 60.4 39.000 35.2 45.000 47.5 51.000 44.7 57.000 56.5 63.000 49.6 69.000 1.1' />
+</g>
+</g>
+</g>
+</g>
+</svg>

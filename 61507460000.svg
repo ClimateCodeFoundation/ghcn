@@ -1,0 +1,65 @@
+<svg width='1144px' height='194px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record61507460000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>61507460000 +45.78+003.17  CLERMONT-FERR</text>
+</g>
+<g transform='translate(0, 38.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>61507460000</text>
+  <g class='record61507460000'><path d='M0.0 32l954.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M24 16.0l0 -54.0M84 16.0l0 -54.0M144 16.0l0 -54.0M204 16.0l0 -54.0M264 16.0l0 -54.0M324 16.0l0 -54.0M384 16.0l0 -54.0M444 16.0l0 -54.0M504 16.0l0 -54.0M564 16.0l0 -54.0M624 16.0l0 -54.0M684 16.0l0 -54.0M744 16.0l0 -54.0M804 16.0l0 -54.0M864 16.0l0 -54.0M924 16.0l0 -54.0' />
+  <text text-anchor='middle' font-size='16.0' x='24' y='16'>1860</text>
+  <text text-anchor='middle' font-size='16.0' x='84' y='16'>1870</text>
+  <text text-anchor='middle' font-size='16.0' x='144' y='16'>1880</text>
+  <text text-anchor='middle' font-size='16.0' x='204' y='16'>1890</text>
+  <text text-anchor='middle' font-size='16.0' x='264' y='16'>1900</text>
+  <text text-anchor='middle' font-size='16.0' x='324' y='16'>1910</text>
+  <text text-anchor='middle' font-size='16.0' x='384' y='16'>1920</text>
+  <text text-anchor='middle' font-size='16.0' x='444' y='16'>1930</text>
+  <text text-anchor='middle' font-size='16.0' x='504' y='16'>1940</text>
+  <text text-anchor='middle' font-size='16.0' x='564' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='624' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='684' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='744' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='804' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='864' y='16'>2000</text>
+  <text text-anchor='middle' font-size='16.0' x='924' y='16'>2010</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -19.0l-8 0M0.0 -39.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-19.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-39.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 381.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -19.0l954.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='954' height='36.7'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record61507460000'>
+<path d='M3.000 6.3L9.000 19.7 15.000 9.2 21.000 17.4 27.000 0.8 33.000 12.6 39.000 20.3 45.000 19.6 51.000 7.1 57.000 18.2 63.000 21.9' />
+<path d='M873.000 13.3L879.000 29.0 885.000 30.6 891.000 19.3 897.000 19.5 903.000 26.8 909.000 23.4 915.000 18.5 921.000 25.7 927.000 12.2 933.000 35.7 939.000 24.0 945.000 17.2 951.000 37.5' />
+</g>
+</g>
+</g>
+</g>
+</svg>

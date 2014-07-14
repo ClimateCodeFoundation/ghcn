@@ -1,0 +1,52 @@
+<svg width='520px' height='187px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record30886248000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>30886248000 -25.53-054.60  PUERTO STROESSNER      PARAGUA</text>
+</g>
+<g transform='translate(0, 31.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>30886248000</text>
+  <g class='record30886248000'><path d='M0.0 32l330.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M42 16.0l0 -47.0M102 16.0l0 -47.0M162 16.0l0 -47.0M222 16.0l0 -47.0M282 16.0l0 -47.0' />
+  <text text-anchor='middle' font-size='16.0' x='42' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='102' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='162' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='222' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='282' y='16'>2000</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -12.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-12.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 384.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -12.0l330.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='330' height='29.2'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record30886248000'>
+<path d='M3.000 13.2L9.000 10.0 15.000 6.9 21.000 2.8 27.000 7.6 33.000 11.0 39.000 8.9 45.000 5.1 51.000 14.5 57.000 1.1 63.000 16.5 69.000 8.3 75.000 10.4 81.000 8.4 87.000 21.8 93.000 14.0 99.000 16.6 105.000 14.3 111.000 5.5 117.000 10.9 123.000 10.2 129.000 5.5 135.000 11.4 141.000 5.2 147.000 19.5 153.000 13.2 159.000 7.4 165.000 12.2 171.000 10.7 177.000 13.7 183.000 9.7 189.000 14.1 195.000 12.9 201.000 12.3 207.000 9.7 213.000 11.6 219.000 4.9 225.000 9.0 231.000 18.3 237.000 12.6 243.000 12.2 249.000 19.6 255.000 17.7 261.000 11.8 267.000 20.1 273.000 15.0 279.000 16.6 285.000 15.7 291.000 27.2 297.000 30.4 303.000 19.4 309.000 13.2 315.000 18.5 321.000 20.6 327.000 17.5' />
+</g>
+</g>
+</g>
+</g>
+</svg>

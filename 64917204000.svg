@@ -1,0 +1,55 @@
+<svg width='496px' height='200px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record64917204000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>64917204000 +38.73+041.52  MUS                            1</text>
+</g>
+<g transform='translate(0, 44.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>64917204000</text>
+  <g class='record64917204000'><path d='M0.0 32l306.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M36 16.0l0 -60.0M96 16.0l0 -60.0M156 16.0l0 -60.0M216 16.0l0 -60.0M276 16.0l0 -60.0' />
+  <text text-anchor='middle' font-size='16.0' x='36' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='96' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='156' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='216' y='16'>2000</text>
+  <text text-anchor='middle' font-size='16.0' x='276' y='16'>2010</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -17.0l-8 0M0.0 -37.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-17.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-37.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 378.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -17.0l306.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='306' height='41.7'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record64917204000'>
+<path d='M3.000 12.4L9.000 13.1 15.000 41.2 21.000 1.0 27.000 13.7 33.000 14.1 39.000 26.7 45.000 15.9 51.000 4.6 57.000 10.8 63.000 15.1 69.000 8.6 75.000 6.5 81.000 14.7 87.000 30.0' />
+<path d='M99.000 22.4L105.000 22.1 111.000 6.2 117.000 20.9 123.000 25.1 129.000 26.0 135.000 15.8 141.000 14.4 147.000 7.3 153.000 20.3 159.000 11.7' />
+<path d='M255.000 16.3L261.000 11.2 267.000 19.8 273.000 18.2 279.000 42.7 285.000 11.8 291.000 22.3 297.000 19.8 303.000 25.5' />
+</g>
+</g>
+</g>
+</g>
+</svg>

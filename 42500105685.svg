@@ -1,0 +1,65 @@
+<svg width='910px' height='205px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record42500105685 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>42500105685 +44.57-113.90  MAY 2SSE</text>
+</g>
+<g transform='translate(0, 49.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>42500105685</text>
+  <g class='record42500105685'><path d='M0.0 32l720.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M30 16.0l0 -65.0M90 16.0l0 -65.0M150 16.0l0 -65.0M210 16.0l0 -65.0M270 16.0l0 -65.0M330 16.0l0 -65.0M390 16.0l0 -65.0M450 16.0l0 -65.0M510 16.0l0 -65.0M570 16.0l0 -65.0M630 16.0l0 -65.0M690 16.0l0 -65.0' />
+  <text text-anchor='middle' font-size='16.0' x='30' y='16'>1900</text>
+  <text text-anchor='middle' font-size='16.0' x='90' y='16'>1910</text>
+  <text text-anchor='middle' font-size='16.0' x='150' y='16'>1920</text>
+  <text text-anchor='middle' font-size='16.0' x='210' y='16'>1930</text>
+  <text text-anchor='middle' font-size='16.0' x='270' y='16'>1940</text>
+  <text text-anchor='middle' font-size='16.0' x='330' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='390' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='450' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='510' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='570' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='630' y='16'>2000</text>
+  <text text-anchor='middle' font-size='16.0' x='690' y='16'>2010</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -2.0l-8 0M0.0 -22.0l-8 0M0.0 -42.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-2.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-22.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-42.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 375.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -22.0l720.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='720' height='46.2'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record42500105685'>
+<path d='M3.000 22.6L9.000 35.4 15.000 24.5 21.000 47.7 27.000 34.1 33.000 41.9 39.000 30.5 45.000 24.4' />
+<path d='M123.000 21.6L129.000 7.8 135.000 20.9 141.000 17.6 147.000 14.7 153.000 10.9 159.000 21.8 165.000 1.5 171.000 13.7 177.000 6.6' />
+<path d='M189.000 27.8L195.000 13.0 201.000 15.5 207.000 8.7 213.000 7.7 219.000 2.4 225.000 4.3 231.000 22.0 237.000 40.4 243.000 10.0 249.000 15.9 255.000 14.8 261.000 20.6 267.000 29.6 273.000 29.2 279.000 22.1 285.000 6.0 291.000 15.7 297.000 10.1 303.000 20.1 309.000 23.4 315.000 23.3 321.000 15.2 327.000 18.0 333.000 23.7 339.000 13.1 345.000 13.8 351.000 31.6 357.000 28.9 363.000 7.9 369.000 12.5 375.000 14.6 381.000 20.4 387.000 21.2 393.000 15.2 399.000 26.7 405.000 19.6 411.000 25.3 417.000 12.5 423.000 17.1 429.000 31.2 435.000 28.5 441.000 19.9 447.000 26.5 453.000 23.8 459.000 16.1 465.000 23.1 471.000 25.5 477.000 24.7 483.000 14.6 489.000 18.3 495.000 27.2 501.000 20.7 507.000 24.5 513.000 26.4 519.000 32.4 525.000 12.7 531.000 21.4 537.000 9.7 543.000 6.4 549.000 28.7' />
+<path d='M561.000 24.9L567.000 29.6 573.000 33.6 579.000 29.5 585.000 39.5 591.000 12.4 597.000 36.2 603.000 30.0 609.000 32.5' />
+<path d='M633.000 20.5L639.000 32.1 645.000 35.7 651.000 41.8 657.000 39.0 663.000 31.0 669.000 34.1 675.000 42.3 681.000 31.8 687.000 31.2 693.000 29.1 699.000 27.3 705.000 42.4 711.000 33.0 717.000 46.7' />
+</g>
+</g>
+</g>
+</g>
+</svg>

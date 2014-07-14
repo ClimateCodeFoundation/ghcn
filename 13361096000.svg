@@ -1,0 +1,55 @@
+<svg width='574px' height='183px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record13361096000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>13361096000 +13.23+011.98  MAINE-SOROA</text>
+</g>
+<g transform='translate(0, 27.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>13361096000</text>
+  <g class='record13361096000'><path d='M0.0 32l384.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M54 16.0l0 -43.0M114 16.0l0 -43.0M174 16.0l0 -43.0M234 16.0l0 -43.0M294 16.0l0 -43.0M354 16.0l0 -43.0' />
+  <text text-anchor='middle' font-size='16.0' x='54' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='114' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='174' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='234' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='294' y='16'>2000</text>
+  <text text-anchor='middle' font-size='16.0' x='354' y='16'>2010</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -12.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-12.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 386.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -12.0l384.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='384' height='25.3'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record13361096000'>
+<path d='M3.000 9.0L9.000 7.5 15.000 4.3 21.000 10.1 27.000 8.3 33.000 5.9 39.000 8.6 45.000 13.8 51.000 7.8 57.000 12.3 63.000 0.5 69.000 9.2 75.000 12.8 81.000 6.7 87.000 6.5 93.000 6.7 99.000 7.5 105.000 9.5 111.000 20.8 117.000 12.1 123.000 6.7 129.000 11.3 135.000 16.6 141.000 3.9 147.000 6.5 153.000 11.4 159.000 4.2 165.000 8.6 171.000 13.8 177.000 13.1 183.000 9.0 189.000 13.9 195.000 11.4 201.000 15.5 207.000 9.5 213.000 16.1 219.000 17.2 225.000 11.1 231.000 0.7' />
+<path class='singleton' d='M243.000 17.8l 0 0' />
+<path d='M255.000 15.1L261.000 10.3 267.000 14.4 273.000 16.5 279.000 11.8 285.000 22.6 291.000 25.0 297.000 8.7 303.000 3.5 309.000 23.3 315.000 13.6 321.000 18.1 327.000 18.6 333.000 22.6 339.000 20.2 345.000 14.8 351.000 25.8 357.000 25.9 363.000 16.5 369.000 18.8 375.000 22.1 381.000 22.1' />
+</g>
+</g>
+</g>
+</g>
+</svg>

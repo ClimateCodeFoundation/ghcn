@@ -1,0 +1,57 @@
+<svg width='352px' height='320px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record40371949002 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>40371949002 +62.10-136.30  CARMACKS,YT</text>
+</g>
+<g transform='translate(0, 164.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>40371949002</text>
+  <g class='record40371949002'><path d='M0.0 32l162.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M42 16.0l0 -180.0M102 16.0l0 -180.0M162 16.0l0 -180.0' />
+  <text text-anchor='middle' font-size='16.0' x='42' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='102' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='162' y='16'>1990</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -19.0l-8 0M0.0 -39.0l-8 0M0.0 -59.0l-8 0M0.0 -79.0l-8 0M0.0 -99.0l-8 0M0.0 -119.0l-8 0M0.0 -139.0l-8 0M0.0 -159.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-19.0'>-12</text>
+  <text alignment-baseline='middle' x='-8.0' y='-39.0'>-10</text>
+  <text alignment-baseline='middle' x='-8.0' y='-59.0'>-8</text>
+  <text alignment-baseline='middle' x='-8.0' y='-79.0'>-6</text>
+  <text alignment-baseline='middle' x='-8.0' y='-99.0'>-4</text>
+  <text alignment-baseline='middle' x='-8.0' y='-119.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-139.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-159.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 318.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -139.0l162.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='162' height='162.5'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record40371949002'>
+<path d='M3.000 153.2L9.000 128.3 15.000 132.3 21.000 0.6 27.000 151.2 33.000 140.5 39.000 136.5 45.000 139.9 51.000 128.0 57.000 112.6 63.000 123.7 69.000 140.6 75.000 125.6 81.000 158.1 87.000 154.8 93.000 152.4 99.000 149.2 105.000 142.1 111.000 163.1 117.000 122.1 123.000 132.9 129.000 147.1 135.000 161.5 141.000 141.5 147.000 150.8 153.000 145.3 159.000 134.7' />
+</g>
+</g>
+</g>
+</g>
+</svg>

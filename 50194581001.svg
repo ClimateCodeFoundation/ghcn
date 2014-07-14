@@ -1,0 +1,49 @@
+<svg width='256px' height='175px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record50194581001 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>50194581001 -28.00+153.00  BEAUDESERT COMPOSITE</text>
+</g>
+<g transform='translate(0, 19.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>50194581001</text>
+  <g class='record50194581001'><path d='M0.0 32l66.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M6 16.0l0 -35.0M66 16.0l0 -35.0' />
+  <text text-anchor='middle' font-size='16.0' x='6' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='66' y='16'>1980</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -7.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-7.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 390.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -7.0l66.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='66' height='17.1'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record50194581001'>
+<path d='M3.000 1.3L9.000 4.1 15.000 4.7 21.000 5.7 27.000 18.4 33.000 2.7 39.000 5.6 45.000 2.6 51.000 14.2 57.000 4.8 63.000 9.2' />
+</g>
+</g>
+</g>
+</g>
+</svg>

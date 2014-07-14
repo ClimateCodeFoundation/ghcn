@@ -1,0 +1,57 @@
+<svg width='586px' height='192px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record42572513000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>42572513000 +41.33-075.73  WILKES-BARRE-</text>
+</g>
+<g transform='translate(0, 36.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>42572513000</text>
+  <g class='record42572513000'><path d='M0.0 32l396.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M6 16.0l0 -52.0M66 16.0l0 -52.0M126 16.0l0 -52.0M186 16.0l0 -52.0M246 16.0l0 -52.0M306 16.0l0 -52.0M366 16.0l0 -52.0' />
+  <text text-anchor='middle' font-size='16.0' x='6' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='66' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='126' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='186' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='246' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='306' y='16'>2000</text>
+  <text text-anchor='middle' font-size='16.0' x='366' y='16'>2010</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -14.0l-8 0M0.0 -34.0l-8 0M0.0 -54.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-14.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-34.0'>2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-54.0'>4</text>
+  <defs><path id='pvlabel' d='M-48 382.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -14.0l396.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='396' height='33.7'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record42572513000'>
+<path d='M3.000 24.0L9.000 6.3 15.000 13.0 21.000 16.7 27.000 25.0 33.000 16.6 39.000 12.7 45.000 9.2 51.000 15.8 57.000 2.5 63.000 20.1 69.000 7.2 75.000 9.6 81.000 3.0 87.000 3.8 93.000 10.6 99.000 8.3 105.000 9.5 111.000 6.0 117.000 8.7 123.000 8.6 129.000 8.7 135.000 11.9 141.000 7.0 147.000 22.2 153.000 12.8 159.000 11.1 165.000 4.5 171.000 11.8 177.000 6.6 183.000 14.3 189.000 13.1 195.000 13.2 201.000 10.1 207.000 13.6' />
+<path d='M219.000 12.7L225.000 12.7 231.000 13.2 237.000 10.4 243.000 6.2 249.000 25.8 255.000 26.7 261.000 8.4 267.000 10.3 273.000 7.8 279.000 14.5 285.000 10.5 291.000 9.7 297.000 30.6 303.000 23.5 309.000 11.1 315.000 21.9 321.000 24.9 327.000 11.1 333.000 14.3 339.000 20.8 345.000 24.8 351.000 16.7 357.000 15.4 363.000 13.3 369.000 24.0 375.000 23.7 381.000 34.7 387.000 19.6 393.000 0.9' />
+</g>
+</g>
+</g>
+</g>
+</svg>

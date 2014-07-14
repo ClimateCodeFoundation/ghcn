@@ -1,0 +1,57 @@
+<svg width='526px' height='221px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record42574750001 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>42574750001 +31.23-094.75  LUFKIN/FAA AIRPORT</text>
+</g>
+<g transform='translate(0, 65.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>42574750001</text>
+  <g class='record42574750001'><path d='M0.0 32l336.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M6 16.0l0 -81.0M66 16.0l0 -81.0M126 16.0l0 -81.0M186 16.0l0 -81.0M246 16.0l0 -81.0M306 16.0l0 -81.0' />
+  <text text-anchor='middle' font-size='16.0' x='6' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='66' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='126' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='186' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='246' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='306' y='16'>2000</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -7.0l-8 0M0.0 -27.0l-8 0M0.0 -47.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-7.0'>-4</text>
+  <text alignment-baseline='middle' x='-8.0' y='-27.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-47.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 367.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -47.0l336.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='336' height='62.8'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record42574750001'>
+<path d='M3.000 51.3L9.000 47.6 15.000 49.8 21.000 45.0 27.000 49.4 33.000 52.7 39.000 49.9 45.000 52.0 51.000 45.9 57.000 37.6 63.000 39.3 69.000 37.8 75.000 36.8 81.000 45.9 87.000 44.4 93.000 42.9 99.000 51.2 105.000 40.5 111.000 50.2' />
+<path d='M123.000 49.9L129.000 44.4 135.000 50.4 141.000 46.9 147.000 41.4 153.000 46.3 159.000 47.6 165.000 33.2 171.000 22.2 177.000 39.4 183.000 37.5 189.000 47.4 195.000 47.9 201.000 49.8 207.000 36.3 213.000 50.2 219.000 48.2 225.000 62.9' />
+<path d='M243.000 1.0L249.000 58.7 255.000 52.9 261.000 46.2 267.000 43.2 273.000 49.7 279.000 52.6 285.000 55.2 291.000 46.2 297.000 63.8 303.000 57.7 309.000 55.2 315.000 48.8 321.000 51.2 327.000 49.2 333.000 51.6' />
+</g>
+</g>
+</g>
+</g>
+</svg>

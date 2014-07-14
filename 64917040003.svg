@@ -1,0 +1,52 @@
+<svg width='352px' height='182px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record64917040003 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>64917040003 +41.20+040.90  PAZAR RIZE</text>
+</g>
+<g transform='translate(0, 26.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>64917040003</text>
+  <g class='record64917040003'><path d='M0.0 32l162.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M36 16.0l0 -42.0M96 16.0l0 -42.0M156 16.0l0 -42.0' />
+  <text text-anchor='middle' font-size='16.0' x='36' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='96' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='156' y='16'>1990</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -10.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-10.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 387.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -10.0l162.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='162' height='23.6'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record64917040003'>
+<path d='M3.000 3.1L9.000 9.1 15.000 24.6' />
+<path d='M27.000 10.6L33.000 9.6 39.000 16.8 45.000 9.5 51.000 9.2 57.000 4.9 63.000 8.4 69.000 15.1 75.000 3.2 81.000 8.6 87.000 11.3 93.000 21.7 99.000 13.1 105.000 19.6 111.000 9.5 117.000 12.1' />
+<path d='M129.000 8.2L135.000 10.7 141.000 1.1 147.000 3.3 153.000 3.7 159.000 6.6' />
+</g>
+</g>
+</g>
+</g>
+</svg>

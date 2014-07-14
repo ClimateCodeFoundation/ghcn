@@ -1,0 +1,56 @@
+<svg width='574px' height='180px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record30886086000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>30886086000 -22.28-057.87  PUERTO CASADO</text>
+</g>
+<g transform='translate(0, 24.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>30886086000</text>
+  <g class='record30886086000'><path d='M0.0 32l384.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M54 16.0l0 -40.0M114 16.0l0 -40.0M174 16.0l0 -40.0M234 16.0l0 -40.0M294 16.0l0 -40.0M354 16.0l0 -40.0' />
+  <text text-anchor='middle' font-size='16.0' x='54' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='114' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='174' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='234' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='294' y='16'>2000</text>
+  <text text-anchor='middle' font-size='16.0' x='354' y='16'>2010</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -13.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-13.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 388.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -13.0l384.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='384' height='22.3'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record30886086000'>
+<path d='M3.000 11.0L9.000 8.1 15.000 12.4 21.000 11.6 27.000 9.1 33.000 0.6 39.000 3.5 45.000 7.3 51.000 12.5 57.000 6.3 63.000 15.4 69.000 3.6 75.000 19.9 81.000 5.7 87.000 8.5 93.000 12.0 99.000 14.2' />
+<path d='M129.000 13.0L135.000 10.7 141.000 8.8' />
+<path d='M159.000 21.8L165.000 16.6 171.000 12.3 177.000 12.1 183.000 13.8 189.000 15.4 195.000 6.0 201.000 14.8 207.000 14.4 213.000 16.1 219.000 8.1 225.000 10.9 231.000 9.5 237.000 11.2 243.000 17.7 249.000 7.8 255.000 11.6 261.000 22.4 267.000 13.1 273.000 13.0 279.000 20.7 285.000 11.2 291.000 16.8 297.000 22.5' />
+<path d='M321.000 8.9L327.000 15.2 333.000 21.7 339.000 14.4 345.000 16.2 351.000 21.1 357.000 14.4 363.000 19.7 369.000 22.9 375.000 20.1 381.000 18.5' />
+</g>
+</g>
+</g>
+</g>
+</svg>

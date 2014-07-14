@@ -1,0 +1,60 @@
+<svg width='904px' height='183px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record42500047916 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>42500047916 +36.99-121.99  SANTA CRUZ</text>
+</g>
+<g transform='translate(0, 27.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>42500047916</text>
+  <g class='record42500047916'><path d='M0.0 32l714.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M42 16.0l0 -43.0M102 16.0l0 -43.0M162 16.0l0 -43.0M222 16.0l0 -43.0M282 16.0l0 -43.0M342 16.0l0 -43.0M402 16.0l0 -43.0M462 16.0l0 -43.0M522 16.0l0 -43.0M582 16.0l0 -43.0M642 16.0l0 -43.0M702 16.0l0 -43.0' />
+  <text text-anchor='middle' font-size='16.0' x='42' y='16'>1900</text>
+  <text text-anchor='middle' font-size='16.0' x='102' y='16'>1910</text>
+  <text text-anchor='middle' font-size='16.0' x='162' y='16'>1920</text>
+  <text text-anchor='middle' font-size='16.0' x='222' y='16'>1930</text>
+  <text text-anchor='middle' font-size='16.0' x='282' y='16'>1940</text>
+  <text text-anchor='middle' font-size='16.0' x='342' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='402' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='462' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='522' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='582' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='642' y='16'>2000</text>
+  <text text-anchor='middle' font-size='16.0' x='702' y='16'>2010</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -11.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-11.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 386.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -11.0l714.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='714' height='24.8'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record42500047916'>
+<path d='M3.000 10.1L9.000 14.4 15.000 15.0 21.000 10.2 27.000 5.5 33.000 8.5 39.000 2.8 45.000 12.0 51.000 2.9 57.000 2.2 63.000 3.3 69.000 7.0 75.000 7.6 81.000 15.4 87.000 11.5 93.000 3.0 99.000 2.9 105.000 5.1 111.000 1.2 117.000 9.2 123.000 7.5 129.000 9.2 135.000 7.8 141.000 1.6 147.000 3.1 153.000 7.1 159.000 2.8 165.000 4.0 171.000 9.4 177.000 3.3 183.000 9.0 189.000 4.9 195.000 13.6 201.000 20.8 207.000 7.6 213.000 7.9 219.000 3.8 225.000 15.9 231.000 20.8 237.000 8.4 243.000 2.9 249.000 18.8 255.000 12.2 261.000 18.9 267.000 8.9 273.000 11.5 279.000 13.1 285.000 13.1 291.000 17.4 297.000 4.7 303.000 11.2 309.000 8.8 315.000 6.3 321.000 4.5 327.000 13.1' />
+<path d='M345.000 26.0L351.000 7.6 357.000 7.7 363.000 7.5 369.000 9.8 375.000 1.7 381.000 6.4 387.000 15.1 393.000 22.1 399.000 19.9 405.000 11.0 411.000 15.1 417.000 8.4 423.000 12.1 429.000 8.2 435.000 11.9 441.000 12.3 447.000 11.6 453.000 12.2 459.000 10.8 465.000 13.0 471.000 5.4 477.000 14.4 483.000 10.4 489.000 7.4 495.000 5.3 501.000 15.3 507.000 15.7 513.000 14.3 519.000 14.9 525.000 17.2 531.000 16.8 537.000 11.6 543.000 22.2 549.000 19.5 555.000 14.0 561.000 18.9 567.000 18.3 573.000 16.4 579.000 12.1 585.000 12.3 591.000 8.8 597.000 20.7 603.000 13.8 609.000 6.9 615.000 18.0 621.000 15.9 627.000 20.4 633.000 10.8 639.000 9.2 645.000 13.3 651.000 11.0 657.000 9.1 663.000 18.1 669.000 17.2 675.000 16.8 681.000 11.4 687.000 11.9 693.000 13.6 699.000 14.9 705.000 10.7 711.000 8.6' />
+</g>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,52 @@
+<svg width='352px' height='179px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record13961881000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>13961881000 +07.95-011.77  BO</text>
+</g>
+<g transform='translate(0, 23.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>13961881000</text>
+  <g class='record13961881000'><path d='M0.0 32l162.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M12 16.0l0 -39.0M72 16.0l0 -39.0M132 16.0l0 -39.0' />
+  <text text-anchor='middle' font-size='16.0' x='12' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='72' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='132' y='16'>1990</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -17.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-17.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 388.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -17.0l162.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='162' height='20.3'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record13961881000'>
+<path d='M3.000 13.5L9.000 16.2 15.000 15.8 21.000 14.6 27.000 15.9 33.000 21.7' />
+<path d='M45.000 14.7L51.000 11.9 57.000 15.9 63.000 18.9 69.000 19.9 75.000 19.2 81.000 16.9 87.000 19.2 93.000 21.1 99.000 16.6 105.000 17.8 111.000 9.8 117.000 21.4 123.000 19.7' />
+<path d='M141.000 15.6L147.000 19.4 153.000 18.8 159.000 1.4' />
+</g>
+</g>
+</g>
+</g>
+</svg>

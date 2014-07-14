@@ -1,0 +1,51 @@
+<svg width='364px' height='167px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record10266152000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>10266152000 -07.40+020.82  DUNDO</text>
+</g>
+<g transform='translate(0, 11.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>10266152000</text>
+  <g class='record10266152000'><path d='M0.0 32l174.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M48 16.0l0 -27.0M108 16.0l0 -27.0M168 16.0l0 -27.0' />
+  <text text-anchor='middle' font-size='16.0' x='48' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='108' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='168' y='16'>1980</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -5.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-5.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 394.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -5.0l174.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='174' height='8.7'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record10266152000'>
+<path d='M3.000 5.7L9.000 5.7 15.000 1.5 21.000 4.2 27.000 3.6 33.000 5.2 39.000 7.3 45.000 6.5 51.000 4.2 57.000 3.7 63.000 2.3 69.000 4.2 75.000 2.3 81.000 3.7 87.000 5.0 93.000 2.3 99.000 3.6 105.000 7.8 111.000 6.1 117.000 3.6 123.000 7.1 129.000 10.2 135.000 2.6' />
+<path d='M147.000 4.2L153.000 6.2 159.000 5.1 165.000 7.5 171.000 5.9' />
+</g>
+</g>
+</g>
+</g>
+</svg>

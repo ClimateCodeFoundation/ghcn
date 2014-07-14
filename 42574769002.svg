@@ -1,0 +1,56 @@
+<svg width='526px' height='179px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record42574769002 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>42574769002 +33.50-090.08  GREENWOOD/FAA AIRPORT</text>
+</g>
+<g transform='translate(0, 23.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>42574769002</text>
+  <g class='record42574769002'><path d='M0.0 32l336.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M6 16.0l0 -39.0M66 16.0l0 -39.0M126 16.0l0 -39.0M186 16.0l0 -39.0M246 16.0l0 -39.0M306 16.0l0 -39.0' />
+  <text text-anchor='middle' font-size='16.0' x='6' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='66' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='126' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='186' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='246' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='306' y='16'>2000</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -11.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-11.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 388.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -11.0l336.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='336' height='20.9'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record42574769002'>
+<path d='M3.000 13.2L9.000 5.7 15.000 11.1 21.000 9.1 27.000 12.6 33.000 16.2' />
+<path d='M81.000 5.3L87.000 3.0 93.000 7.5 99.000 11.1 105.000 1.8 111.000 15.6 117.000 1.0 123.000 5.0 129.000 8.0 135.000 13.1 141.000 12.0 147.000 10.3' />
+<path d='M171.000 20.6L177.000 4.9 183.000 1.9 189.000 7.7 195.000 6.8 201.000 13.6 207.000 3.1 213.000 10.8 219.000 9.6 225.000 18.2 231.000 13.4 237.000 6.6 243.000 6.9 249.000 22.0 255.000 18.0 261.000 10.5 267.000 9.6 273.000 14.2 279.000 14.3 285.000 9.1 291.000 10.4' />
+<path d='M303.000 16.8L309.000 17.4 315.000 14.0 321.000 18.2 327.000 13.2 333.000 17.2' />
+</g>
+</g>
+</g>
+</g>
+</svg>

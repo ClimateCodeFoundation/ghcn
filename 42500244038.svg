@@ -1,0 +1,61 @@
+<svg width='856px' height='203px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record42500244038 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>42500244038 +44.87-111.34  HEBGEN DAM                     2</text>
+</g>
+<g transform='translate(0, 47.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>42500244038</text>
+  <g class='record42500244038'><path d='M0.0 32l666.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M36 16.0l0 -63.0M96 16.0l0 -63.0M156 16.0l0 -63.0M216 16.0l0 -63.0M276 16.0l0 -63.0M336 16.0l0 -63.0M396 16.0l0 -63.0M456 16.0l0 -63.0M516 16.0l0 -63.0M576 16.0l0 -63.0M636 16.0l0 -63.0' />
+  <text text-anchor='middle' font-size='16.0' x='36' y='16'>1910</text>
+  <text text-anchor='middle' font-size='16.0' x='96' y='16'>1920</text>
+  <text text-anchor='middle' font-size='16.0' x='156' y='16'>1930</text>
+  <text text-anchor='middle' font-size='16.0' x='216' y='16'>1940</text>
+  <text text-anchor='middle' font-size='16.0' x='276' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='336' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='396' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='456' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='516' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='576' y='16'>2000</text>
+  <text text-anchor='middle' font-size='16.0' x='636' y='16'>2010</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -19.0l-8 0M0.0 -39.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-19.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-39.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 376.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -19.0l666.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='666' height='45.6'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record42500244038'>
+<path d='M3.000 29.0L9.000 14.7 15.000 24.3 21.000 25.5 27.000 7.4 33.000 15.4 39.000 32.7 45.000 11.8 51.000 13.6' />
+<path d='M63.000 18.8L69.000 20.5 75.000 6.3 81.000 15.8 87.000 15.6 93.000 15.4 99.000 7.7 105.000 24.4 111.000 11.1 117.000 13.3 123.000 11.2 129.000 28.5 135.000 25.9 141.000 13.3 147.000 17.3 153.000 10.5 159.000 13.3 165.000 25.8 171.000 11.1 177.000 26.6 183.000 46.2 189.000 23.7' />
+<path d='M201.000 31.5L207.000 21.9 213.000 31.3 219.000 35.5 225.000 28.4 231.000 19.6 237.000 22.8 243.000 17.8 249.000 17.3 255.000 15.4 261.000 14.0 267.000 12.0 273.000 18.3 279.000 17.2 285.000 8.4 291.000 18.5 297.000 30.8 303.000 23.5 309.000 7.1 315.000 14.4 321.000 13.3 327.000 23.2 333.000 13.5 339.000 18.5 345.000 19.0 351.000 14.0 357.000 24.3 363.000 6.5 369.000 10.5 375.000 18.6 381.000 21.3 387.000 14.9 393.000 21.1 399.000 13.1 405.000 13.7 411.000 16.7 417.000 13.6 423.000 23.9 429.000 5.9 435.000 15.0 441.000 18.2 447.000 15.6 453.000 17.0 459.000 26.1 465.000 29.5 471.000 8.0 477.000 18.4 483.000 6.4 489.000 0.6 495.000 26.7 501.000 26.6 507.000 19.6 513.000 20.5 519.000 21.3 525.000 18.1 531.000 27.2 537.000 7.2 543.000 27.2 549.000 19.8 555.000 20.1 561.000 15.8 567.000 30.6 573.000 24.5 579.000 20.3 585.000 29.4 591.000 16.1 597.000 30.3 603.000 25.8 609.000 19.8 615.000 26.1 621.000 33.7 627.000 14.0 633.000 14.4 639.000 19.3 645.000 17.1 651.000 35.2 657.000 16.0 663.000 25.0' />
+</g>
+</g>
+</g>
+</g>
+</svg>

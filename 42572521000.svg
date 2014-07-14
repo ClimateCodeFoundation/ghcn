@@ -1,0 +1,56 @@
+<svg width='610px' height='193px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record42572521000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>42572521000 +40.92-081.43  AKRON/AKRON-CANTON REG AP</text>
+</g>
+<g transform='translate(0, 37.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>42572521000</text>
+  <g class='record42572521000'><path d='M0.0 32l420.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M36 16.0l0 -53.0M96 16.0l0 -53.0M156 16.0l0 -53.0M216 16.0l0 -53.0M276 16.0l0 -53.0M336 16.0l0 -53.0M396 16.0l0 -53.0' />
+  <text text-anchor='middle' font-size='16.0' x='36' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='96' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='156' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='216' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='276' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='336' y='16'>2000</text>
+  <text text-anchor='middle' font-size='16.0' x='396' y='16'>2010</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -15.0l-8 0M0.0 -35.0l-8 0M0.0 -55.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-15.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-35.0'>2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-55.0'>4</text>
+  <defs><path id='pvlabel' d='M-48 381.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -15.0l420.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='420' height='35.0'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record42572521000'>
+<path d='M3.000 18.1L9.000 13.2 15.000 24.2 21.000 11.7 27.000 18.0 33.000 25.1 39.000 5.3 45.000 9.6 51.000 18.8 57.000 23.5 63.000 18.5 69.000 18.1 75.000 12.0 81.000 14.3 87.000 2.5 93.000 16.4 99.000 5.4 105.000 10.3 111.000 9.5 117.000 1.4 123.000 14.1 129.000 12.6 135.000 3.6 141.000 5.8 147.000 10.7 153.000 7.5 159.000 14.4 165.000 13.9 171.000 4.1 177.000 26.8 183.000 14.0 189.000 20.1 195.000 1.3 201.000 13.9 207.000 2.3 213.000 2.0 219.000 7.1 225.000 10.7 231.000 12.5 237.000 15.9 243.000 11.9 249.000 10.7 255.000 19.4 261.000 22.1 267.000 13.7 273.000 14.6 279.000 24.6 285.000 33.4 291.000 10.9 297.000 13.9 303.000 13.8 309.000 14.0 315.000 9.3 321.000 11.2 327.000 32.9 333.000 25.7 339.000 15.1 345.000 24.7 351.000 24.2 357.000 12.4 363.000 15.7 369.000 20.1 375.000 26.3 381.000 18.6 387.000 11.2 393.000 12.2 399.000 21.2 405.000 23.8 411.000 36.3 417.000 18.7' />
+</g>
+</g>
+</g>
+</g>
+</svg>

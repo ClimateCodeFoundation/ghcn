@@ -1,0 +1,55 @@
+<svg width='532px' height='189px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record42572205002 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>42572205002 +29.18-081.05  DAYTONA BEACH/WSO AP</text>
+</g>
+<g transform='translate(0, 33.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>42572205002</text>
+  <g class='record42572205002'><path d='M0.0 32l342.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M12 16.0l0 -49.0M72 16.0l0 -49.0M132 16.0l0 -49.0M192 16.0l0 -49.0M252 16.0l0 -49.0M312 16.0l0 -49.0' />
+  <text text-anchor='middle' font-size='16.0' x='12' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='72' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='132' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='192' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='252' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='312' y='16'>2000</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -14.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-14.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 383.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -14.0l342.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='342' height='31.0'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record42572205002'>
+<path d='M3.000 19.5L9.000 15.8 15.000 8.0 21.000 8.5 27.000 8.2 33.000 14.0 39.000 7.3 45.000 7.0 51.000 3.8 57.000 12.9 63.000 2.8 69.000 13.1 75.000 2.0 81.000 5.5 87.000 5.0 93.000 5.6 99.000 9.1 105.000 5.6 111.000 6.0 117.000 9.2 123.000 1.4 129.000 5.1 135.000 12.1 141.000 10.8 147.000 15.8 153.000 12.9 159.000 15.3 165.000 17.1 171.000 2.9 177.000 8.9 183.000 13.7 189.000 9.1' />
+<path d='M201.000 2.4L207.000 20.8 213.000 6.0 219.000 14.4 225.000 21.4 231.000 23.4 237.000 15.1' />
+<path d='M249.000 23.6L255.000 32.3 261.000 29.8 267.000 19.3 273.000 17.5 279.000 25.8 285.000 19.7 291.000 13.5 297.000 21.4 303.000 30.2 309.000 24.3 315.000 17.3 321.000 21.8 327.000 28.2 333.000 21.9 339.000 19.0' />
+</g>
+</g>
+</g>
+</g>
+</svg>

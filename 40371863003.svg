@@ -1,0 +1,61 @@
+<svg width='802px' height='225px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record40371863003 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>40371863003 +50.53-103.67  INDIAN HEAD CDA,SA</text>
+</g>
+<g transform='translate(0, 69.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>40371863003</text>
+  <g class='record40371863003'><path d='M0.0 32l612.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M6 16.0l0 -85.0M66 16.0l0 -85.0M126 16.0l0 -85.0M186 16.0l0 -85.0M246 16.0l0 -85.0M306 16.0l0 -85.0M366 16.0l0 -85.0M426 16.0l0 -85.0M486 16.0l0 -85.0M546 16.0l0 -85.0M606 16.0l0 -85.0' />
+  <text text-anchor='middle' font-size='16.0' x='6' y='16'>1890</text>
+  <text text-anchor='middle' font-size='16.0' x='66' y='16'>1900</text>
+  <text text-anchor='middle' font-size='16.0' x='126' y='16'>1910</text>
+  <text text-anchor='middle' font-size='16.0' x='186' y='16'>1920</text>
+  <text text-anchor='middle' font-size='16.0' x='246' y='16'>1930</text>
+  <text text-anchor='middle' font-size='16.0' x='306' y='16'>1940</text>
+  <text text-anchor='middle' font-size='16.0' x='366' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='426' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='486' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='546' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='606' y='16'>1990</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -9.0l-8 0M0.0 -29.0l-8 0M0.0 -49.0l-8 0M0.0 -69.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-9.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-29.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-49.0'>2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-69.0'>4</text>
+  <defs><path id='pvlabel' d='M-48 365.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -29.0l612.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='612' height='66.8'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record40371863003'>
+<path d='M3.000 30.1L9.000 9.6 15.000 22.2 21.000 13.7 27.000 1.4 33.000 28.0 39.000 15.4 45.000 13.2 51.000 17.4 57.000 18.3 63.000 7.9 69.000 30.0 75.000 28.2 81.000 23.2 87.000 22.4 93.000 14.5 99.000 34.0 105.000 35.0 111.000 9.5 117.000 26.8 123.000 17.4 129.000 36.9 135.000 11.9 141.000 21.0 147.000 23.2 153.000 30.7 159.000 36.0 165.000 5.2 171.000 6.5 177.000 27.5 183.000 22.3 189.000 27.2 195.000 36.0 201.000 26.3 207.000 29.6 213.000 22.8 219.000 30.4 225.000 31.3 231.000 13.0 237.000 37.4 243.000 17.0 249.000 34.8 255.000 62.0 261.000 27.0 267.000 24.0 273.000 45.7 279.000 22.9 285.000 21.9 291.000 30.5 297.000 43.6 303.000 38.9 309.000 38.8 315.000 41.0 321.000 34.5 327.000 32.5 333.000 39.0 339.000 22.7 345.000 32.5 351.000 25.5 357.000 26.7 363.000 28.7 369.000 4.2 375.000 4.5 381.000 37.3 387.000 42.9 393.000 33.2 399.000 18.0 405.000 22.7 411.000 29.4 417.000 38.5 423.000 33.0 429.000 33.5 435.000 42.8 441.000 37.5 447.000 45.4 453.000 33.1 459.000 18.7 465.000 21.0 471.000 31.5 477.000 38.2 483.000 29.7 489.000 24.0 495.000 31.0 501.000 19.8 507.000 41.2 513.000 29.9 519.000 31.0 525.000 40.2 531.000 43.6 537.000 25.6 543.000 20.9 549.000 40.6 555.000 55.8 561.000 20.6 567.000 34.7 573.000 42.4 579.000 25.1 585.000 49.1 591.000 68.2 597.000 47.0 603.000 34.5 609.000 56.3' />
+</g>
+</g>
+</g>
+</g>
+</svg>

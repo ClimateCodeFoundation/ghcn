@@ -1,0 +1,58 @@
+<svg width='592px' height='200px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record40371733001 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>40371733001 +45.92-082.47  GORE BAY,ON</text>
+</g>
+<g transform='translate(0, 44.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>40371733001</text>
+  <g class='record40371733001'><path d='M0.0 32l402.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M18 16.0l0 -60.0M78 16.0l0 -60.0M138 16.0l0 -60.0M198 16.0l0 -60.0M258 16.0l0 -60.0M318 16.0l0 -60.0M378 16.0l0 -60.0' />
+  <text text-anchor='middle' font-size='16.0' x='18' y='16'>1920</text>
+  <text text-anchor='middle' font-size='16.0' x='78' y='16'>1930</text>
+  <text text-anchor='middle' font-size='16.0' x='138' y='16'>1940</text>
+  <text text-anchor='middle' font-size='16.0' x='198' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='258' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='318' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='378' y='16'>1980</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -3.0l-8 0M0.0 -23.0l-8 0M0.0 -43.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-3.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-23.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-43.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 378.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -23.0l402.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='402' height='42.6'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record40371733001'>
+<path d='M3.000 2.3L9.000 16.3 15.000 32.8 21.000 19.8 27.000 43.1 33.000 27.1 39.000 18.3 45.000 13.6 51.000 23.7 57.000 8.7 63.000 26.7' />
+<path d='M75.000 0.5L81.000 23.2 87.000 40.4 93.000 31.1 99.000 18.7 105.000 15.3 111.000 17.7 117.000 12.5 123.000 28.3 129.000 30.7 135.000 23.3 141.000 18.0 147.000 26.0 153.000 24.5 159.000 8.2' />
+<path d='M171.000 26.1L177.000 30.3 183.000 28.7 189.000 29.1 195.000 34.5 201.000 15.9 207.000 21.4 213.000 33.0 219.000 34.6 225.000 24.2 231.000 31.8 237.000 16.1 243.000 21.5 249.000 17.8 255.000 19.0 261.000 21.7 267.000 25.9 273.000 21.5 279.000 18.9 285.000 27.9 291.000 18.4 297.000 24.3 303.000 16.6 309.000 24.0 315.000 23.0 321.000 19.0 327.000 22.1 333.000 11.2 339.000 33.7 345.000 18.7 351.000 28.3 357.000 15.5 363.000 23.6 369.000 16.3 375.000 16.3 381.000 15.3 387.000 27.3 393.000 20.8 399.000 37.2' />
+</g>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,53 @@
+<svg width='484px' height='172px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record52891945000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>52891945000 -19.87-145.00  HEREHERETUE</text>
+</g>
+<g transform='translate(0, 16.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>52891945000</text>
+  <g class='record52891945000'><path d='M0.0 32l294.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M24 16.0l0 -32.0M84 16.0l0 -32.0M144 16.0l0 -32.0M204 16.0l0 -32.0M264 16.0l0 -32.0' />
+  <text text-anchor='middle' font-size='16.0' x='24' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='84' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='144' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='204' y='16'>2000</text>
+  <text text-anchor='middle' font-size='16.0' x='264' y='16'>2010</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -7.0l-8 0M0.0 -27.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-7.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-27.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 392.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -7.0l294.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='294' height='14.2'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record52891945000'>
+<path d='M3.000 4.7L9.000 4.5 15.000 0.9 21.000 8.2 27.000 8.6 33.000 3.5 39.000 5.0 45.000 7.7 51.000 2.6 57.000 3.3 63.000 2.4 69.000 4.3 75.000 4.6 81.000 3.0 87.000 7.8 93.000 7.7 99.000 5.0 105.000 5.2 111.000 8.1 117.000 8.0 123.000 9.4 129.000 6.6 135.000 8.5 141.000 6.0 147.000 7.4 153.000 7.7 159.000 7.7 165.000 5.7 171.000 11.6 177.000 11.2 183.000 8.5 189.000 6.5 195.000 10.0 201.000 11.0 207.000 15.1 213.000 8.4 219.000 9.3 225.000 8.1 231.000 6.0 237.000 7.2 243.000 12.2 249.000 7.2 255.000 8.0 261.000 8.2 267.000 8.7 273.000 6.7 279.000 10.6 285.000 5.2 291.000 4.4' />
+</g>
+</g>
+</g>
+</g>
+</svg>

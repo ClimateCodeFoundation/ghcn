@@ -1,0 +1,54 @@
+<svg width='424px' height='224px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record20553391000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>20553391000 +41.90+114.00  HUADE                          1</text>
+</g>
+<g transform='translate(0, 68.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>20553391000</text>
+  <g class='record20553391000'><path d='M0.0 32l234.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M48 16.0l0 -84.0M108 16.0l0 -84.0M168 16.0l0 -84.0M228 16.0l0 -84.0' />
+  <text text-anchor='middle' font-size='16.0' x='48' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='108' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='168' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='228' y='16'>1990</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -3.0l-8 0M0.0 -23.0l-8 0M0.0 -43.0l-8 0M0.0 -63.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-3.0'>-4</text>
+  <text alignment-baseline='middle' x='-8.0' y='-23.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-43.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-63.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 366.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -43.0l234.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='234' height='65.4'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record20553391000'>
+<path d='M3.000 1.4L9.000 34.7 15.000 34.7 21.000 43.6 27.000 27.6 33.000 30.3 39.000 45.4 45.000 40.8 51.000 43.3 57.000 50.5 63.000 34.6 69.000 42.0 75.000 35.7 81.000 44.4 87.000 43.8 93.000 42.0 99.000 66.8 105.000 33.3 111.000 39.2 117.000 40.0 123.000 45.8 129.000 47.7 135.000 38.4 141.000 52.9 147.000 38.8 153.000 43.4 159.000 48.6 165.000 46.4 171.000 42.9 177.000 40.4 183.000 49.4 189.000 53.4 195.000 37.9 201.000 36.9 207.000 44.7 213.000 56.4 219.000 46.3 225.000 57.1 231.000 55.8' />
+</g>
+</g>
+</g>
+</g>
+</svg>

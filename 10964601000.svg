@@ -1,0 +1,56 @@
+<svg width='544px' height='179px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record10964601000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>10964601000 +05.97+015.63  BOUAR                          1</text>
+</g>
+<g transform='translate(0, 23.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>10964601000</text>
+  <g class='record10964601000'><path d='M0.0 32l354.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M54 16.0l0 -39.0M114 16.0l0 -39.0M174 16.0l0 -39.0M234 16.0l0 -39.0M294 16.0l0 -39.0M354 16.0l0 -39.0' />
+  <text text-anchor='middle' font-size='16.0' x='54' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='114' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='174' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='234' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='294' y='16'>2000</text>
+  <text text-anchor='middle' font-size='16.0' x='354' y='16'>2010</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -8.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-8.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 388.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -8.0l354.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='354' height='21.1'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record10964601000'>
+<path d='M3.000 7.0L9.000 9.8 15.000 11.3 21.000 6.5 27.000 11.3 33.000 4.7 39.000 8.6 45.000 11.3 51.000 9.1 57.000 5.0 63.000 2.7 69.000 5.8 75.000 10.4 81.000 6.4 87.000 8.6 93.000 11.2 99.000 6.7 105.000 9.1 111.000 13.0 117.000 14.2 123.000 3.8 129.000 6.7 135.000 8.3 141.000 1.1 147.000 1.9 153.000 0.9 159.000 7.4 165.000 3.8 171.000 8.1 177.000 5.4 183.000 6.7 189.000 7.6 195.000 10.5 201.000 4.7 207.000 6.0 213.000 6.7 219.000 11.7 225.000 11.2 231.000 7.5' />
+<path class='singleton' d='M243.000 7.5l 0 0' />
+<path d='M255.000 9.5L261.000 7.4 267.000 9.1' />
+<path d='M285.000 22.0L291.000 6.2 297.000 7.8 303.000 7.9 309.000 7.5 315.000 9.4 321.000 10.7 327.000 11.2 333.000 8.2 339.000 7.4 345.000 10.7 351.000 13.3' />
+</g>
+</g>
+</g>
+</g>
+</svg>

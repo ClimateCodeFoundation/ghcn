@@ -1,0 +1,52 @@
+<svg width='418px' height='177px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record63608513000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>63608513000 +37.75-025.67  PONTA DELGADA</text>
+</g>
+<g transform='translate(0, 21.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>63608513000</text>
+  <g class='record63608513000'><path d='M0.0 32l228.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M54 16.0l0 -37.0M114 16.0l0 -37.0M174 16.0l0 -37.0' />
+  <text text-anchor='middle' font-size='16.0' x='54' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='114' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='174' y='16'>2000</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -7.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-7.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 389.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -7.0l228.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='228' height='18.9'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record63608513000'>
+<path d='M3.000 2.2L9.000 1.7 15.000 2.2 21.000 0.9 27.000 3.7 33.000 1.5 39.000 5.7 45.000 3.9 51.000 7.2 57.000 11.1 63.000 7.3 69.000 2.7 75.000 2.9 81.000 6.7 87.000 5.1 93.000 8.1 99.000 9.7 105.000 10.2 111.000 5.5 117.000 5.4 123.000 12.3 129.000 12.8 135.000 1.0 141.000 7.7 147.000 14.9 153.000 1.1' />
+<path d='M165.000 18.7L171.000 18.2 177.000 7.6 183.000 11.0 189.000 9.9 195.000 9.1' />
+<path class='singleton' d='M225.000 19.8l 0 0' />
+</g>
+</g>
+</g>
+</g>
+</svg>

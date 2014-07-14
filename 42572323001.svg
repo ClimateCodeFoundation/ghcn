@@ -1,0 +1,52 @@
+<svg width='472px' height='186px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record42572323001 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>42572323001 +34.65-086.77  HUNTSVILLE/MADISON COUNTY JET</text>
+</g>
+<g transform='translate(0, 30.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>42572323001</text>
+  <g class='record42572323001'><path d='M0.0 32l282.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M12 16.0l0 -46.0M72 16.0l0 -46.0M132 16.0l0 -46.0M192 16.0l0 -46.0M252 16.0l0 -46.0' />
+  <text text-anchor='middle' font-size='16.0' x='12' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='72' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='132' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='192' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='252' y='16'>2000</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -13.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-13.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 385.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -13.0l282.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='282' height='28.2'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record42572323001'>
+<path d='M3.000 7.6L9.000 14.2 15.000 4.1 21.000 7.2 27.000 11.7 33.000 5.8 39.000 8.5 45.000 15.1 51.000 8.0 57.000 8.8 63.000 2.5 69.000 6.5 75.000 10.0 81.000 14.1 87.000 12.0 93.000 20.9 99.000 15.8 105.000 13.1 111.000 0.9 117.000 14.5 123.000 8.3 129.000 3.8 135.000 9.8 141.000 8.3 147.000 15.5 153.000 6.1 159.000 11.9 165.000 10.1 171.000 21.4 177.000 19.4 183.000 11.7 189.000 10.0 195.000 28.5 201.000 24.5 207.000 11.2 213.000 13.0 219.000 16.0 225.000 12.7 231.000 9.5 237.000 10.0 243.000 29.0 249.000 25.0 255.000 20.1 261.000 16.5 267.000 25.2 273.000 14.5 279.000 18.3' />
+</g>
+</g>
+</g>
+</g>
+</svg>

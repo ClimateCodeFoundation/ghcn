@@ -1,0 +1,49 @@
+<svg width='280px' height='178px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record21544334001 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>21544334001 +43.60+109.60  HOVSOGOL, EAST GOVI</text>
+</g>
+<g transform='translate(0, 22.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>21544334001</text>
+  <g class='record21544334001'><path d='M0.0 32l90.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M6 16.0l0 -38.0M66 16.0l0 -38.0' />
+  <text text-anchor='middle' font-size='16.0' x='6' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='66' y='16'>1980</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -11.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-11.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 389.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -11.0l90.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='90' height='20.6'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record21544334001'>
+<path d='M3.000 1.4L9.000 0.8 15.000 6.1 21.000 16.2 27.000 14.5 33.000 3.0 39.000 21.4 45.000 6.6 51.000 11.3 57.000 17.2 63.000 16.2 69.000 9.8 75.000 7.3 81.000 19.2 87.000 10.4' />
+</g>
+</g>
+</g>
+</g>
+</svg>

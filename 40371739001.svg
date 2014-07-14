@@ -1,0 +1,54 @@
+<svg width='448px' height='226px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record40371739001 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>40371739001 +48.25-082.43  FOLEYET,ON</text>
+</g>
+<g transform='translate(0, 70.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>40371739001</text>
+  <g class='record40371739001'><path d='M0.0 32l258.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M48 16.0l0 -86.0M108 16.0l0 -86.0M168 16.0l0 -86.0M228 16.0l0 -86.0' />
+  <text text-anchor='middle' font-size='16.0' x='48' y='16'>1940</text>
+  <text text-anchor='middle' font-size='16.0' x='108' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='168' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='228' y='16'>1970</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -17.0l-8 0M0.0 -37.0l-8 0M0.0 -57.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-17.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-37.0'>2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-57.0'>4</text>
+  <defs><path id='pvlabel' d='M-48 365.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -17.0l258.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='258' height='67.6'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record40371739001'>
+<path class='singleton' d='M3.000 12.7l 0 0' />
+<path d='M63.000 13.4L69.000 17.1 75.000 25.3 81.000 11.7 87.000 13.6 93.000 29.5 99.000 22.0 105.000 26.6 111.000 10.2 117.000 13.1 123.000 30.5 129.000 33.3 135.000 19.9 141.000 26.2 147.000 11.1 153.000 16.5 159.000 14.7 165.000 11.9 171.000 15.0 177.000 22.7 183.000 11.1 189.000 2.8 195.000 19.4 201.000 10.7 207.000 13.7 213.000 5.7 219.000 17.9 225.000 18.1 231.000 14.1 237.000 15.2 243.000 1.0 249.000 27.8 255.000 68.5' />
+</g>
+</g>
+</g>
+</g>
+</svg>

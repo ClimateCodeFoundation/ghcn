@@ -1,0 +1,49 @@
+<svg width='250px' height='169px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record14063240000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>14063240000 +04.70+045.22  BELET UEN</text>
+</g>
+<g transform='translate(0, 13.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>14063240000</text>
+  <g class='record14063240000'><path d='M0.0 32l60.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M54 16.0l0 -29.0' />
+  <text text-anchor='middle' font-size='16.0' x='54' y='16'>1970</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -6.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-6.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 393.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -6.0l60.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='60' height='11.2'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record14063240000'>
+<path d='M3.000 12.0L9.000 9.5 15.000 8.0' />
+<path d='M27.000 0.8L33.000 3.9 39.000 5.5 45.000 1.4 51.000 7.9 57.000 6.1' />
+</g>
+</g>
+</g>
+</g>
+</svg>

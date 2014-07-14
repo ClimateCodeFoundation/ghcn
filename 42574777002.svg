@@ -1,0 +1,50 @@
+<svg width='268px' height='170px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record42574777002 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>42574777002 +30.42-086.68  VALPARAISO/HURLBURT FIELD</text>
+</g>
+<g transform='translate(0, 14.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>42574777002</text>
+  <g class='record42574777002'><path d='M0.0 32l78.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M12 16.0l0 -30.0M72 16.0l0 -30.0' />
+  <text text-anchor='middle' font-size='16.0' x='12' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='72' y='16'>1970</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -7.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-7.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 393.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -7.0l78.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='78' height='12.6'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record42574777002'>
+<path d='M3.000 11.0L9.000 13.4 15.000 6.8 21.000 7.3 27.000 9.6 33.000 7.3' />
+<path d='M45.000 11.1L51.000 6.7 57.000 1.4 63.000 0.9 69.000 4.2 75.000 4.3' />
+</g>
+</g>
+</g>
+</g>
+</svg>

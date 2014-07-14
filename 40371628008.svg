@@ -1,0 +1,58 @@
+<svg width='640px' height='199px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record40371628008 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>40371628008 +45.50-076.40  RENFREW SAND POINT  CANADA</text>
+</g>
+<g transform='translate(0, 43.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>40371628008</text>
+  <g class='record40371628008'><path d='M0.0 32l450.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M30 16.0l0 -59.0M90 16.0l0 -59.0M150 16.0l0 -59.0M210 16.0l0 -59.0M270 16.0l0 -59.0M330 16.0l0 -59.0M390 16.0l0 -59.0M450 16.0l0 -59.0' />
+  <text text-anchor='middle' font-size='16.0' x='30' y='16'>1890</text>
+  <text text-anchor='middle' font-size='16.0' x='90' y='16'>1900</text>
+  <text text-anchor='middle' font-size='16.0' x='150' y='16'>1910</text>
+  <text text-anchor='middle' font-size='16.0' x='210' y='16'>1920</text>
+  <text text-anchor='middle' font-size='16.0' x='270' y='16'>1930</text>
+  <text text-anchor='middle' font-size='16.0' x='330' y='16'>1940</text>
+  <text text-anchor='middle' font-size='16.0' x='390' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='450' y='16'>1960</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 0.0l-8 0M0.0 -20.0l-8 0M0.0 -40.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='0.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-20.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-40.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 378.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -20.0l450.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='450' height='41.5'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record40371628008'>
+<path d='M3.000 0.9L9.000 9.4 15.000 8.8 21.000 11.4 27.000 22.9 33.000 14.1 39.000 23.3 45.000 18.5 51.000 1.6 57.000 26.6 63.000 17.6 69.000 13.8 75.000 17.8 81.000 26.0 87.000 22.7 93.000 8.2' />
+<path d='M105.000 10.4L111.000 19.7 117.000 1.6 123.000 15.5 129.000 25.1 135.000 7.2 141.000 17.1 147.000 18.1 153.000 21.1 159.000 25.1 165.000 10.2 171.000 29.6 177.000 12.5 183.000 31.8 189.000 20.1 195.000 0.7 201.000 15.6 207.000 26.6 213.000 18.7 219.000 37.8 225.000 24.6 231.000 16.1 237.000 13.2 243.000 19.5 249.000 6.7 255.000 24.0 261.000 19.1 267.000 19.4 273.000 24.6 279.000 35.7 285.000 27.9 291.000 20.4 297.000 10.2 303.000 13.1 309.000 12.1 315.000 30.8 321.000 26.6 327.000 15.7 333.000 11.1 339.000 27.7 345.000 25.6 351.000 10.2 357.000 22.8 363.000 22.8 369.000 27.8 375.000 22.2 381.000 27.8 387.000 33.9 393.000 18.5 399.000 22.4 405.000 32.7 411.000 42.3 417.000 23.1 423.000 32.2 429.000 18.8 435.000 29.2 441.000 17.7 447.000 25.4' />
+</g>
+</g>
+</g>
+</g>
+</svg>

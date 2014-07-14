@@ -1,0 +1,50 @@
+<svg width='298px' height='173px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record64813493000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>64813493000 +42.20+022.33  KRIVA PALANKA</text>
+</g>
+<g transform='translate(0, 17.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>64813493000</text>
+  <g class='record64813493000'><path d='M0.0 32l108.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M30 16.0l0 -33.0M90 16.0l0 -33.0' />
+  <text text-anchor='middle' font-size='16.0' x='30' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='90' y='16'>1990</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -8.0l-8 0M0.0 -28.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-8.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-28.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 391.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -8.0l108.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='108' height='15.1'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record64813493000'>
+<path d='M3.000 10.5L9.000 2.0 15.000 16.1 21.000 2.4 27.000 11.5 33.000 5.7 39.000 7.5 45.000 10.1 51.000 4.4 57.000 5.2 63.000 9.4 69.000 6.6 75.000 8.9 81.000 10.2 87.000 9.1 93.000 15.7 99.000 1.0 105.000 13.4' />
+</g>
+</g>
+</g>
+</g>
+</svg>

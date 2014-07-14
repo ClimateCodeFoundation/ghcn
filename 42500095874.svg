@@ -1,0 +1,68 @@
+<svg width='934px' height='208px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record42500095874 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>42500095874 +33.08-083.25  MILLEDGEVILLE</text>
+</g>
+<g transform='translate(0, 52.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>42500095874</text>
+  <g class='record42500095874'><path d='M0.0 32l744.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M54 16.0l0 -68.0M114 16.0l0 -68.0M174 16.0l0 -68.0M234 16.0l0 -68.0M294 16.0l0 -68.0M354 16.0l0 -68.0M414 16.0l0 -68.0M474 16.0l0 -68.0M534 16.0l0 -68.0M594 16.0l0 -68.0M654 16.0l0 -68.0M714 16.0l0 -68.0' />
+  <text text-anchor='middle' font-size='16.0' x='54' y='16'>1900</text>
+  <text text-anchor='middle' font-size='16.0' x='114' y='16'>1910</text>
+  <text text-anchor='middle' font-size='16.0' x='174' y='16'>1920</text>
+  <text text-anchor='middle' font-size='16.0' x='234' y='16'>1930</text>
+  <text text-anchor='middle' font-size='16.0' x='294' y='16'>1940</text>
+  <text text-anchor='middle' font-size='16.0' x='354' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='414' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='474' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='534' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='594' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='654' y='16'>2000</text>
+  <text text-anchor='middle' font-size='16.0' x='714' y='16'>2010</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -9.0l-8 0M0.0 -29.0l-8 0M0.0 -49.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-9.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-29.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-49.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 374.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -29.0l744.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='744' height='50.7'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record42500095874'>
+<path d='M3.000 22.5L9.000 19.6 15.000 21.1' />
+<path d='M27.000 22.4L33.000 32.9 39.000 34.5' />
+<path d='M63.000 6.6L69.000 26.4 75.000 21.4 81.000 23.9 87.000 24.8 93.000 26.9 99.000 29.1 105.000 31.3 111.000 0.8 117.000 23.0 123.000 36.4 129.000 22.2 135.000 27.6 141.000 24.4 147.000 26.8 153.000 30.0 159.000 21.3 165.000 30.1' />
+<path d='M177.000 22.7L183.000 36.1 189.000 37.9 195.000 33.6 201.000 25.9 207.000 44.3 213.000 33.1 219.000 40.0 225.000 24.9 231.000 34.8 237.000 27.1 243.000 21.0 249.000 25.9 255.000 37.3 261.000 28.6 267.000 31.5 273.000 34.0 279.000 26.5 285.000 35.1 291.000 36.1 297.000 19.3 303.000 33.5 309.000 22.1 315.000 27.5 321.000 27.8 327.000 51.4 333.000 31.1 339.000 25.0 345.000 31.0 351.000 33.0 357.000 26.8 363.000 30.5 369.000 30.7 375.000 31.1 381.000 34.2 387.000 29.4 393.000 33.1 399.000 33.3 405.000 20.4 411.000 31.0 417.000 22.0 423.000 24.3 429.000 24.9 435.000 19.3 441.000 27.1 447.000 27.7 453.000 19.3 459.000 21.4 465.000 19.3 471.000 19.2 477.000 27.9 483.000 27.8 489.000 29.3 495.000 29.3 501.000 32.1 507.000 31.4 513.000 18.3 519.000 26.3 525.000 25.2 531.000 24.2 537.000 27.1 543.000 18.8 549.000 31.3 555.000 20.7 561.000 30.5' />
+<path d='M573.000 43.5L579.000 30.3 585.000 20.9 591.000 26.2 597.000 40.7 603.000 36.3 609.000 24.3 615.000 24.4' />
+<path d='M627.000 27.6L633.000 24.6 639.000 28.9' />
+<path class='singleton' d='M651.000 37.1l 0 0' />
+<path d='M663.000 37.9L669.000 35.2 675.000 29.8 681.000 36.2 687.000 33.9 693.000 38.8 699.000 39.6 705.000 32.7 711.000 31.6 717.000 31.0 723.000 39.7 729.000 45.2 735.000 31.5 741.000 17.8' />
+</g>
+</g>
+</g>
+</g>
+</svg>

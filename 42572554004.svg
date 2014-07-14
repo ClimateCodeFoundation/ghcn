@@ -1,0 +1,51 @@
+<svg width='322px' height='189px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record42572554004 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>42572554004 +41.12-095.90  OMAHA/OFFUTT AFB</text>
+</g>
+<g transform='translate(0, 33.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>42572554004</text>
+  <g class='record42572554004'><path d='M0.0 32l132.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M6 16.0l0 -49.0M66 16.0l0 -49.0M126 16.0l0 -49.0' />
+  <text text-anchor='middle' font-size='16.0' x='6' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='66' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='126' y='16'>1970</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -18.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-18.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 383.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -18.0l132.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='132' height='31.6'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record42572554004'>
+<path d='M3.000 18.1L9.000 4.5 15.000 0.9 21.000 20.6 27.000 31.6 33.000 32.5 39.000 21.3 45.000 24.7 51.000 21.1 57.000 13.9 63.000 14.6 69.000 8.3 75.000 24.3' />
+<path d='M87.000 28.6L93.000 24.5 99.000 16.2 105.000 13.7 111.000 16.9 117.000 21.7 123.000 8.5 129.000 17.1' />
+</g>
+</g>
+</g>
+</g>
+</svg>

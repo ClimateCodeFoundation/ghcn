@@ -1,0 +1,65 @@
+<svg width='1234px' height='182px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record50194975000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>50194975000 -42.83+147.48  HOBART AIRPOR</text>
+</g>
+<g transform='translate(0, 26.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>50194975000</text>
+  <g class='record50194975000'><path d='M0.0 32l1044.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M54 16.0l0 -42.0M114 16.0l0 -42.0M174 16.0l0 -42.0M234 16.0l0 -42.0M294 16.0l0 -42.0M354 16.0l0 -42.0M414 16.0l0 -42.0M474 16.0l0 -42.0M534 16.0l0 -42.0M594 16.0l0 -42.0M654 16.0l0 -42.0M714 16.0l0 -42.0M774 16.0l0 -42.0M834 16.0l0 -42.0M894 16.0l0 -42.0M954 16.0l0 -42.0M1014 16.0l0 -42.0' />
+  <text text-anchor='middle' font-size='16.0' x='54' y='16'>1850</text>
+  <text text-anchor='middle' font-size='16.0' x='114' y='16'>1860</text>
+  <text text-anchor='middle' font-size='16.0' x='174' y='16'>1870</text>
+  <text text-anchor='middle' font-size='16.0' x='234' y='16'>1880</text>
+  <text text-anchor='middle' font-size='16.0' x='294' y='16'>1890</text>
+  <text text-anchor='middle' font-size='16.0' x='354' y='16'>1900</text>
+  <text text-anchor='middle' font-size='16.0' x='414' y='16'>1910</text>
+  <text text-anchor='middle' font-size='16.0' x='474' y='16'>1920</text>
+  <text text-anchor='middle' font-size='16.0' x='534' y='16'>1930</text>
+  <text text-anchor='middle' font-size='16.0' x='594' y='16'>1940</text>
+  <text text-anchor='middle' font-size='16.0' x='654' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='714' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='774' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='834' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='894' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='954' y='16'>2000</text>
+  <text text-anchor='middle' font-size='16.0' x='1014' y='16'>2010</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -16.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-16.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 387.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -16.0l1044.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='1044' height='23.9'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record50194975000'>
+<path d='M3.000 21.3L9.000 13.7 15.000 20.4 21.000 10.4 27.000 20.8 33.000 18.0 39.000 16.3 45.000 8.4 51.000 1.2 57.000 11.6 63.000 13.3 69.000 9.5 75.000 5.2 81.000 10.2' />
+<path d='M705.000 8.0L711.000 13.9 717.000 12.1 723.000 16.7 729.000 11.6 735.000 8.9 741.000 7.9 747.000 9.5 753.000 10.6 759.000 11.9 765.000 10.9 771.000 13.6 777.000 10.8 783.000 16.7 789.000 20.2 795.000 19.2 801.000 17.4 807.000 15.2 813.000 11.6 819.000 14.7 825.000 14.7 831.000 17.5 837.000 21.7 843.000 21.7 849.000 19.3 855.000 15.5 861.000 16.2 867.000 12.9 873.000 12.8 879.000 17.1 885.000 24.2 891.000 19.7 897.000 19.2 903.000 15.9 909.000 11.5 915.000 21.9 921.000 17.7 927.000 11.0 933.000 10.3 939.000 12.7 945.000 18.9 951.000 23.2 957.000 23.7 963.000 19.0 969.000 19.5 975.000 20.7 981.000 15.9 987.000 25.0 993.000 18.2 999.000 25.0 1005.000 18.9 1011.000 21.8 1017.000 22.7 1023.000 19.0 1029.000 22.9 1035.000 24.3 1041.000 23.8' />
+</g>
+</g>
+</g>
+</g>
+</svg>

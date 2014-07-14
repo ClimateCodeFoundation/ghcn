@@ -1,0 +1,53 @@
+<svg width='412px' height='178px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record30285151000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>30285151000 -14.73-068.50  APOLO                          2</text>
+</g>
+<g transform='translate(0, 22.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>30285151000</text>
+  <g class='record30285151000'><path d='M0.0 32l222.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M54 16.0l0 -38.0M114 16.0l0 -38.0M174 16.0l0 -38.0' />
+  <text text-anchor='middle' font-size='16.0' x='54' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='114' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='174' y='16'>2000</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -11.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-11.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 389.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -11.0l222.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='222' height='19.8'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record30285151000'>
+<path d='M3.000 3.4L9.000 7.8 15.000 9.0 21.000 0.8' />
+<path d='M51.000 7.5L57.000 5.8 63.000 3.8' />
+<path d='M153.000 14.7L159.000 20.5 165.000 20.2' />
+<path d='M183.000 10.6L189.000 17.0 195.000 15.9 201.000 1.2 207.000 12.3 213.000 18.2 219.000 15.4' />
+</g>
+</g>
+</g>
+</g>
+</svg>

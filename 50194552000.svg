@@ -1,0 +1,50 @@
+<svg width='310px' height='172px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record50194552000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>50194552000 -27.42+151.73  OAKEY AERODRO</text>
+</g>
+<g transform='translate(0, 16.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>50194552000</text>
+  <g class='record50194552000'><path d='M0.0 32l120.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M42 16.0l0 -32.0M102 16.0l0 -32.0' />
+  <text text-anchor='middle' font-size='16.0' x='42' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='102' y='16'>1990</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -7.0l-8 0M0.0 -27.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-7.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-27.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 392.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -7.0l120.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='120' height='14.7'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record50194552000'>
+<path d='M3.000 15.4L9.000 0.7 15.000 4.8 21.000 1.8 27.000 11.8 33.000 1.9 39.000 10.5 45.000 14.6 51.000 7.1 57.000 3.3 63.000 8.2 69.000 1.6 75.000 4.6 81.000 8.4 87.000 10.2 93.000 8.7 99.000 3.5 105.000 9.3 111.000 15.2 117.000 4.9' />
+</g>
+</g>
+</g>
+</g>
+</svg>

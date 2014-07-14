@@ -1,0 +1,66 @@
+<svg width='940px' height='194px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record42500165026 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>42500165026 +30.20-091.99  LAFAYETTE FCWOS</text>
+</g>
+<g transform='translate(0, 38.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>42500165026</text>
+  <g class='record42500165026'><path d='M0.0 32l750.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M0 16.0l0 -54.0M60 16.0l0 -54.0M120 16.0l0 -54.0M180 16.0l0 -54.0M240 16.0l0 -54.0M300 16.0l0 -54.0M360 16.0l0 -54.0M420 16.0l0 -54.0M480 16.0l0 -54.0M540 16.0l0 -54.0M600 16.0l0 -54.0M660 16.0l0 -54.0M720 16.0l0 -54.0' />
+  <text text-anchor='middle' font-size='16.0' x='0' y='16'>1890</text>
+  <text text-anchor='middle' font-size='16.0' x='60' y='16'>1900</text>
+  <text text-anchor='middle' font-size='16.0' x='120' y='16'>1910</text>
+  <text text-anchor='middle' font-size='16.0' x='180' y='16'>1920</text>
+  <text text-anchor='middle' font-size='16.0' x='240' y='16'>1930</text>
+  <text text-anchor='middle' font-size='16.0' x='300' y='16'>1940</text>
+  <text text-anchor='middle' font-size='16.0' x='360' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='420' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='480' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='540' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='600' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='660' y='16'>2000</text>
+  <text text-anchor='middle' font-size='16.0' x='720' y='16'>2010</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -3.0l-8 0M0.0 -23.0l-8 0M0.0 -43.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-3.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-23.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-43.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 381.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -23.0l750.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='750' height='35.9'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record42500165026'>
+<path d='M3.000 26.9L9.000 20.0 15.000 15.8 21.000 31.1 27.000 28.6 33.000 19.3 39.000 29.9 45.000 24.7 51.000 23.9 57.000 20.4 63.000 23.7 69.000 18.2 75.000 24.5 81.000 12.6 87.000 21.4 93.000 18.4 99.000 23.9 105.000 27.3 111.000 26.7 117.000 25.0 123.000 22.3 129.000 37.1 135.000 17.7 141.000 19.0 147.000 18.9 153.000 18.3 159.000 22.5 165.000 16.1 171.000 18.9 177.000 22.8 183.000 18.7 189.000 33.1 195.000 28.4 201.000 21.2 207.000 17.4 213.000 24.2 219.000 18.1 225.000 32.5 231.000 15.0 237.000 17.9 243.000 17.7 249.000 20.9 255.000 21.5 261.000 32.9 267.000 23.7 273.000 24.6 279.000 19.2 285.000 20.7 291.000 24.6 297.000 24.1 303.000 1.2 309.000 24.7 315.000 15.3 321.000 20.1 327.000 26.3' />
+<path d='M345.000 27.0L351.000 23.0 357.000 28.0 363.000 25.7 369.000 26.7 375.000 20.8 381.000 25.8 387.000 26.3 393.000 24.8 399.000 24.9 405.000 27.7 411.000 14.4 417.000 20.5' />
+<path d='M429.000 16.0L435.000 22.8 441.000 21.7 447.000 20.8 453.000 25.0 459.000 13.8' />
+<path d='M471.000 6.7L477.000 19.4 483.000 18.2 489.000 21.2 495.000 28.2 501.000 19.8 507.000 25.3 513.000 20.9 519.000 11.0 525.000 22.8 531.000 15.3 537.000 13.8 543.000 19.8 549.000 21.8 555.000 24.5' />
+<path d='M567.000 29.6L573.000 23.7 579.000 27.4 585.000 20.2 591.000 19.4 597.000 18.3 603.000 32.0 609.000 26.3 615.000 21.7 621.000 19.1 627.000 24.8 633.000 26.1 639.000 23.9 645.000 23.5 651.000 35.4 657.000 33.8 663.000 26.5 669.000 23.6 675.000 24.8 681.000 24.2 687.000 28.8 693.000 30.1 699.000 32.2 705.000 28.8 711.000 23.2 717.000 26.1 723.000 20.3 729.000 29.1 735.000 33.4 741.000 21.2 747.000 3.8' />
+</g>
+</g>
+</g>
+</g>
+</svg>

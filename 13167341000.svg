@@ -1,0 +1,64 @@
+<svg width='820px' height='184px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record13167341000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>13167341000 -25.90+032.60  LOURENCO MARQUES/COUNTINHO</text>
+</g>
+<g transform='translate(0, 28.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>13167341000</text>
+  <g class='record13167341000'><path d='M0.0 32l630.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M0 16.0l0 -44.0M60 16.0l0 -44.0M120 16.0l0 -44.0M180 16.0l0 -44.0M240 16.0l0 -44.0M300 16.0l0 -44.0M360 16.0l0 -44.0M420 16.0l0 -44.0M480 16.0l0 -44.0M540 16.0l0 -44.0M600 16.0l0 -44.0' />
+  <text text-anchor='middle' font-size='16.0' x='0' y='16'>1910</text>
+  <text text-anchor='middle' font-size='16.0' x='60' y='16'>1920</text>
+  <text text-anchor='middle' font-size='16.0' x='120' y='16'>1930</text>
+  <text text-anchor='middle' font-size='16.0' x='180' y='16'>1940</text>
+  <text text-anchor='middle' font-size='16.0' x='240' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='300' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='360' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='420' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='480' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='540' y='16'>2000</text>
+  <text text-anchor='middle' font-size='16.0' x='600' y='16'>2010</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -11.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-11.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 386.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -11.0l630.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='630' height='25.9'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record13167341000'>
+<path d='M3.000 1.4L9.000 4.4 15.000 10.5 21.000 13.6 27.000 13.2 33.000 9.2 39.000 11.8 45.000 5.0 51.000 7.7 57.000 7.5 63.000 10.2 69.000 8.1 75.000 11.3 81.000 12.2 87.000 3.1 93.000 10.0 99.000 9.5 105.000 10.6 111.000 7.1 117.000 6.0 123.000 4.4 129.000 10.7 135.000 11.8 141.000 14.0 147.000 14.8 153.000 4.0 159.000 6.0 165.000 11.0 171.000 12.2 177.000 7.8 183.000 14.7 189.000 22.2 195.000 13.8 201.000 9.5 207.000 13.8 213.000 10.0 219.000 14.5 225.000 14.1 231.000 14.5 237.000 10.6 243.000 11.6 249.000 7.5 255.000 13.6 261.000 10.0 267.000 10.9 273.000 4.7 279.000 11.5' />
+<path d='M321.000 8.0L327.000 8.5 333.000 7.7 339.000 10.0' />
+<path d='M363.000 12.2L369.000 9.5 375.000 5.3 381.000 8.2 387.000 12.5 393.000 5.1 399.000 11.1 405.000 13.7 411.000 14.4 417.000 15.3 423.000 12.2 429.000 6.5 435.000 11.3 441.000 18.3 447.000 7.8 453.000 17.1 459.000 14.0 465.000 17.8 471.000 20.5' />
+<path d='M483.000 11.3L489.000 15.9 495.000 18.9 501.000 14.2' />
+<path d='M519.000 14.9L525.000 14.2 531.000 22.3' />
+<path d='M549.000 27.3L555.000 17.9' />
+<path d='M573.000 16.6L579.000 4.3 585.000 20.4 591.000 17.1 597.000 15.7 603.000 20.4 609.000 11.9 615.000 18.2 621.000 10.0 627.000 17.2' />
+</g>
+</g>
+</g>
+</g>
+</svg>

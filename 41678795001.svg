@@ -1,0 +1,48 @@
+<svg width='238px' height='170px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record41678795001 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>41678795001 +07.95-080.42  LOS SANTOS</text>
+</g>
+<g transform='translate(0, 14.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>41678795001</text>
+  <g class='record41678795001'><path d='M0.0 32l48.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M42 16.0l0 -30.0' />
+  <text text-anchor='middle' font-size='16.0' x='42' y='16'>1980</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -8.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-8.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 393.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -8.0l48.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='48' height='12.2'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record41678795001'>
+<path d='M3.000 0.7L9.000 4.9 15.000 3.4 21.000 8.5 27.000 10.2 33.000 7.5 39.000 12.9 45.000 10.6' />
+</g>
+</g>
+</g>
+</g>
+</svg>

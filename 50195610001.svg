@@ -1,0 +1,54 @@
+<svg width='538px' height='180px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record50195610001 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>50195610001 -31.98+116.07  KALAMUNDA (KALAMUNDA)</text>
+</g>
+<g transform='translate(0, 24.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>50195610001</text>
+  <g class='record50195610001'><path d='M0.0 32l348.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M12 16.0l0 -40.0M72 16.0l0 -40.0M132 16.0l0 -40.0M192 16.0l0 -40.0M252 16.0l0 -40.0M312 16.0l0 -40.0' />
+  <text text-anchor='middle' font-size='16.0' x='12' y='16'>1910</text>
+  <text text-anchor='middle' font-size='16.0' x='72' y='16'>1920</text>
+  <text text-anchor='middle' font-size='16.0' x='132' y='16'>1930</text>
+  <text text-anchor='middle' font-size='16.0' x='192' y='16'>1940</text>
+  <text text-anchor='middle' font-size='16.0' x='252' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='312' y='16'>1960</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -13.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-13.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 388.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -13.0l348.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='348' height='21.8'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record50195610001'>
+<path d='M3.000 17.8L9.000 11.4 15.000 13.2 21.000 11.8 27.000 16.0 33.000 12.8 39.000 20.5 45.000 23.2 51.000 13.5 57.000 5.0 63.000 17.7 69.000 11.8 75.000 16.1 81.000 18.8 87.000 4.8 93.000 10.4 99.000 9.9 105.000 12.1 111.000 12.1 117.000 16.4 123.000 15.3 129.000 7.7 135.000 17.8 141.000 8.2 147.000 11.7 153.000 19.7 159.000 15.3 165.000 8.3 171.000 18.2 177.000 14.2 183.000 10.5 189.000 13.6 195.000 17.3 201.000 11.5 207.000 1.4 213.000 8.3 219.000 15.7 225.000 15.1 231.000 8.0 237.000 5.0 243.000 10.7 249.000 18.5 255.000 16.2 261.000 9.7 267.000 11.6 273.000 12.4 279.000 14.0 285.000 11.0 291.000 9.9' />
+<path class='singleton' d='M345.000 22.1l 0 0' />
+</g>
+</g>
+</g>
+</g>
+</svg>

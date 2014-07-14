@@ -1,0 +1,62 @@
+<svg width='838px' height='215px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record42500254985 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>42500254985 +41.28-098.97  LOUP CITY</text>
+</g>
+<g transform='translate(0, 59.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>42500254985</text>
+  <g class='record42500254985'><path d='M0.0 32l648.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M30 16.0l0 -75.0M90 16.0l0 -75.0M150 16.0l0 -75.0M210 16.0l0 -75.0M270 16.0l0 -75.0M330 16.0l0 -75.0M390 16.0l0 -75.0M450 16.0l0 -75.0M510 16.0l0 -75.0M570 16.0l0 -75.0M630 16.0l0 -75.0' />
+  <text text-anchor='middle' font-size='16.0' x='30' y='16'>1910</text>
+  <text text-anchor='middle' font-size='16.0' x='90' y='16'>1920</text>
+  <text text-anchor='middle' font-size='16.0' x='150' y='16'>1930</text>
+  <text text-anchor='middle' font-size='16.0' x='210' y='16'>1940</text>
+  <text text-anchor='middle' font-size='16.0' x='270' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='330' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='390' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='450' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='510' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='570' y='16'>2000</text>
+  <text text-anchor='middle' font-size='16.0' x='630' y='16'>2010</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 0.0l-8 0M0.0 -20.0l-8 0M0.0 -40.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='0.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-20.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-40.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 370.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -20.0l648.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='648' height='57.4'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record42500254985'>
+<path d='M3.000 25.8L9.000 19.4 15.000 18.2 21.000 29.2 27.000 15.2 33.000 29.1 39.000 23.8 45.000 12.2 51.000 21.8 57.000 26.2 63.000 24.5 69.000 16.0 75.000 10.3 81.000 26.6 87.000 17.1 93.000 41.9' />
+<path d='M105.000 35.6L111.000 25.1 117.000 9.9 123.000 26.3 129.000 31.8 135.000 21.6 141.000 29.2 147.000 16.4 153.000 29.1 159.000 42.7 165.000 20.7 171.000 36.9 177.000 44.4 183.000 26.1 189.000 24.5 195.000 21.0 201.000 35.8 207.000 40.8 213.000 25.6 219.000 31.1 225.000 25.0 231.000 29.5 237.000 19.2 243.000 22.5 249.000 34.9 255.000 22.2 261.000 24.1 267.000 10.0 273.000 7.8 279.000 6.6 285.000 21.1 291.000 28.0 297.000 29.1 303.000 15.5 309.000 21.8 315.000 14.9 321.000 11.2 327.000 14.9 333.000 7.6 339.000 9.9 345.000 16.5 351.000 28.9 357.000 18.1 363.000 13.3 369.000 12.3 375.000 12.6 381.000 14.0 387.000 9.9 393.000 18.2 399.000 17.4 405.000 9.9 411.000 18.4 417.000 19.0 423.000 16.2 429.000 14.1 435.000 24.5 441.000 0.6 447.000 2.2 453.000 21.6 459.000 26.9 465.000 6.0 471.000 13.8 477.000 16.3' />
+<path d='M495.000 18.8L501.000 18.8 507.000 10.5 513.000 25.7 519.000 26.7 525.000 6.7 531.000 0.9 537.000 18.1 543.000 16.6 549.000 2.3 555.000 15.1 561.000 27.6 567.000 26.6 573.000 5.3 579.000 22.4 585.000 29.0 591.000 19.9 597.000 18.2 603.000 24.3 609.000 26.3 615.000 18.5 621.000 8.1 627.000 7.0 633.000 18.0 639.000 13.0 645.000 57.9' />
+</g>
+</g>
+</g>
+</g>
+</svg>

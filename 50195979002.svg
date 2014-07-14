@@ -1,0 +1,58 @@
+<svg width='550px' height='211px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record50195979002 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>50195979002 -42.92+147.25  THE SPRINGS (MOUNTAIN LODGE)</text>
+</g>
+<g transform='translate(0, 55.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>50195979002</text>
+  <g class='record50195979002'><path d='M0.0 32l360.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M12 16.0l0 -71.0M72 16.0l0 -71.0M132 16.0l0 -71.0M192 16.0l0 -71.0M252 16.0l0 -71.0M312 16.0l0 -71.0' />
+  <text text-anchor='middle' font-size='16.0' x='12' y='16'>1910</text>
+  <text text-anchor='middle' font-size='16.0' x='72' y='16'>1920</text>
+  <text text-anchor='middle' font-size='16.0' x='132' y='16'>1930</text>
+  <text text-anchor='middle' font-size='16.0' x='192' y='16'>1940</text>
+  <text text-anchor='middle' font-size='16.0' x='252' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='312' y='16'>1960</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -10.0l-8 0M0.0 -30.0l-8 0M0.0 -50.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-10.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-30.0'>2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-50.0'>4</text>
+  <defs><path id='pvlabel' d='M-48 372.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -10.0l360.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='360' height='53.2'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record50195979002'>
+<path d='M3.000 12.7L9.000 5.9 15.000 17.4 21.000 12.3 27.000 13.2 33.000 8.3 39.000 13.6 45.000 7.0 51.000 9.2 57.000 11.2 63.000 11.1' />
+<path d='M93.000 8.3L99.000 5.4 105.000 5.8 111.000 14.7 117.000 9.1 123.000 16.6 129.000 5.5 135.000 15.7 141.000 6.0 147.000 10.7 153.000 6.6 159.000 12.6 165.000 10.8 171.000 9.3 177.000 8.9 183.000 15.3 189.000 13.9 195.000 11.2 201.000 7.7 207.000 6.5 213.000 0.9 219.000 4.7' />
+<path d='M255.000 54.1L261.000 18.7 267.000 6.0 273.000 4.7 279.000 9.2 285.000 10.9 291.000 9.8' />
+<path d='M345.000 7.3L351.000 7.6 357.000 4.3' />
+</g>
+</g>
+</g>
+</g>
+</svg>

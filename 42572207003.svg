@@ -1,0 +1,54 @@
+<svg width='520px' height='186px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record42572207003 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>42572207003 +32.48-080.72  BEAUFORT/MCAS</text>
+</g>
+<g transform='translate(0, 30.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>42572207003</text>
+  <g class='record42572207003'><path d='M0.0 32l330.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M30 16.0l0 -46.0M90 16.0l0 -46.0M150 16.0l0 -46.0M210 16.0l0 -46.0M270 16.0l0 -46.0M330 16.0l0 -46.0' />
+  <text text-anchor='middle' font-size='16.0' x='30' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='90' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='150' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='210' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='270' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='330' y='16'>2000</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -12.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-12.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 385.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -12.0l330.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='330' height='27.8'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record42572207003'>
+<path class='singleton' d='M3.000 19.0l 0 0' />
+<path d='M75.000 16.0L81.000 3.4 87.000 14.1 93.000 6.5 99.000 11.7 105.000 9.8 111.000 3.7 117.000 9.1 123.000 11.2 129.000 1.4 135.000 5.2 141.000 2.1 147.000 1.4 153.000 9.4 159.000 12.2 165.000 16.4 171.000 12.5 177.000 17.9 183.000 21.1 189.000 1.9 195.000 11.5 201.000 7.9 207.000 6.0 213.000 8.8 219.000 7.6 225.000 20.4 231.000 4.3 237.000 14.4 243.000 18.1 249.000 22.5 255.000 12.0 261.000 6.6 267.000 15.1 273.000 29.2 279.000 21.7 285.000 11.8 291.000 13.6 297.000 15.9 303.000 14.1 309.000 11.6 315.000 14.3 321.000 27.9 327.000 16.0' />
+</g>
+</g>
+</g>
+</g>
+</svg>

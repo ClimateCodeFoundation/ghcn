@@ -1,0 +1,66 @@
+<svg width='910px' height='207px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record42500047304 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>42500047304 +40.52-122.30  REDDING MUNI AP</text>
+</g>
+<g transform='translate(0, 51.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>42500047304</text>
+  <g class='record42500047304'><path d='M0.0 32l720.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M42 16.0l0 -67.0M102 16.0l0 -67.0M162 16.0l0 -67.0M222 16.0l0 -67.0M282 16.0l0 -67.0M342 16.0l0 -67.0M402 16.0l0 -67.0M462 16.0l0 -67.0M522 16.0l0 -67.0M582 16.0l0 -67.0M642 16.0l0 -67.0M702 16.0l0 -67.0' />
+  <text text-anchor='middle' font-size='16.0' x='42' y='16'>1900</text>
+  <text text-anchor='middle' font-size='16.0' x='102' y='16'>1910</text>
+  <text text-anchor='middle' font-size='16.0' x='162' y='16'>1920</text>
+  <text text-anchor='middle' font-size='16.0' x='222' y='16'>1930</text>
+  <text text-anchor='middle' font-size='16.0' x='282' y='16'>1940</text>
+  <text text-anchor='middle' font-size='16.0' x='342' y='16'>1950</text>
+  <text text-anchor='middle' font-size='16.0' x='402' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='462' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='522' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='582' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='642' y='16'>2000</text>
+  <text text-anchor='middle' font-size='16.0' x='702' y='16'>2010</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -7.0l-8 0M0.0 -27.0l-8 0M0.0 -47.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-7.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-27.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-47.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 374.5l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -27.0l720.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='720' height='49.3'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record42500047304'>
+<path d='M3.000 17.7L9.000 25.5 15.000 28.5 21.000 28.2 27.000 26.3 33.000 28.6 39.000 26.9 45.000 31.7 51.000 33.1 57.000 25.1 63.000 28.3 69.000 31.3 75.000 33.6 81.000 31.8 87.000 27.2 93.000 30.6 99.000 32.2 105.000 37.4 111.000 27.4 117.000 38.5 123.000 30.5 129.000 30.9 135.000 30.2 141.000 0.9 147.000 50.2 153.000 28.6 159.000 25.7 165.000 27.5' />
+<path d='M177.000 23.2L183.000 29.5 189.000 34.0 195.000 30.4 201.000 44.0 207.000 30.4 213.000 35.0 219.000 32.3 225.000 25.1 231.000 32.9 237.000 29.0 243.000 25.3 249.000 38.6 255.000 26.7 261.000 38.5 267.000 21.5 273.000 27.6 279.000 35.4 285.000 32.2 291.000 23.5 297.000 22.0 303.000 28.7 309.000 23.4 315.000 24.8 321.000 18.4 327.000 24.6' />
+<path d='M339.000 24.9L345.000 23.0 351.000 24.1 357.000 23.9 363.000 23.2 369.000 20.4 375.000 22.6 381.000 25.7 387.000 22.0 393.000 34.6 399.000 38.1 405.000 27.1 411.000 24.5 417.000 26.0 423.000 17.5 429.000 22.4 435.000 23.5 441.000 29.0 447.000 27.4 453.000 22.9 459.000 24.9 465.000 27.9 471.000 16.3 477.000 20.9 483.000 24.8 489.000 24.4 495.000 18.8 501.000 23.6 507.000 25.7 513.000 26.5 519.000 17.3 525.000 39.9 531.000 30.7 537.000 10.8 543.000 18.9 549.000 25.2 555.000 23.4' />
+<path d='M567.000 31.8L573.000 32.9 579.000 21.0 585.000 24.9 591.000 27.5' />
+<path d='M633.000 12.3L639.000 23.1 645.000 26.9' />
+<path d='M657.000 31.6L663.000 29.9 669.000 32.4 675.000 27.1 681.000 27.2 687.000 27.8 693.000 28.9 699.000 27.9 705.000 20.5 711.000 18.8 717.000 25.4' />
+</g>
+</g>
+</g>
+</g>
+</svg>

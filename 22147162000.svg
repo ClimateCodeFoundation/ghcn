@@ -1,0 +1,50 @@
+<svg width='346px' height='178px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record22147162000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>22147162000 +34.83+128.43  CHUNGMU</text>
+</g>
+<g transform='translate(0, 22.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>22147162000</text>
+  <g class='record22147162000'><path d='M0.0 32l156.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M12 16.0l0 -38.0M72 16.0l0 -38.0M132 16.0l0 -38.0' />
+  <text text-anchor='middle' font-size='16.0' x='12' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='72' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='132' y='16'>1990</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -10.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-10.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 389.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -10.0l156.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='156' height='20.1'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record22147162000'>
+<path d='M3.000 9.5L9.000 4.0 15.000 6.7 21.000 10.1 27.000 9.6 33.000 12.7 39.000 5.3 45.000 14.6 51.000 5.0 57.000 11.1 63.000 16.9 69.000 14.4 75.000 0.7 81.000 3.6 87.000 13.7 93.000 11.5 99.000 7.8 105.000 10.6 111.000 4.5 117.000 9.8 123.000 9.6 129.000 16.5 135.000 20.8 141.000 10.6 147.000 13.1 153.000 7.1' />
+</g>
+</g>
+</g>
+</g>
+</svg>

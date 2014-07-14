@@ -1,0 +1,55 @@
+<svg width='574px' height='180px'
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      version="1.1">
+<defs>
+  <style type="text/css">
+    .debug { display: none }
+    path { stroke-width: 1.4; fill: none }
+    path.singleton { stroke-width: 2.8; stroke-linecap: round }
+    g#axes path { stroke-width:1; fill:none; stroke: #888 }
+    g#legend path { stroke-width:1; fill:none }
+    text { fill: black; font-family: Verdana }
+    g.record40178954000 { stroke: blue }
+  </style>
+</defs>
+<g transform="translate(125.0,80)">
+<g id="title">
+  <text font-size='20.0' x='0' y='-4'>40178954000 +13.07-059.48  GRANTLEY ADAM</text>
+</g>
+<g transform='translate(0, 24.0)'>
+<g id="legend">
+  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>40178954000</text>
+  <g class='record40178954000'><path d='M0.0 32l384.0 0' /></g>
+</g>
+<g id='axes'>
+  <path d='M54 16.0l0 -40.0M114 16.0l0 -40.0M174 16.0l0 -40.0M234 16.0l0 -40.0M294 16.0l0 -40.0M354 16.0l0 -40.0' />
+  <text text-anchor='middle' font-size='16.0' x='54' y='16'>1960</text>
+  <text text-anchor='middle' font-size='16.0' x='114' y='16'>1970</text>
+  <text text-anchor='middle' font-size='16.0' x='174' y='16'>1980</text>
+  <text text-anchor='middle' font-size='16.0' x='234' y='16'>1990</text>
+  <text text-anchor='middle' font-size='16.0' x='294' y='16'>2000</text>
+  <text text-anchor='middle' font-size='16.0' x='354' y='16'>2010</text>
+<g font-size="16.0" id="vaxis">
+<g text-anchor="end">
+  <path d='M0.0 -11.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-11.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 388.0l0 -800'/></defs>
+  <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
+</g>
+  <path d='M0 -11.0l384.0 0' />
+</g>
+</g>
+<g transform="scale(1, -1)">
+<rect class='debug'
+            x='0' y='0.0' width='384' height='21.7'
+            stroke='pink' fill='none' opacity='0.30' />
+<g class='record40178954000'>
+<path d='M3.000 2.3L9.000 7.3 15.000 6.0 21.000 2.5 27.000 1.2 33.000 1.5 39.000 1.6 45.000 6.5 51.000 3.3' />
+<path d='M63.000 6.1L69.000 5.2 75.000 9.0 81.000 7.0 87.000 7.5 93.000 7.0 99.000 6.1 105.000 6.3 111.000 12.4 117.000 11.2 123.000 5.8 129.000 9.0 135.000 8.8 141.000 7.0 147.000 4.6 153.000 4.5 159.000 9.2 165.000 11.8 171.000 12.4 177.000 13.1 183.000 13.1 189.000 10.2 195.000 10.5 201.000 7.8 207.000 7.4 213.000 8.4 219.000 14.6 225.000 11.7' />
+<path d='M237.000 8.7L243.000 12.8 249.000 12.1 255.000 14.6 261.000 13.1 267.000 17.4 273.000 15.8 279.000 15.1 285.000 19.4 291.000 13.6 297.000 12.2 303.000 14.9 309.000 17.5 315.000 18.1 321.000 18.5 327.000 22.9 333.000 20.1 339.000 16.9 345.000 12.3 351.000 17.1 357.000 22.9 363.000 19.1 369.000 14.4 375.000 15.3 381.000 12.8' />
+</g>
+</g>
+</g>
+</g>
+</svg>
