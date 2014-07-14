@@ -7283,7 +7283,7 @@ all=["10160355000.svg",
 "80099914001.svg"]
 var where = 0
 if (window.location.hash) {
-    where = window.location.hash.substr(1);
+    where = parseInt(window.location.hash.substr(1));
 }
 $(document).keypress(function(e){
   if(e.keyCode == 112) {
