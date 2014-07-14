@@ -1,4 +1,4 @@
-<svg width='400px' height='179px'
+<svg width='1016px' height='163px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -19,8 +19,6 @@
 </g>
 <g transform='translate(0, 23.0)'>
 <g id="legend">
-  <text alignment-baseline='middle' text-anchor='end' x='0' y='32'>20551848001</text>
-  <g class='record20551848001'><path d='M0.0 32l210.0 0' /></g>
 </g>
 <g id='axes'>
   <path d='M36 16.0l0 -39.0M96 16.0l0 -39.0M156 16.0l0 -39.0' />
