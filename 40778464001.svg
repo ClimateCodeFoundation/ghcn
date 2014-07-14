@@ -1,4 +1,4 @@
-<svg width='862px' height='159px'
+<svg width='862px' height='153px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,28 +17,28 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>40778464001 +19.43-069.77  SANTIAGO DE LOS CABAL</text>
 </g>
-<g transform='translate(0, 19.0)'>
+<g transform='translate(0, 13.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
   <path d='' />
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -12.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-12.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 390.5l0 -800'/></defs>
+  <path d='M0.0 -6.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-6.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 393.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -12.0l48.0 0' />
+  <path d='M0 -6.0l48.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='48' height='17.3'
+            x='0' y='0.0' width='48' height='10.7'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record40778464001'>
-<path d='M3.000 9.5L9.000 13.0 15.000 18.0' />
-<path d='M27.000 0.7L33.000 7.2 39.000 15.1 45.000 14.0' />
+<path d='M3.000 3.5L9.000 7.0 15.000 12.0' />
+<path d='M33.000 1.2L39.000 9.1 45.000 8.0' />
 </g>
 </g>
 </g>

@@ -1,4 +1,4 @@
-<svg width='638px' height='152px'
+<svg width='638px' height='151px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,18 +17,18 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>40778473002 +19.05-070.13  COTUI</text>
 </g>
-<g transform='translate(0, 12.0)'>
+<g transform='translate(0, 11.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M54 16.0l0 -28.0M114 16.0l0 -28.0' />
+  <path d='M54 16.0l0 -27.0M114 16.0l0 -27.0' />
   <text text-anchor='middle' font-size='16.0' x='54' y='16'>1970</text>
   <text text-anchor='middle' font-size='16.0' x='114' y='16'>1980</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
   <path d='M0.0 -6.0l-8 0' />
   <text alignment-baseline='middle' x='-8.0' y='-6.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 394.0l0 -800'/></defs>
+  <defs><path id='pvlabel' d='M-48 394.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
   <path d='M0 -6.0l114.0 0' />
@@ -36,10 +36,12 @@
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='114' height='10.3'
+            x='0' y='0.0' width='114' height='9.3'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record40778473002'>
-<path d='M3.000 4.3L9.000 5.7 15.000 1.1 21.000 1.6 27.000 3.7 33.000 4.6 39.000 6.1 45.000 5.8 51.000 11.5 57.000 1.2 63.000 4.2 69.000 7.5 75.000 9.7 81.000 5.7 87.000 5.4 93.000 6.6 99.000 10.4 105.000 10.3 111.000 4.7' />
+<path d='M3.000 4.3L9.000 5.7 15.000 1.1' />
+<path d='M27.000 3.7L33.000 4.6 39.000 6.1 45.000 5.8' />
+<path d='M63.000 4.2L69.000 7.5 75.000 9.7 81.000 5.7 87.000 5.4 93.000 6.6 99.000 10.4 105.000 10.3' />
 </g>
 </g>
 </g>

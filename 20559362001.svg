@@ -1,4 +1,4 @@
-<svg width='974px' height='160px'
+<svg width='974px' height='148px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,28 +17,28 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>20559362001 +23.97+121.62  HUA LIEN               TAIWAN</text>
 </g>
-<g transform='translate(0, 20.0)'>
+<g transform='translate(0, 8.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M54 16.0l0 -36.0' />
+  <path d='M54 16.0l0 -24.0' />
   <text text-anchor='middle' font-size='16.0' x='54' y='16'>1960</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -15.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-15.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 390.0l0 -800'/></defs>
+  <path d='M0.0 -3.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-3.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 396.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -15.0l78.0 0' />
+  <path d='M0 -3.0l78.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='78' height='17.9'
+            x='0' y='0.0' width='78' height='6.2'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record20559362001'>
-<path d='M3.000 13.1L9.000 17.3 15.000 17.2 21.000 19.1 27.000 13.6 33.000 13.7 39.000 12.9 45.000 12.9 51.000 17.4 57.000 15.5 63.000 17.7 69.000 13.2 75.000 1.2' />
+<path d='M3.000 1.1L9.000 5.3 15.000 5.2 21.000 7.1 27.000 1.6 33.000 1.7 39.000 0.9 45.000 0.9 51.000 5.4 57.000 3.5 63.000 5.7' />
 </g>
 </g>
 </g>

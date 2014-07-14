@@ -1,4 +1,4 @@
-<svg width='750px' height='157px'
+<svg width='750px' height='154px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,11 +17,11 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>50195664000 -33.07+137.52  WHYALLA AIRPO</text>
 </g>
-<g transform='translate(0, 17.0)'>
+<g transform='translate(0, 14.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M30 16.0l0 -33.0M90 16.0l0 -33.0M150 16.0l0 -33.0M210 16.0l0 -33.0M270 16.0l0 -33.0' />
+  <path d='M30 16.0l0 -30.0M90 16.0l0 -30.0M150 16.0l0 -30.0M210 16.0l0 -30.0M270 16.0l0 -30.0' />
   <text text-anchor='middle' font-size='16.0' x='30' y='16'>1950</text>
   <text text-anchor='middle' font-size='16.0' x='90' y='16'>1960</text>
   <text text-anchor='middle' font-size='16.0' x='150' y='16'>1970</text>
@@ -29,10 +29,9 @@
   <text text-anchor='middle' font-size='16.0' x='270' y='16'>1990</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -5.0l-8 0M0.0 -25.0l-8 0' />
+  <path d='M0.0 -5.0l-8 0' />
   <text alignment-baseline='middle' x='-8.0' y='-5.0'>0</text>
-  <text alignment-baseline='middle' x='-8.0' y='-25.0'>2</text>
-  <defs><path id='pvlabel' d='M-48 391.5l0 -800'/></defs>
+  <defs><path id='pvlabel' d='M-48 393.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
   <path d='M0 -5.0l276.0 0' />
@@ -40,10 +39,10 @@
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='276' height='15.5'
+            x='0' y='0.0' width='276' height='11.8'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record50195664000'>
-<path d='M3.000 16.4L9.000 0.9 15.000 5.3 21.000 1.4' />
+<path d='M9.000 0.9L15.000 5.3' />
 <path d='M225.000 6.1L231.000 6.0 237.000 1.5 243.000 3.8 249.000 3.4 255.000 3.8 261.000 12.8 267.000 2.4 273.000 9.8' />
 </g>
 </g>

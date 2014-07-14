@@ -1,4 +1,4 @@
-<svg width='1016px' height='173px'
+<svg width='1016px' height='172px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,18 +17,18 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>40371928001 +52.25-115.30  PRAIRIE CREEK RS,AL            1</text>
 </g>
-<g transform='translate(0, 33.0)'>
+<g transform='translate(0, 32.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M18 16.0l0 -49.0M78 16.0l0 -49.0' />
+  <path d='M18 16.0l0 -48.0M78 16.0l0 -48.0' />
   <text text-anchor='middle' font-size='16.0' x='18' y='16'>1970</text>
   <text text-anchor='middle' font-size='16.0' x='78' y='16'>1980</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
   <path d='M0.0 -16.0l-8 0' />
   <text alignment-baseline='middle' x='-8.0' y='-16.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 383.5l0 -800'/></defs>
+  <defs><path id='pvlabel' d='M-48 384.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
   <path d='M0 -16.0l108.0 0' />
@@ -36,10 +36,11 @@
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='108' height='31.2'
+            x='0' y='0.0' width='108' height='29.7'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record40371928001'>
-<path d='M3.000 30.9L9.000 15.5 15.000 10.5 21.000 11.3 27.000 16.4 33.000 1.2 39.000 19.7 45.000 21.6 51.000 11.0 57.000 23.7 63.000 21.3 69.000 12.0 75.000 14.6 81.000 32.4 87.000 27.1 93.000 14.8 99.000 22.4 105.000 11.4' />
+<path d='M3.000 30.9L9.000 15.5 15.000 10.5 21.000 11.3 27.000 16.4 33.000 1.2 39.000 19.7 45.000 21.6 51.000 11.0 57.000 23.7 63.000 21.3 69.000 12.0 75.000 14.6' />
+<path d='M93.000 14.8L99.000 22.4 105.000 11.4' />
 </g>
 </g>
 </g>

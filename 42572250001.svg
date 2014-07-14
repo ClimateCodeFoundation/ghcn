@@ -1,4 +1,4 @@
-<svg width='848px' height='175px'
+<svg width='848px' height='170px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,11 +17,11 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>42572250001 +26.18-098.23  MC ALLEN/FAA AIRPORT</text>
 </g>
-<g transform='translate(0, 35.0)'>
+<g transform='translate(0, 30.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M30 16.0l0 -51.0M90 16.0l0 -51.0M150 16.0l0 -51.0M210 16.0l0 -51.0' />
+  <path d='M30 16.0l0 -46.0M90 16.0l0 -46.0M150 16.0l0 -46.0M210 16.0l0 -46.0' />
   <text text-anchor='middle' font-size='16.0' x='30' y='16'>1970</text>
   <text text-anchor='middle' font-size='16.0' x='90' y='16'>1980</text>
   <text text-anchor='middle' font-size='16.0' x='150' y='16'>1990</text>
@@ -30,7 +30,7 @@
 <g text-anchor="end">
   <path d='M0.0 -17.0l-8 0' />
   <text alignment-baseline='middle' x='-8.0' y='-17.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 382.5l0 -800'/></defs>
+  <defs><path id='pvlabel' d='M-48 385.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
   <path d='M0 -17.0l240.0 0' />
@@ -38,11 +38,12 @@
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='240' height='33.6'
+            x='0' y='0.0' width='240' height='28.1'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record42572250001'>
-<path d='M3.000 34.3L9.000 4.9 15.000 14.9 21.000 6.9 27.000 15.5 33.000 7.6 39.000 19.5 45.000 16.9 51.000 10.8 57.000 13.8 63.000 13.8 69.000 0.6 75.000 12.0 81.000 10.3 87.000 12.7 93.000 20.2 99.000 19.8 105.000 19.2 111.000 16.4 117.000 20.0 123.000 18.2 129.000 24.4 135.000 9.1 141.000 32.0 147.000 20.6 153.000 28.7 159.000 25.8 165.000 18.1 171.000 19.6 177.000 26.0 183.000 25.0 189.000 34.1' />
-<path d='M213.000 16.4L219.000 21.9 225.000 24.6 231.000 18.9 237.000 20.9' />
+<path d='M9.000 4.9L15.000 14.9 21.000 6.9 27.000 15.5 33.000 7.6 39.000 19.5 45.000 16.9 51.000 10.8 57.000 13.8 63.000 13.8 69.000 0.6 75.000 12.0 81.000 10.3 87.000 12.7 93.000 20.2 99.000 19.8 105.000 19.2 111.000 16.4 117.000 20.0 123.000 18.2 129.000 24.4' />
+<path d='M147.000 20.6L153.000 28.7 159.000 25.8 165.000 18.1 171.000 19.6 177.000 26.0 183.000 25.0' />
+<path d='M213.000 16.4L219.000 21.9 225.000 24.6 231.000 18.9' />
 </g>
 </g>
 </g>

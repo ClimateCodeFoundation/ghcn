@@ -1,4 +1,4 @@
-<svg width='750px' height='180px'
+<svg width='750px' height='158px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,29 +17,29 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>63913266000 +45.10+019.55  SREMSKA MITRO</text>
 </g>
-<g transform='translate(0, 40.0)'>
+<g transform='translate(0, 18.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M48 16.0l0 -56.0' />
+  <path d='M48 16.0l0 -34.0' />
   <text text-anchor='middle' font-size='16.0' x='48' y='16'>1990</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -10.0l-8 0M0.0 -30.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-10.0'>-2</text>
-  <text alignment-baseline='middle' x='-8.0' y='-30.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 380.0l0 -800'/></defs>
+  <path d='M0.0 -8.0l-8 0M0.0 -28.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-8.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-28.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 391.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -30.0l66.0 0' />
+  <path d='M0 -8.0l66.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='66' height='38.2'
+            x='0' y='0.0' width='66' height='15.9'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record63913266000'>
-<path d='M3.000 0.7L9.000 36.0 15.000 27.7 21.000 23.0 27.000 26.5 33.000 24.1 39.000 31.0 45.000 34.8 51.000 38.9 57.000 23.6 63.000 38.3' />
+<path d='M9.000 14.0L15.000 5.7 21.000 1.0 27.000 4.5 33.000 2.1 39.000 9.0 45.000 12.8 51.000 16.9 57.000 1.6 63.000 16.3' />
 </g>
 </g>
 </g>

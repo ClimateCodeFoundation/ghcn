@@ -34,10 +34,10 @@
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='36' height='3.6'
+            x='0' y='0.0' width='36' height='3.4'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record15464315000'>
-<path d='M3.000 4.7L9.000 4.4 15.000 2.5 21.000 2.9 27.000 1.3 33.000 1.1' />
+<path d='M3.000 4.7L9.000 4.4 15.000 2.5 21.000 2.9 27.000 1.3' />
 </g>
 </g>
 </g>

@@ -1,4 +1,4 @@
-<svg width='638px' height='161px'
+<svg width='638px' height='159px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,30 +17,31 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>11064758000 +12.18+018.68  MONGO</text>
 </g>
-<g transform='translate(0, 21.0)'>
+<g transform='translate(0, 19.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M54 16.0l0 -37.0M114 16.0l0 -37.0' />
+  <path d='M54 16.0l0 -35.0M114 16.0l0 -35.0' />
   <text text-anchor='middle' font-size='16.0' x='54' y='16'>1960</text>
   <text text-anchor='middle' font-size='16.0' x='114' y='16'>1970</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -10.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-10.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 389.5l0 -800'/></defs>
+  <path d='M0.0 -8.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-8.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 390.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -10.0l168.0 0' />
+  <path d='M0 -8.0l168.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='168' height='19.1'
+            x='0' y='0.0' width='168' height='16.6'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record11064758000'>
-<path d='M3.000 9.6L9.000 11.0 15.000 7.6 21.000 7.8 27.000 8.3 33.000 9.9 39.000 5.3 45.000 16.4 51.000 12.1 57.000 14.3 63.000 3.6 69.000 8.2 75.000 3.0 81.000 6.8 87.000 12.1 93.000 8.1 99.000 10.8 105.000 9.1' />
-<path d='M117.000 12.0L123.000 7.1 129.000 12.7 135.000 19.6 141.000 8.5 147.000 0.5 153.000 14.7 159.000 10.8 165.000 13.6' />
+<path d='M3.000 7.6L9.000 9.0 15.000 5.6 21.000 5.8 27.000 6.3 33.000 7.9 39.000 3.3 45.000 14.4 51.000 10.1 57.000 12.3 63.000 1.6 69.000 6.2 75.000 1.0 81.000 4.8 87.000 10.1 93.000 6.1 99.000 8.8 105.000 7.1' />
+<path d='M123.000 5.1L129.000 10.7 135.000 17.6 141.000 6.5' />
+<path d='M153.000 12.7L159.000 8.8 165.000 11.6' />
 </g>
 </g>
 </g>

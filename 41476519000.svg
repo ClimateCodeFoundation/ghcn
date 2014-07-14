@@ -1,4 +1,4 @@
-<svg width='1016px' height='175px'
+<svg width='1016px' height='152px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,20 +17,19 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>41476519000 +22.12-103.27  COLOTLAN,JAL.                  1</text>
 </g>
-<g transform='translate(0, 35.0)'>
+<g transform='translate(0, 12.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M54 16.0l0 -51.0M114 16.0l0 -51.0M174 16.0l0 -51.0' />
+  <path d='M54 16.0l0 -28.0M114 16.0l0 -28.0M174 16.0l0 -28.0' />
   <text text-anchor='middle' font-size='16.0' x='54' y='16'>1980</text>
   <text text-anchor='middle' font-size='16.0' x='114' y='16'>1990</text>
   <text text-anchor='middle' font-size='16.0' x='174' y='16'>2000</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -6.0l-8 0M0.0 -26.0l-8 0' />
+  <path d='M0.0 -6.0l-8 0' />
   <text alignment-baseline='middle' x='-8.0' y='-6.0'>0</text>
-  <text alignment-baseline='middle' x='-8.0' y='-26.0'>2</text>
-  <defs><path id='pvlabel' d='M-48 382.5l0 -800'/></defs>
+  <defs><path id='pvlabel' d='M-48 394.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
   <path d='M0 -6.0l192.0 0' />
@@ -38,11 +37,11 @@
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='192' height='33.1'
+            x='0' y='0.0' width='192' height='10.0'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record41476519000'>
-<path d='M3.000 6.3L9.000 11.3 15.000 3.8 21.000 2.9 27.000 3.6 33.000 1.3 39.000 2.8 45.000 5.9 51.000 5.2 57.000 7.2' />
-<path class='singleton' d='M189.000 34.4l 0 0' />
+<path d='M3.000 6.3L9.000 11.3 15.000 3.8 21.000 2.9 27.000 3.6 33.000 1.3' />
+<path d='M45.000 5.9L51.000 5.2 57.000 7.2' />
 </g>
 </g>
 </g>

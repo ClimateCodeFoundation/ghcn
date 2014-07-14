@@ -1,4 +1,4 @@
-<svg width='750px' height='157px'
+<svg width='750px' height='152px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,30 +17,29 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>50194137000 -12.67+132.90  JABIRU AIRPOR</text>
 </g>
-<g transform='translate(0, 17.0)'>
+<g transform='translate(0, 12.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M30 16.0l0 -33.0M90 16.0l0 -33.0' />
+  <path d='M30 16.0l0 -28.0M90 16.0l0 -28.0' />
   <text text-anchor='middle' font-size='16.0' x='30' y='16'>1980</text>
   <text text-anchor='middle' font-size='16.0' x='90' y='16'>1990</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -11.0l-8 0M0.0 -31.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-11.0'>0</text>
-  <text alignment-baseline='middle' x='-8.0' y='-31.0'>2</text>
-  <defs><path id='pvlabel' d='M-48 391.5l0 -800'/></defs>
+  <path d='M0.0 -6.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-6.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 394.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -11.0l96.0 0' />
+  <path d='M0 -6.0l96.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='96' height='15.4'
+            x='0' y='0.0' width='96' height='10.3'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record50194137000'>
-<path d='M3.000 12.6L9.000 1.0 15.000 9.4 21.000 8.0 27.000 12.9 33.000 10.6 39.000 11.7 45.000 7.1 51.000 13.1 57.000 8.0 63.000 6.1 69.000 13.3 75.000 14.0 81.000 16.4 87.000 11.3 93.000 16.3' />
+<path d='M21.000 3.0L27.000 7.9 33.000 5.6 39.000 6.7 45.000 2.1 51.000 8.1 57.000 3.0 63.000 1.1 69.000 8.3 75.000 9.0 81.000 11.4 87.000 6.3 93.000 11.3' />
 </g>
 </g>
 </g>

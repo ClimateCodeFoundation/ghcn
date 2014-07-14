@@ -1,4 +1,4 @@
-<svg width='750px' height='165px'
+<svg width='750px' height='163px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,18 +17,18 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>62316197001 +42.40+009.90  ISOLA GORGONA</text>
 </g>
-<g transform='translate(0, 25.0)'>
+<g transform='translate(0, 23.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M54 16.0l0 -41.0M114 16.0l0 -41.0' />
+  <path d='M54 16.0l0 -39.0M114 16.0l0 -39.0' />
   <text text-anchor='middle' font-size='16.0' x='54' y='16'>1960</text>
   <text text-anchor='middle' font-size='16.0' x='114' y='16'>1970</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
   <path d='M0.0 -13.0l-8 0' />
   <text alignment-baseline='middle' x='-8.0' y='-13.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 387.5l0 -800'/></defs>
+  <defs><path id='pvlabel' d='M-48 388.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
   <path d='M0 -13.0l144.0 0' />
@@ -36,11 +36,14 @@
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='144' height='22.3'
+            x='0' y='0.0' width='144' height='20.4'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record62316197001'>
-<path d='M3.000 18.8L9.000 18.3' />
-<path d='M21.000 6.4L27.000 17.2 33.000 1.2 39.000 14.6 45.000 15.0 51.000 19.0 57.000 13.5 63.000 21.6 69.000 10.5 75.000 10.7 81.000 23.5 87.000 12.4 93.000 15.5 99.000 17.1 105.000 12.7 111.000 8.8 117.000 2.4 123.000 9.3 129.000 13.2 135.000 9.1 141.000 8.2' />
+<path class='singleton' d='M9.000 18.3l 0 0' />
+<path d='M21.000 6.4L27.000 17.2 33.000 1.2 39.000 14.6 45.000 15.0 51.000 19.0 57.000 13.5 63.000 21.6 69.000 10.5 75.000 10.7' />
+<path class='singleton' d='M87.000 12.4l 0 0' />
+<path d='M99.000 17.1L105.000 12.7 111.000 8.8' />
+<path d='M123.000 9.3L129.000 13.2 135.000 9.1 141.000 8.2' />
 </g>
 </g>
 </g>

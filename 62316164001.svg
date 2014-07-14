@@ -1,4 +1,4 @@
-<svg width='806px' height='173px'
+<svg width='806px' height='161px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,19 +17,18 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>62316164001 +43.30+011.30  SIENA POGGIO AERO</text>
 </g>
-<g transform='translate(0, 33.0)'>
+<g transform='translate(0, 21.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M42 16.0l0 -49.0M102 16.0l0 -49.0' />
+  <path d='M42 16.0l0 -37.0M102 16.0l0 -37.0' />
   <text text-anchor='middle' font-size='16.0' x='42' y='16'>1960</text>
   <text text-anchor='middle' font-size='16.0' x='102' y='16'>1970</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -11.0l-8 0M0.0 -31.0l-8 0' />
+  <path d='M0.0 -11.0l-8 0' />
   <text alignment-baseline='middle' x='-8.0' y='-11.0'>0</text>
-  <text alignment-baseline='middle' x='-8.0' y='-31.0'>2</text>
-  <defs><path id='pvlabel' d='M-48 383.5l0 -800'/></defs>
+  <defs><path id='pvlabel' d='M-48 389.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
   <path d='M0 -11.0l156.0 0' />
@@ -37,10 +36,10 @@
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='156' height='31.0'
+            x='0' y='0.0' width='156' height='18.9'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record62316164001'>
-<path d='M3.000 31.7L9.000 5.3 15.000 12.8 21.000 0.7 27.000 14.1 33.000 14.3 39.000 15.5 45.000 12.3 51.000 19.6 57.000 11.1 63.000 7.2 69.000 15.7 75.000 7.6 81.000 11.0 87.000 16.5 93.000 10.3 99.000 8.2 105.000 11.8 111.000 11.1 117.000 8.7 123.000 13.4 129.000 8.6 135.000 10.3 141.000 7.1 147.000 12.2 153.000 4.4' />
+<path d='M9.000 5.3L15.000 12.8 21.000 0.7 27.000 14.1 33.000 14.3 39.000 15.5 45.000 12.3 51.000 19.6 57.000 11.1 63.000 7.2 69.000 15.7 75.000 7.6 81.000 11.0 87.000 16.5 93.000 10.3 99.000 8.2 105.000 11.8 111.000 11.1 117.000 8.7 123.000 13.4 129.000 8.6 135.000 10.3 141.000 7.1 147.000 12.2 153.000 4.4' />
 </g>
 </g>
 </g>

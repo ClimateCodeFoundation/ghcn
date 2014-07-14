@@ -40,7 +40,7 @@
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record61402971001'>
 <path d='M3.000 29.0L9.000 7.7 15.000 7.1 21.000 14.1 27.000 9.4 33.000 0.5 39.000 21.9' />
-<path d='M51.000 1.4L57.000 3.8' />
+<path class='singleton' d='M57.000 3.8l 0 0' />
 <path class='singleton' d='M123.000 9.6l 0 0' />
 </g>
 </g>

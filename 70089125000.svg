@@ -1,4 +1,4 @@
-<svg width='1016px' height='195px'
+<svg width='1016px' height='183px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,11 +17,11 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>70089125000 -80.02-119.53  BYRD STATION                   1</text>
 </g>
-<g transform='translate(0, 55.0)'>
+<g transform='translate(0, 43.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M18 16.0l0 -71.0M78 16.0l0 -71.0M138 16.0l0 -71.0' />
+  <path d='M18 16.0l0 -59.0M78 16.0l0 -59.0M138 16.0l0 -59.0' />
   <text text-anchor='middle' font-size='16.0' x='18' y='16'>1960</text>
   <text text-anchor='middle' font-size='16.0' x='78' y='16'>1970</text>
   <text text-anchor='middle' font-size='16.0' x='138' y='16'>1980</text>
@@ -31,7 +31,7 @@
   <text alignment-baseline='middle' x='-8.0' y='-2.0'>-2</text>
   <text alignment-baseline='middle' x='-8.0' y='-22.0'>0</text>
   <text alignment-baseline='middle' x='-8.0' y='-42.0'>2</text>
-  <defs><path id='pvlabel' d='M-48 372.5l0 -800'/></defs>
+  <defs><path id='pvlabel' d='M-48 378.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
   <path d='M0 -22.0l168.0 0' />
@@ -39,11 +39,10 @@
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='168' height='53.3'
+            x='0' y='0.0' width='168' height='41.4'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record70089125000'>
-<path d='M3.000 24.0L9.000 4.3 15.000 26.0 21.000 18.0 27.000 13.7 33.000 1.0 39.000 19.7 45.000 25.0 51.000 29.7 57.000 30.6 63.000 26.5 69.000 12.5 75.000 17.5 81.000 42.4 87.000 50.7 93.000 8.9 99.000 24.7 105.000 54.3 111.000 26.9' />
-<path d='M159.000 9.3L165.000 45.7' />
+<path d='M3.000 24.0L9.000 4.3 15.000 26.0 21.000 18.0 27.000 13.7 33.000 1.0 39.000 19.7 45.000 25.0 51.000 29.7 57.000 30.6 63.000 26.5 69.000 12.5 75.000 17.5 81.000 42.4' />
 </g>
 </g>
 </g>
