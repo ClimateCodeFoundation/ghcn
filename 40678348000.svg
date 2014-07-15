@@ -1,4 +1,4 @@
-<svg width='750px' height='149px'
+<svg width='750px' height='162px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,32 +17,33 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>40678348000 +22.52-079.45  CAIBARIEN, VI</text>
 </g>
-<g transform='translate(0, 9.0)'>
+<g transform='translate(0, 22.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M48 16.0l0 -25.0M108 16.0l0 -25.0M168 16.0l0 -25.0' />
+  <path d='M48 16.0l0 -38.0M108 16.0l0 -38.0M168 16.0l0 -38.0' />
   <text text-anchor='middle' font-size='16.0' x='48' y='16'>1960</text>
   <text text-anchor='middle' font-size='16.0' x='108' y='16'>1970</text>
   <text text-anchor='middle' font-size='16.0' x='168' y='16'>1980</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -3.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-3.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 395.5l0 -800'/></defs>
+  <path d='M0.0 -6.0l-8 0M0.0 -36.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-6.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-36.0'>1</text>
+  <defs><path id='pvlabel' d='M-48 389.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -3.0l180.0 0' />
+  <path d='M0 -6.0l180.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='180' height='6.7'
+            x='0' y='0.0' width='180' height='20.0'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record40678348000'>
-<path d='M3.000 1.8L9.000 7.8 15.000 2.8 21.000 1.2 27.000 1.5 33.000 4.3' />
-<path d='M45.000 3.2L51.000 3.2' />
-<path class='singleton' d='M177.000 1.2l 0 0' />
+<path d='M3.000 2.3L9.000 20.5 15.000 5.5 21.000 0.5 27.000 1.5 33.000 10.0' />
+<path d='M45.000 6.5L51.000 6.5' />
+<path class='singleton' d='M177.000 0.5l 0 0' />
 </g>
 </g>
 </g>

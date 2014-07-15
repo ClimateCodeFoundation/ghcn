@@ -1,4 +1,4 @@
-<svg width='652px' height='161px'
+<svg width='652px' height='197px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,11 +17,11 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>21047769001 +34.83+134.67  HIMEJI</text>
 </g>
-<g transform='translate(0, 21.0)'>
+<g transform='translate(0, 57.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M12 16.0l0 -37.0M72 16.0l0 -37.0M132 16.0l0 -37.0M192 16.0l0 -37.0M252 16.0l0 -37.0' />
+  <path d='M12 16.0l0 -73.0M72 16.0l0 -73.0M132 16.0l0 -73.0M192 16.0l0 -73.0M252 16.0l0 -73.0' />
   <text text-anchor='middle' font-size='16.0' x='12' y='16'>1950</text>
   <text text-anchor='middle' font-size='16.0' x='72' y='16'>1960</text>
   <text text-anchor='middle' font-size='16.0' x='132' y='16'>1970</text>
@@ -29,21 +29,23 @@
   <text text-anchor='middle' font-size='16.0' x='252' y='16'>1990</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -9.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-9.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 389.5l0 -800'/></defs>
+  <path d='M0.0 -24.0l-8 0M0.0 -54.0l-8 0M0.0 -84.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-24.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-54.0'>1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-84.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 371.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -9.0l258.0 0' />
+  <path d='M0 -24.0l258.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='258' height='18.4'
+            x='0' y='0.0' width='258' height='55.1'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record21047769001'>
-<path d='M3.000 11.0L9.000 3.3 15.000 9.6 21.000 5.3 27.000 7.1 33.000 8.0 39.000 10.2 45.000 12.4 51.000 5.1 57.000 4.6 63.000 12.1 69.000 17.5 75.000 13.2 81.000 16.2 87.000 8.6 93.000 5.6 99.000 15.8 105.000 1.2 111.000 7.8 117.000 10.2 123.000 6.2 129.000 6.0 135.000 5.8 141.000 7.3 147.000 10.6 153.000 11.4 159.000 5.2 165.000 11.4 171.000 3.6 177.000 12.0 183.000 13.0 189.000 16.0 195.000 3.2 201.000 2.0 207.000 7.8 213.000 10.8 219.000 4.9 225.000 11.9 231.000 5.4' />
-<path d='M243.000 4.4L249.000 11.9 255.000 19.6' />
+<path d='M3.000 29.9L9.000 6.9 15.000 25.7 21.000 12.9 27.000 18.2 33.000 20.9 39.000 27.7 45.000 34.2 51.000 12.2 57.000 10.7 63.000 33.2 69.000 49.4 75.000 36.7 81.000 45.7 87.000 22.7 93.000 13.9 99.000 44.5 105.000 0.7 111.000 20.5 117.000 27.5 123.000 15.7 129.000 15.0 135.000 14.5 141.000 19.0 147.000 28.7 153.000 31.2 159.000 12.6 165.000 31.3 171.000 7.8 177.000 33.1 183.000 36.1 189.000 45.1 195.000 6.6 201.000 3.1 207.000 20.3 213.000 29.3 219.000 11.6 225.000 32.8 231.000 13.1' />
+<path d='M243.000 10.2L249.000 32.6 255.000 55.8' />
 </g>
 </g>
 </g>

@@ -1,4 +1,4 @@
-<svg width='694px' height='153px'
+<svg width='694px' height='175px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,28 +17,28 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>42574500002 +39.13-121.43  BEALE/AFB</text>
 </g>
-<g transform='translate(0, 13.0)'>
+<g transform='translate(0, 35.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M48 16.0l0 -29.0' />
+  <path d='M48 16.0l0 -51.0' />
   <text text-anchor='middle' font-size='16.0' x='48' y='16'>1970</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -8.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-8.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 393.5l0 -800'/></defs>
+  <path d='M0.0 -21.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-21.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 382.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -8.0l48.0 0' />
+  <path d='M0 -21.0l48.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='48' height='11.1'
+            x='0' y='0.0' width='48' height='33.2'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record42574500002'>
-<path d='M9.000 1.2L15.000 10.0 21.000 3.1 27.000 11.4 33.000 12.3 39.000 12.2' />
+<path d='M9.000 0.7L15.000 27.1 21.000 6.2 27.000 31.2 33.000 34.0 39.000 33.7' />
 </g>
 </g>
 </g>

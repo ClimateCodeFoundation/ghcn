@@ -1,4 +1,4 @@
-<svg width='1016px' height='168px'
+<svg width='1016px' height='221px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,30 +17,32 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>40371104004 +52.10-120.88  BOSS MOUNTAIN,BC               1</text>
 </g>
-<g transform='translate(0, 28.0)'>
+<g transform='translate(0, 81.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M12 16.0l0 -44.0M72 16.0l0 -44.0' />
+  <path d='M12 16.0l0 -97.0M72 16.0l0 -97.0' />
   <text text-anchor='middle' font-size='16.0' x='12' y='16'>1970</text>
   <text text-anchor='middle' font-size='16.0' x='72' y='16'>1980</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -15.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-15.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 386.0l0 -800'/></defs>
+  <path d='M0.0 -14.0l-8 0M0.0 -44.0l-8 0M0.0 -74.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-14.0'>-1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-44.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-74.0'>1</text>
+  <defs><path id='pvlabel' d='M-48 359.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -15.0l102.0 0' />
+  <path d='M0 -44.0l102.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='102' height='26.6'
+            x='0' y='0.0' width='102' height='79.7'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record40371104004'>
-<path d='M3.000 0.6L9.000 14.8 15.000 17.4 21.000 14.0' />
-<path d='M39.000 18.7L45.000 3.8 51.000 16.5 57.000 12.7 63.000 14.3 69.000 20.0 75.000 17.3 81.000 27.1 87.000 7.6 93.000 20.4' />
+<path d='M3.000 0.7L9.000 43.4 15.000 51.3 21.000 41.0' />
+<path d='M39.000 55.0L45.000 10.4 51.000 48.4 57.000 37.2 63.000 41.9 69.000 58.9 75.000 50.9 81.000 80.4 87.000 21.9 93.000 60.2' />
 </g>
 </g>
 </g>

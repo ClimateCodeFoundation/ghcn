@@ -1,4 +1,4 @@
-<svg width='750px' height='155px'
+<svg width='750px' height='182px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,30 +17,30 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>62316270000 +41.13+016.78  BARI/PALESE M</text>
 </g>
-<g transform='translate(0, 15.0)'>
+<g transform='translate(0, 42.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M54 16.0l0 -31.0M114 16.0l0 -31.0M174 16.0l0 -31.0' />
+  <path d='M54 16.0l0 -58.0M114 16.0l0 -58.0M174 16.0l0 -58.0' />
   <text text-anchor='middle' font-size='16.0' x='54' y='16'>1960</text>
   <text text-anchor='middle' font-size='16.0' x='114' y='16'>1970</text>
   <text text-anchor='middle' font-size='16.0' x='174' y='16'>1980</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -9.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-9.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 392.5l0 -800'/></defs>
+  <path d='M0.0 -25.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-25.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 379.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -9.0l186.0 0' />
+  <path d='M0 -25.0l186.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='186' height='13.3'
+            x='0' y='0.0' width='186' height='39.9'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record62316270000'>
-<path d='M3.000 13.4L9.000 11.2 15.000 6.0 21.000 5.0 27.000 11.4 33.000 1.1 39.000 9.9 45.000 12.0 51.000 6.2 57.000 13.7 63.000 13.1 69.000 10.0 75.000 9.1 81.000 5.7 87.000 6.0 93.000 13.4 99.000 10.2 105.000 10.1 111.000 7.6 117.000 10.7 123.000 5.9 129.000 8.2 135.000 7.9 141.000 10.3 147.000 10.1 153.000 3.5 159.000 14.4 165.000 5.4 171.000 11.2 177.000 5.8 183.000 10.6' />
+<path d='M3.000 38.1L9.000 31.6 15.000 15.9 21.000 12.9 27.000 32.1 33.000 1.4 39.000 27.6 45.000 34.1 51.000 16.6 57.000 39.0 63.000 37.3 69.000 28.0 75.000 25.3 81.000 15.0 87.000 16.0 93.000 38.3 99.000 28.5 105.000 28.3 111.000 20.8 117.000 30.0 123.000 15.8 129.000 22.5 135.000 21.8 141.000 28.8 147.000 28.3 153.000 8.5 159.000 41.3 165.000 14.3 171.000 31.5 177.000 15.3 183.000 29.8' />
 </g>
 </g>
 </g>

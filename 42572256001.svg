@@ -1,4 +1,4 @@
-<svg width='890px' height='162px'
+<svg width='890px' height='202px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,30 +17,31 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>42572256001 +31.63-097.07  WACO/JAMES CONNALLY AFB</text>
 </g>
-<g transform='translate(0, 22.0)'>
+<g transform='translate(0, 62.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M6 16.0l0 -38.0M66 16.0l0 -38.0' />
+  <path d='M6 16.0l0 -78.0M66 16.0l0 -78.0' />
   <text text-anchor='middle' font-size='16.0' x='6' y='16'>1950</text>
   <text text-anchor='middle' font-size='16.0' x='66' y='16'>1960</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -10.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-10.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 389.0l0 -800'/></defs>
+  <path d='M0.0 -29.0l-8 0M0.0 -59.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-29.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-59.0'>1</text>
+  <defs><path id='pvlabel' d='M-48 369.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -10.0l102.0 0' />
+  <path d='M0 -29.0l102.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='102' height='19.8'
+            x='0' y='0.0' width='102' height='59.5'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record42572256001'>
-<path d='M3.000 10.6L9.000 10.1 15.000 12.6 21.000 11.1 27.000 10.3' />
-<path d='M45.000 20.5L51.000 12.8 57.000 3.6 63.000 4.3 69.000 3.8 75.000 0.7 81.000 12.1 87.000 14.6 93.000 9.3' />
+<path d='M3.000 30.8L9.000 29.3 15.000 36.8 21.000 32.3 27.000 29.8' />
+<path d='M45.000 60.5L51.000 37.3 57.000 9.8 63.000 11.8 69.000 10.5 75.000 1.1 81.000 35.2 87.000 42.7 93.000 27.0' />
 </g>
 </g>
 </g>

@@ -1,4 +1,4 @@
-<svg width='848px' height='163px'
+<svg width='848px' height='206px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,31 +17,32 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>42572619004 +44.95-068.67  OLD TOWN/FAA AIRPORT</text>
 </g>
-<g transform='translate(0, 23.0)'>
+<g transform='translate(0, 66.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M0 16.0l0 -39.0M60 16.0l0 -39.0M120 16.0l0 -39.0' />
+  <path d='M0 16.0l0 -82.0M60 16.0l0 -82.0M120 16.0l0 -82.0' />
   <text text-anchor='middle' font-size='16.0' x='0' y='16'>1950</text>
   <text text-anchor='middle' font-size='16.0' x='60' y='16'>1960</text>
   <text text-anchor='middle' font-size='16.0' x='120' y='16'>1970</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -8.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-8.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 388.5l0 -800'/></defs>
+  <path d='M0.0 -22.0l-8 0M0.0 -52.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-22.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-52.0'>1</text>
+  <defs><path id='pvlabel' d='M-48 367.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -8.0l138.0 0' />
+  <path d='M0 -22.0l138.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='138' height='21.5'
+            x='0' y='0.0' width='138' height='64.5'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record42572619004'>
-<path d='M3.000 1.5L9.000 11.9 15.000 16.0 21.000 22.4 27.000 5.0 33.000 7.3 39.000 2.0 45.000 12.7 51.000 3.6 57.000 10.4 63.000 12.5 69.000 9.6 75.000 0.9' />
-<path d='M99.000 13.5L105.000 2.8 111.000 4.1 117.000 10.3 123.000 3.3 129.000 5.3' />
+<path d='M3.000 2.6L9.000 33.6 15.000 46.1 21.000 65.1 27.000 13.0 33.000 19.8 39.000 4.1 45.000 36.1 51.000 8.8 57.000 29.3 63.000 35.4 69.000 26.9 75.000 0.6' />
+<path d='M99.000 38.6L105.000 6.3 111.000 10.3 117.000 29.0 123.000 8.0 129.000 13.8' />
 </g>
 </g>
 </g>

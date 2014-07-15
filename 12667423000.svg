@@ -1,4 +1,4 @@
-<svg width='666px' height='155px'
+<svg width='666px' height='182px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,29 +17,29 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>12667423000 -09.95+033.88  KARONGA</text>
 </g>
-<g transform='translate(0, 15.0)'>
+<g transform='translate(0, 42.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M42 16.0l0 -31.0M102 16.0l0 -31.0' />
+  <path d='M42 16.0l0 -58.0M102 16.0l0 -58.0' />
   <text text-anchor='middle' font-size='16.0' x='42' y='16'>1960</text>
   <text text-anchor='middle' font-size='16.0' x='102' y='16'>1970</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -7.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-7.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 392.5l0 -800'/></defs>
+  <path d='M0.0 -20.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-20.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 379.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -7.0l108.0 0' />
+  <path d='M0 -20.0l108.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='108' height='13.4'
+            x='0' y='0.0' width='108' height='40.1'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record12667423000'>
-<path d='M3.000 9.0L9.000 7.7 15.000 5.2 21.000 0.5 27.000 6.1 33.000 10.0 39.000 10.0 45.000 6.8 51.000 7.5 57.000 5.5 63.000 4.7 69.000 5.9 75.000 4.0 81.000 9.0 87.000 7.4 93.000 6.5 99.000 13.9 105.000 6.7' />
+<path d='M3.000 26.1L9.000 22.1 15.000 14.6 21.000 0.6 27.000 17.4 33.000 28.9 39.000 29.1 45.000 19.4 51.000 21.4 57.000 15.6 63.000 13.0 69.000 16.6 75.000 10.9 81.000 26.1 87.000 21.1 93.000 18.4 99.000 40.7 105.000 19.2' />
 </g>
 </g>
 </g>

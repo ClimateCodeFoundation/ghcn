@@ -1,4 +1,4 @@
-<svg width='1016px' height='198px'
+<svg width='1016px' height='311px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,11 +17,11 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>64917099000 +39.72+043.05  AGRI                           1</text>
 </g>
-<g transform='translate(0, 58.0)'>
+<g transform='translate(0, 171.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M54 16.0l0 -74.0M114 16.0l0 -74.0M174 16.0l0 -74.0M234 16.0l0 -74.0M294 16.0l0 -74.0' />
+  <path d='M54 16.0l0 -187.0M114 16.0l0 -187.0M174 16.0l0 -187.0M234 16.0l0 -187.0M294 16.0l0 -187.0' />
   <text text-anchor='middle' font-size='16.0' x='54' y='16'>1970</text>
   <text text-anchor='middle' font-size='16.0' x='114' y='16'>1980</text>
   <text text-anchor='middle' font-size='16.0' x='174' y='16'>1990</text>
@@ -29,24 +29,26 @@
   <text text-anchor='middle' font-size='16.0' x='294' y='16'>2010</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -3.0l-8 0M0.0 -23.0l-8 0M0.0 -43.0l-8 0M0.0 -63.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-3.0'>-2</text>
-  <text alignment-baseline='middle' x='-8.0' y='-23.0'>0</text>
-  <text alignment-baseline='middle' x='-8.0' y='-43.0'>2</text>
-  <text alignment-baseline='middle' x='-8.0' y='-63.0'>4</text>
-  <defs><path id='pvlabel' d='M-48 371.0l0 -800'/></defs>
+  <path d='M0.0 -7.0l-8 0M0.0 -37.0l-8 0M0.0 -67.0l-8 0M0.0 -97.0l-8 0M0.0 -127.0l-8 0M0.0 -157.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-7.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-37.0'>-1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-67.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-97.0'>1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-127.0'>2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-157.0'>3</text>
+  <defs><path id='pvlabel' d='M-48 314.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -23.0l324.0 0' />
+  <path d='M0 -67.0l324.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='324' height='56.4'
+            x='0' y='0.0' width='324' height='169.1'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record64917099000'>
-<path d='M3.000 30.4L9.000 32.8 15.000 21.7 21.000 3.4 27.000 11.0 33.000 43.4 39.000 5.0 45.000 24.5 51.000 19.8 57.000 32.4 63.000 15.4 69.000 1.1 75.000 1.4 81.000 14.8 87.000 7.2 93.000 10.8 99.000 15.2 105.000 24.5 111.000 42.2 117.000 23.5 123.000 31.7 129.000 9.1 135.000 20.0 141.000 28.9 147.000 30.3 153.000 27.3 159.000 18.1 165.000 17.1 171.000 28.9 177.000 24.4' />
-<path d='M279.000 26.3L285.000 30.2 291.000 31.7 297.000 57.4 303.000 25.6 309.000 30.6 315.000 26.9' />
+<path d='M3.000 89.2L9.000 96.3 15.000 63.0 21.000 8.2 27.000 31.0 33.000 128.2 39.000 13.1 45.000 71.5 51.000 57.5 57.000 95.2 63.000 44.2 69.000 1.2 75.000 2.2 81.000 42.5 87.000 19.7 93.000 30.5 99.000 43.7 105.000 71.6 111.000 124.7 117.000 68.5 123.000 93.0 129.000 25.2 135.000 58.1 141.000 84.8 147.000 88.8 153.000 80.0 159.000 52.3 165.000 49.3 171.000 84.8 177.000 71.1' />
+<path d='M279.000 76.8L285.000 88.6 291.000 93.1 297.000 170.3 303.000 74.7 309.000 89.8 315.000 78.6' />
 </g>
 </g>
 </g>

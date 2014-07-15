@@ -1,4 +1,4 @@
-<svg width='1016px' height='151px'
+<svg width='1016px' height='168px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,30 +17,31 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>14168242001 -25.85+025.65  MAFEKING               SOUTH A 1</text>
 </g>
-<g transform='translate(0, 11.0)'>
+<g transform='translate(0, 28.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M54 16.0l0 -27.0M114 16.0l0 -27.0' />
+  <path d='M54 16.0l0 -44.0M114 16.0l0 -44.0' />
   <text text-anchor='middle' font-size='16.0' x='54' y='16'>1960</text>
   <text text-anchor='middle' font-size='16.0' x='114' y='16'>1970</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -6.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-6.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 394.5l0 -800'/></defs>
+  <path d='M0.0 -15.0l-8 0M0.0 -45.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-15.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-45.0'>1</text>
+  <defs><path id='pvlabel' d='M-48 386.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -6.0l150.0 0' />
+  <path d='M0 -15.0l150.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='150' height='8.6'
+            x='0' y='0.0' width='150' height='25.9'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record14168242001'>
-<path d='M3.000 1.5L9.000 9.0' />
-<path d='M45.000 6.9L51.000 8.4 57.000 6.1 63.000 6.2 69.000 10.1 75.000 4.6 81.000 4.2 87.000 4.4' />
+<path d='M3.000 1.4L9.000 23.9' />
+<path d='M45.000 17.8L51.000 22.3 57.000 15.3 63.000 15.5 69.000 27.2 75.000 10.9 81.000 9.6 87.000 10.1' />
 </g>
 </g>
 </g>

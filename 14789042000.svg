@@ -1,4 +1,4 @@
-<svg width='736px' height='189px'
+<svg width='736px' height='284px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,11 +17,11 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>14789042000 -60.72-045.60  SIGNY ISLAND</text>
 </g>
-<g transform='translate(0, 49.0)'>
+<g transform='translate(0, 144.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M18 16.0l0 -65.0M78 16.0l0 -65.0M138 16.0l0 -65.0M198 16.0l0 -65.0M258 16.0l0 -65.0' />
+  <path d='M18 16.0l0 -160.0M78 16.0l0 -160.0M138 16.0l0 -160.0M198 16.0l0 -160.0M258 16.0l0 -160.0' />
   <text text-anchor='middle' font-size='16.0' x='18' y='16'>1950</text>
   <text text-anchor='middle' font-size='16.0' x='78' y='16'>1960</text>
   <text text-anchor='middle' font-size='16.0' x='138' y='16'>1970</text>
@@ -29,22 +29,25 @@
   <text text-anchor='middle' font-size='16.0' x='258' y='16'>1990</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -6.0l-8 0M0.0 -26.0l-8 0M0.0 -46.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-6.0'>-2</text>
-  <text alignment-baseline='middle' x='-8.0' y='-26.0'>0</text>
-  <text alignment-baseline='middle' x='-8.0' y='-46.0'>2</text>
-  <defs><path id='pvlabel' d='M-48 375.5l0 -800'/></defs>
+  <path d='M0.0 -16.0l-8 0M0.0 -46.0l-8 0M0.0 -76.0l-8 0M0.0 -106.0l-8 0M0.0 -136.0l-8 0M0.0 -166.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-16.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-46.0'>-1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-76.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-106.0'>1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-136.0'>2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-166.0'>3</text>
+  <defs><path id='pvlabel' d='M-48 328.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -26.0l288.0 0' />
+  <path d='M0 -76.0l288.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='288' height='47.2'
+            x='0' y='0.0' width='288' height='141.8'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record14789042000'>
-<path d='M3.000 31.4L9.000 15.2 15.000 1.0 21.000 22.9 27.000 29.6 33.000 21.7 39.000 23.3 45.000 20.3 51.000 41.5 57.000 48.2 63.000 25.2 69.000 11.9 75.000 7.9 81.000 29.5 87.000 18.7 93.000 41.7 99.000 27.5 105.000 22.8 111.000 38.4 117.000 18.3 123.000 23.7 129.000 34.7 135.000 20.8 141.000 32.4 147.000 26.7 153.000 16.1 159.000 15.2 165.000 23.0 171.000 17.1 177.000 28.7 183.000 39.7 189.000 32.2 195.000 23.9 201.000 3.8 207.000 24.9 213.000 33.7 219.000 30.6 225.000 32.0 231.000 39.6 237.000 31.3 243.000 20.3 249.000 25.0 255.000 47.0 261.000 36.9 267.000 20.2' />
+<path d='M3.000 92.2L9.000 43.5 15.000 1.0 21.000 66.6 27.000 86.7 33.000 63.0 39.000 68.0 45.000 59.0 51.000 122.5 57.000 142.7 63.000 73.5 69.000 33.7 75.000 21.7 81.000 86.5 87.000 54.0 93.000 123.2 99.000 80.5 105.000 66.5 111.000 113.2 117.000 53.0 123.000 69.2 129.000 102.0 135.000 60.5 141.000 95.2 147.000 78.2 153.000 46.2 159.000 43.7 165.000 67.0 171.000 49.2 177.000 84.2 183.000 117.0 189.000 94.7 195.000 69.7 201.000 9.5 207.000 72.7 213.000 99.2 219.000 89.7 225.000 94.0 231.000 116.7 237.000 92.0 243.000 59.0 249.000 73.1 255.000 139.0 261.000 108.8 267.000 58.5' />
 </g>
 </g>
 </g>

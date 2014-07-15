@@ -1,4 +1,4 @@
-<svg width='806px' height='154px'
+<svg width='806px' height='179px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,31 +17,31 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>62316362001 +38.70+016.10  VIBOVALENTIA AERO</text>
 </g>
-<g transform='translate(0, 14.0)'>
+<g transform='translate(0, 39.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M48 16.0l0 -30.0M108 16.0l0 -30.0' />
+  <path d='M48 16.0l0 -55.0M108 16.0l0 -55.0' />
   <text text-anchor='middle' font-size='16.0' x='48' y='16'>1960</text>
   <text text-anchor='middle' font-size='16.0' x='108' y='16'>1970</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -6.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-6.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 393.0l0 -800'/></defs>
+  <path d='M0.0 -17.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-17.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 380.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -6.0l144.0 0' />
+  <path d='M0 -17.0l144.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='144' height='12.1'
+            x='0' y='0.0' width='144' height='36.3'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record62316362001'>
-<path d='M3.000 12.9L9.000 6.1 15.000 0.8 21.000 10.5 27.000 3.8' />
-<path d='M51.000 11.9L57.000 8.2 63.000 6.8' />
-<path d='M75.000 4.4L81.000 1.7 87.000 7.1 93.000 4.6 99.000 7.2 105.000 4.0 111.000 5.2 117.000 3.0 123.000 5.2 129.000 8.1 135.000 5.1 141.000 4.8' />
+<path d='M3.000 37.6L9.000 17.4 15.000 1.4 21.000 30.4 27.000 10.4' />
+<path d='M51.000 34.8L57.000 23.6 63.000 19.5' />
+<path d='M75.000 12.2L81.000 4.2 87.000 20.4 93.000 12.9 99.000 20.7 105.000 10.9 111.000 14.7 117.000 7.9 123.000 14.7 129.000 23.4 135.000 14.4 141.000 13.4' />
 </g>
 </g>
 </g>

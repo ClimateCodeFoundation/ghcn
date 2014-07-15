@@ -1,4 +1,4 @@
-<svg width='638px' height='161px'
+<svg width='638px' height='199px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,33 +17,34 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>20840829000 +31.33+061.48  ZABOL</text>
 </g>
-<g transform='translate(0, 21.0)'>
+<g transform='translate(0, 59.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M36 16.0l0 -37.0M96 16.0l0 -37.0M156 16.0l0 -37.0M216 16.0l0 -37.0' />
+  <path d='M36 16.0l0 -75.0M96 16.0l0 -75.0M156 16.0l0 -75.0M216 16.0l0 -75.0' />
   <text text-anchor='middle' font-size='16.0' x='36' y='16'>1970</text>
   <text text-anchor='middle' font-size='16.0' x='96' y='16'>1980</text>
   <text text-anchor='middle' font-size='16.0' x='156' y='16'>1990</text>
   <text text-anchor='middle' font-size='16.0' x='216' y='16'>2000</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -10.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-10.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 389.5l0 -800'/></defs>
+  <path d='M0.0 -27.0l-8 0M0.0 -57.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-27.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-57.0'>1</text>
+  <defs><path id='pvlabel' d='M-48 370.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -10.0l222.0 0' />
+  <path d='M0 -27.0l222.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='222' height='19.0'
+            x='0' y='0.0' width='222' height='57.0'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record20840829000'>
-<path d='M9.000 8.1L15.000 12.2 21.000 6.2 27.000 9.9 33.000 3.9' />
-<path d='M63.000 4.6L69.000 6.6 75.000 7.0 81.000 20.5 87.000 13.3 93.000 8.6' />
-<path d='M165.000 8.9L171.000 1.5 177.000 5.6 183.000 14.1 189.000 13.2 195.000 4.6 201.000 13.5 207.000 17.7 213.000 16.8 219.000 20.2' />
+<path d='M9.000 21.4L15.000 33.7 21.000 15.7 27.000 26.7 33.000 8.7' />
+<path d='M63.000 10.7L69.000 16.7 75.000 17.9 81.000 58.4 87.000 36.9 93.000 22.7' />
+<path d='M165.000 23.6L171.000 1.4 177.000 13.9 183.000 39.2 189.000 36.7 195.000 10.7 201.000 37.4 207.000 50.2 213.000 47.4 219.000 57.6' />
 </g>
 </g>
 </g>

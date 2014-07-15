@@ -1,4 +1,4 @@
-<svg width='708px' height='161px'
+<svg width='708px' height='199px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,31 +17,32 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>62240191000 +31.23+034.78  BEER-SHEVA</text>
 </g>
-<g transform='translate(0, 21.0)'>
+<g transform='translate(0, 59.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M54 16.0l0 -37.0M114 16.0l0 -37.0M174 16.0l0 -37.0' />
+  <path d='M54 16.0l0 -75.0M114 16.0l0 -75.0M174 16.0l0 -75.0' />
   <text text-anchor='middle' font-size='16.0' x='54' y='16'>1960</text>
   <text text-anchor='middle' font-size='16.0' x='114' y='16'>1970</text>
   <text text-anchor='middle' font-size='16.0' x='174' y='16'>1980</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -13.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-13.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 389.5l0 -800'/></defs>
+  <path d='M0.0 -6.0l-8 0M0.0 -36.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-6.0'>-1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-36.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 370.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -13.0l186.0 0' />
+  <path d='M0 -36.0l186.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='186' height='19.0'
+            x='0' y='0.0' width='186' height='57.0'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record62240191000'>
-<path d='M3.000 17.1L9.000 16.7 15.000 7.8 21.000 12.4 27.000 16.6 33.000 11.9 39.000 11.9 45.000 13.6 51.000 1.4 57.000 20.4' />
-<path class='singleton' d='M183.000 13.1l 0 0' />
+<path d='M3.000 48.4L9.000 47.2 15.000 20.4 21.000 34.2 27.000 46.9 33.000 32.7 39.000 32.7 45.000 37.9 51.000 1.2 57.000 58.2' />
+<path class='singleton' d='M183.000 36.2l 0 0' />
 </g>
 </g>
 </g>

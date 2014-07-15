@@ -1,4 +1,4 @@
-<svg width='946px' height='161px'
+<svg width='946px' height='198px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,31 +17,33 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>10160545001 +33.50+003.70  AYATA               ALGERIA</text>
 </g>
-<g transform='translate(0, 21.0)'>
+<g transform='translate(0, 58.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M6 16.0l0 -37.0M66 16.0l0 -37.0' />
+  <path d='M6 16.0l0 -74.0M66 16.0l0 -74.0' />
   <text text-anchor='middle' font-size='16.0' x='6' y='16'>1890</text>
   <text text-anchor='middle' font-size='16.0' x='66' y='16'>1900</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -11.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-11.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 389.5l0 -800'/></defs>
+  <path d='M0.0 -1.0l-8 0M0.0 -31.0l-8 0M0.0 -61.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-1.0'>-1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-31.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-61.0'>1</text>
+  <defs><path id='pvlabel' d='M-48 371.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -11.0l102.0 0' />
+  <path d='M0 -31.0l102.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='102' height='18.7'
+            x='0' y='0.0' width='102' height='56.0'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record10160545001'>
-<path d='M9.000 1.2L15.000 7.1 21.000 19.6 27.000 16.4' />
-<path d='M51.000 14.1L57.000 9.5' />
-<path d='M75.000 6.8L81.000 14.5 87.000 6.4 93.000 19.8' />
+<path d='M9.000 1.5L15.000 19.2 21.000 56.7 27.000 47.2' />
+<path d='M51.000 40.3L57.000 26.5' />
+<path d='M75.000 18.5L81.000 41.5 87.000 17.2 93.000 57.5' />
 </g>
 </g>
 </g>

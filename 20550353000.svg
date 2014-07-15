@@ -1,4 +1,4 @@
-<svg width='624px' height='193px'
+<svg width='624px' height='294px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,33 +17,35 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>20550353000 +51.72+126.65  HUMA</text>
 </g>
-<g transform='translate(0, 53.0)'>
+<g transform='translate(0, 154.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M36 16.0l0 -69.0M96 16.0l0 -69.0M156 16.0l0 -69.0M216 16.0l0 -69.0' />
+  <path d='M36 16.0l0 -170.0M96 16.0l0 -170.0M156 16.0l0 -170.0M216 16.0l0 -170.0' />
   <text text-anchor='middle' font-size='16.0' x='36' y='16'>1960</text>
   <text text-anchor='middle' font-size='16.0' x='96' y='16'>1970</text>
   <text text-anchor='middle' font-size='16.0' x='156' y='16'>1980</text>
   <text text-anchor='middle' font-size='16.0' x='216' y='16'>1990</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -4.0l-8 0M0.0 -24.0l-8 0M0.0 -44.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-4.0'>-2</text>
-  <text alignment-baseline='middle' x='-8.0' y='-24.0'>0</text>
-  <text alignment-baseline='middle' x='-8.0' y='-44.0'>2</text>
-  <defs><path id='pvlabel' d='M-48 373.5l0 -800'/></defs>
+  <path d='M0.0 -9.0l-8 0M0.0 -39.0l-8 0M0.0 -69.0l-8 0M0.0 -99.0l-8 0M0.0 -129.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-9.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-39.0'>-1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-69.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-99.0'>1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-129.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 323.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -24.0l222.0 0' />
+  <path d='M0 -69.0l222.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='222' height='50.4'
+            x='0' y='0.0' width='222' height='151.2'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record20550353000'>
-<path d='M3.000 21.6L9.000 20.5 15.000 8.3 21.000 20.8 27.000 21.0 33.000 27.9 39.000 7.3 45.000 16.5 51.000 24.0 57.000 32.0 63.000 18.0 69.000 7.3 75.000 9.2 81.000 29.4 87.000 34.6 93.000 1.5 99.000 22.2 105.000 28.5 111.000 12.3 117.000 24.4 123.000 13.5 129.000 41.1 135.000 18.6 141.000 19.0 147.000 29.5 153.000 19.8 159.000 22.5 165.000 28.0 171.000 33.2 177.000 33.6 183.000 23.9 189.000 27.0 195.000 36.2 201.000 16.4 207.000 42.5 213.000 43.5 219.000 51.9' />
+<path d='M3.000 61.9L9.000 58.6 15.000 21.9 21.000 59.4 27.000 59.9 33.000 80.6 39.000 18.9 45.000 46.6 51.000 69.1 57.000 93.1 63.000 51.1 69.000 18.9 75.000 24.6 81.000 85.1 87.000 100.9 93.000 1.4 99.000 63.6 105.000 82.4 111.000 33.9 117.000 70.1 123.000 37.4 129.000 120.4 135.000 52.9 141.000 53.9 147.000 85.6 153.000 56.4 159.000 64.6 165.000 81.1 171.000 96.6 177.000 97.9 183.000 68.6 189.000 78.1 195.000 105.6 201.000 46.1 207.000 124.6 213.000 127.6 219.000 152.6' />
 </g>
 </g>
 </g>

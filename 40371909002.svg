@@ -1,4 +1,4 @@
-<svg width='904px' height='194px'
+<svg width='904px' height='299px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,11 +17,11 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>40371909002 +61.60-064.70  RESOLUTION ISLAND CANADA</text>
 </g>
-<g transform='translate(0, 54.0)'>
+<g transform='translate(0, 159.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M6 16.0l0 -70.0M66 16.0l0 -70.0M126 16.0l0 -70.0M186 16.0l0 -70.0M246 16.0l0 -70.0' />
+  <path d='M6 16.0l0 -175.0M66 16.0l0 -175.0M126 16.0l0 -175.0M186 16.0l0 -175.0M246 16.0l0 -175.0' />
   <text text-anchor='middle' font-size='16.0' x='6' y='16'>1930</text>
   <text text-anchor='middle' font-size='16.0' x='66' y='16'>1940</text>
   <text text-anchor='middle' font-size='16.0' x='126' y='16'>1950</text>
@@ -29,26 +29,28 @@
   <text text-anchor='middle' font-size='16.0' x='246' y='16'>1970</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -14.0l-8 0M0.0 -34.0l-8 0M0.0 -54.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-14.0'>-2</text>
-  <text alignment-baseline='middle' x='-8.0' y='-34.0'>0</text>
-  <text alignment-baseline='middle' x='-8.0' y='-54.0'>2</text>
-  <defs><path id='pvlabel' d='M-48 373.0l0 -800'/></defs>
+  <path d='M0.0 -11.0l-8 0M0.0 -41.0l-8 0M0.0 -71.0l-8 0M0.0 -101.0l-8 0M0.0 -131.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-11.0'>-3</text>
+  <text alignment-baseline='middle' x='-8.0' y='-41.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-71.0'>-1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-101.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-131.0'>1</text>
+  <defs><path id='pvlabel' d='M-48 320.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -34.0l282.0 0' />
+  <path d='M0 -101.0l282.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='282' height='52.3'
+            x='0' y='0.0' width='282' height='157.0'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record40371909002'>
-<path d='M9.000 31.7L15.000 40.0 21.000 33.6 27.000 35.4' />
-<path d='M39.000 30.5L45.000 35.0 51.000 35.6 57.000 28.3 63.000 32.3 69.000 46.9 75.000 47.7 81.000 39.0 87.000 26.9 93.000 30.5 99.000 32.1' />
-<path d='M111.000 53.1L117.000 25.9' />
-<path d='M129.000 30.3L135.000 39.9 141.000 42.6 147.000 34.8 153.000 31.5 159.000 50.1 165.000 28.0 171.000 30.6 177.000 48.3 183.000 31.1 189.000 42.5 195.000 25.9' />
-<path d='M213.000 27.1L219.000 35.6 225.000 45.1 231.000 23.6 237.000 39.0 243.000 39.5 249.000 28.2 255.000 24.0 261.000 0.8 267.000 35.7 273.000 27.9 279.000 35.5' />
+<path d='M9.000 94.1L15.000 119.1 21.000 99.9 27.000 105.3' />
+<path d='M39.000 90.4L45.000 103.9 51.000 105.9 57.000 83.9 63.000 95.9 69.000 139.7 75.000 142.1 81.000 116.1 87.000 79.6 93.000 90.4 99.000 95.4' />
+<path d='M111.000 158.4L117.000 76.7' />
+<path d='M129.000 89.9L135.000 118.6 141.000 126.9 147.000 103.4 153.000 93.6 159.000 149.4 165.000 82.9 171.000 90.9 177.000 143.9 183.000 92.4 189.000 126.6 195.000 76.7' />
+<path d='M213.000 80.4L219.000 105.7 225.000 134.4 231.000 69.9 237.000 115.9 243.000 117.4 249.000 83.7 255.000 70.9 261.000 1.4 267.000 106.2 273.000 82.7 279.000 105.5' />
 </g>
 </g>
 </g>

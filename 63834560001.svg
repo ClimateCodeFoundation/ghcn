@@ -1,4 +1,4 @@
-<svg width='904px' height='169px'
+<svg width='904px' height='222px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,29 +17,31 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>63834560001 +48.50+044.60  SSAREPTA            USSR</text>
 </g>
-<g transform='translate(0, 29.0)'>
+<g transform='translate(0, 82.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M12 16.0l0 -45.0M72 16.0l0 -45.0' />
+  <path d='M12 16.0l0 -98.0M72 16.0l0 -98.0' />
   <text text-anchor='middle' font-size='16.0' x='12' y='16'>1840</text>
   <text text-anchor='middle' font-size='16.0' x='72' y='16'>1850</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -15.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-15.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 385.5l0 -800'/></defs>
+  <path d='M0.0 -12.0l-8 0M0.0 -42.0l-8 0M0.0 -72.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-12.0'>-1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-42.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-72.0'>1</text>
+  <defs><path id='pvlabel' d='M-48 359.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -15.0l108.0 0' />
+  <path d='M0 -42.0l108.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='108' height='26.6'
+            x='0' y='0.0' width='108' height='79.8'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record63834560001'>
-<path d='M3.000 5.7L9.000 5.4 15.000 1.5 21.000 6.0 27.000 15.0 33.000 26.4 39.000 14.0 45.000 11.0 51.000 17.2 57.000 13.9 63.000 18.8 69.000 18.5 75.000 21.1 81.000 28.0 87.000 15.3 93.000 17.6 99.000 12.5' />
+<path d='M3.000 14.1L9.000 13.1 15.000 1.4 21.000 15.1 27.000 42.1 33.000 76.1 39.000 38.9 45.000 29.9 51.000 48.6 57.000 38.6 63.000 53.4 69.000 52.6 75.000 60.4 81.000 81.1 87.000 42.9 93.000 49.9 99.000 34.6' />
 </g>
 </g>
 </g>

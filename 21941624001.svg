@@ -1,4 +1,4 @@
-<svg width='638px' height='161px'
+<svg width='638px' height='199px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,33 +17,34 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>21941624001 +30.97+070.95  LEIAH</text>
 </g>
-<g transform='translate(0, 21.0)'>
+<g transform='translate(0, 59.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M12 16.0l0 -37.0M72 16.0l0 -37.0M132 16.0l0 -37.0' />
+  <path d='M12 16.0l0 -75.0M72 16.0l0 -75.0M132 16.0l0 -75.0' />
   <text text-anchor='middle' font-size='16.0' x='12' y='16'>1940</text>
   <text text-anchor='middle' font-size='16.0' x='72' y='16'>1950</text>
   <text text-anchor='middle' font-size='16.0' x='132' y='16'>1960</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -11.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-11.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 389.5l0 -800'/></defs>
+  <path d='M0.0 0.0l-8 0M0.0 -30.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='0.0'>-1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-30.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 370.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -11.0l168.0 0' />
+  <path d='M0 -30.0l168.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='168' height='19.0'
+            x='0' y='0.0' width='168' height='57.1'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record21941624001'>
-<path d='M3.000 14.1L9.000 7.8 15.000 10.5 21.000 20.3 27.000 13.3 33.000 10.3 39.000 5.9 45.000 1.5' />
-<path d='M75.000 1.3L81.000 14.6' />
-<path class='singleton' d='M129.000 14.1l 0 0' />
-<path d='M141.000 5.4L147.000 14.1' />
+<path d='M3.000 39.2L9.000 20.3 15.000 28.6 21.000 57.8 27.000 36.8 33.000 28.0 39.000 14.8 45.000 1.4' />
+<path d='M75.000 0.8L81.000 40.7' />
+<path class='singleton' d='M129.000 39.4l 0 0' />
+<path d='M141.000 13.1L147.000 39.4' />
 </g>
 </g>
 </g>

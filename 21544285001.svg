@@ -1,4 +1,4 @@
-<svg width='1016px' height='162px'
+<svg width='1016px' height='203px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,29 +17,30 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>21544285001 +47.20+104.20  MONGOLIAN STATION, CENTRAL     1</text>
 </g>
-<g transform='translate(0, 22.0)'>
+<g transform='translate(0, 63.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M48 16.0l0 -38.0M108 16.0l0 -38.0' />
+  <path d='M48 16.0l0 -79.0M108 16.0l0 -79.0' />
   <text text-anchor='middle' font-size='16.0' x='48' y='16'>1970</text>
   <text text-anchor='middle' font-size='16.0' x='108' y='16'>1980</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -13.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-13.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 389.0l0 -800'/></defs>
+  <path d='M0.0 -7.0l-8 0M0.0 -37.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-7.0'>-1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-37.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 368.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -13.0l132.0 0' />
+  <path d='M0 -37.0l132.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='132' height='20.4'
+            x='0' y='0.0' width='132' height='61.1'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record21544285001'>
-<path d='M3.000 15.3L9.000 17.2 15.000 18.2 21.000 17.5 27.000 7.4 33.000 7.4 39.000 9.2 45.000 1.1 51.000 2.3 57.000 8.7 63.000 17.9 69.000 18.8 75.000 7.6 81.000 20.3 87.000 4.9 93.000 13.3 99.000 19.1 105.000 21.4 111.000 11.9 117.000 13.6 123.000 20.9' />
+<path d='M3.000 44.0L9.000 49.5 15.000 52.6 21.000 50.5 27.000 20.3 33.000 20.2 39.000 25.5 45.000 1.2 51.000 5.0 57.000 24.1 63.000 51.6 69.000 54.3 75.000 20.8 81.000 58.8 87.000 12.6 93.000 37.8 99.000 55.3 105.000 62.3 111.000 33.6 117.000 38.8 123.000 60.8' />
 </g>
 </g>
 </g>

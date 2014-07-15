@@ -1,4 +1,4 @@
-<svg width='666px' height='168px'
+<svg width='666px' height='219px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,30 +17,32 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>63512660001 +49.40+021.00  KRYNICA</text>
 </g>
-<g transform='translate(0, 28.0)'>
+<g transform='translate(0, 79.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M54 16.0l0 -44.0M114 16.0l0 -44.0' />
+  <path d='M54 16.0l0 -95.0M114 16.0l0 -95.0' />
   <text text-anchor='middle' font-size='16.0' x='54' y='16'>1950</text>
   <text text-anchor='middle' font-size='16.0' x='114' y='16'>1960</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -15.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-15.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 386.0l0 -800'/></defs>
+  <path d='M0.0 -13.0l-8 0M0.0 -43.0l-8 0M0.0 -73.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-13.0'>-1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-43.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-73.0'>1</text>
+  <defs><path id='pvlabel' d='M-48 360.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -15.0l120.0 0' />
+  <path d='M0 -43.0l120.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='120' height='25.7'
+            x='0' y='0.0' width='120' height='77.0'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record63512660001'>
 <path class='singleton' d='M3.000 1.0l 0 0' />
-<path d='M27.000 17.7L33.000 17.0 39.000 10.9 45.000 17.9 51.000 21.3 57.000 21.1 63.000 26.7 69.000 11.7 75.000 17.5 81.000 9.3 87.000 9.4 93.000 1.6 99.000 18.3 105.000 18.3 111.000 18.3 117.000 17.8' />
+<path d='M27.000 51.0L33.000 49.0 39.000 30.8 45.000 51.8 51.000 61.8 57.000 61.3 63.000 78.0 69.000 33.0 75.000 50.5 81.000 26.0 87.000 26.3 93.000 2.8 99.000 53.0 105.000 53.0 111.000 53.0 117.000 51.3' />
 </g>
 </g>
 </g>

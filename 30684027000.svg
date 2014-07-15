@@ -1,4 +1,4 @@
-<svg width='1016px' height='276px'
+<svg width='1016px' height='544px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,40 +17,46 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>30684027000 +00.82-077.70  TULCAN/EL ROS                  2</text>
 </g>
-<g transform='translate(0, 136.0)'>
+<g transform='translate(0, 404.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M54 16.0l0 -152.0M114 16.0l0 -152.0M174 16.0l0 -152.0M234 16.0l0 -152.0' />
+  <path d='M54 16.0l0 -420.0M114 16.0l0 -420.0M174 16.0l0 -420.0M234 16.0l0 -420.0' />
   <text text-anchor='middle' font-size='16.0' x='54' y='16'>1970</text>
   <text text-anchor='middle' font-size='16.0' x='114' y='16'>1980</text>
   <text text-anchor='middle' font-size='16.0' x='174' y='16'>1990</text>
   <text text-anchor='middle' font-size='16.0' x='234' y='16'>2000</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -18.0l-8 0M0.0 -38.0l-8 0M0.0 -58.0l-8 0M0.0 -78.0l-8 0M0.0 -98.0l-8 0M0.0 -118.0l-8 0M0.0 -138.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-18.0'>-2</text>
-  <text alignment-baseline='middle' x='-8.0' y='-38.0'>0</text>
-  <text alignment-baseline='middle' x='-8.0' y='-58.0'>2</text>
-  <text alignment-baseline='middle' x='-8.0' y='-78.0'>4</text>
-  <text alignment-baseline='middle' x='-8.0' y='-98.0'>6</text>
-  <text alignment-baseline='middle' x='-8.0' y='-118.0'>8</text>
-  <text alignment-baseline='middle' x='-8.0' y='-138.0'>10</text>
-  <defs><path id='pvlabel' d='M-48 332.0l0 -800'/></defs>
+  <path d='M0.0 -21.0l-8 0M0.0 -51.0l-8 0M0.0 -81.0l-8 0M0.0 -111.0l-8 0M0.0 -141.0l-8 0M0.0 -171.0l-8 0M0.0 -201.0l-8 0M0.0 -231.0l-8 0M0.0 -261.0l-8 0M0.0 -291.0l-8 0M0.0 -321.0l-8 0M0.0 -351.0l-8 0M0.0 -381.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-21.0'>-3</text>
+  <text alignment-baseline='middle' x='-8.0' y='-51.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-81.0'>-1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-111.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-141.0'>1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-171.0'>2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-201.0'>3</text>
+  <text alignment-baseline='middle' x='-8.0' y='-231.0'>4</text>
+  <text alignment-baseline='middle' x='-8.0' y='-261.0'>5</text>
+  <text alignment-baseline='middle' x='-8.0' y='-291.0'>6</text>
+  <text alignment-baseline='middle' x='-8.0' y='-321.0'>7</text>
+  <text alignment-baseline='middle' x='-8.0' y='-351.0'>8</text>
+  <text alignment-baseline='middle' x='-8.0' y='-381.0'>9</text>
+  <defs><path id='pvlabel' d='M-48 198.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -38.0l240.0 0' />
+  <path d='M0 -111.0l240.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='240' height='133.9'
+            x='0' y='0.0' width='240' height='401.6'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record30684027000'>
-<path d='M21.000 132.5L27.000 135.2 33.000 132.7' />
-<path class='singleton' d='M45.000 109.2l 0 0' />
-<path d='M57.000 106.6L63.000 1.4 69.000 7.7 75.000 12.1 81.000 7.8 87.000 6.1 93.000 3.6 99.000 8.0 105.000 7.9 111.000 9.6 117.000 9.6' />
-<path d='M183.000 27.8L189.000 27.5 195.000 27.5 201.000 27.9 207.000 34.0 213.000 28.9 219.000 30.8 225.000 38.1 231.000 25.7 237.000 29.0' />
+<path d='M21.000 394.6L27.000 402.7 33.000 395.2' />
+<path class='singleton' d='M45.000 324.7l 0 0' />
+<path d='M57.000 316.7L63.000 1.2 69.000 20.2 75.000 33.4 81.000 20.4 87.000 15.4 93.000 7.7 99.000 20.9 105.000 20.7 111.000 25.7 117.000 25.7' />
+<path d='M183.000 80.4L189.000 79.4 195.000 79.4 201.000 80.7 207.000 98.9 213.000 83.7 219.000 89.4 225.000 111.4 231.000 74.2 237.000 83.9' />
 </g>
 </g>
 </g>

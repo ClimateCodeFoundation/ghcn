@@ -1,4 +1,4 @@
-<svg width='638px' height='157px'
+<svg width='638px' height='188px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,29 +17,29 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>20647046000 +40.03+128.18  SINPO</text>
 </g>
-<g transform='translate(0, 17.0)'>
+<g transform='translate(0, 48.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M54 16.0l0 -33.0' />
+  <path d='M54 16.0l0 -64.0' />
   <text text-anchor='middle' font-size='16.0' x='54' y='16'>1980</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -10.0l-8 0M0.0 -30.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-10.0'>0</text>
-  <text alignment-baseline='middle' x='-8.0' y='-30.0'>2</text>
-  <defs><path id='pvlabel' d='M-48 391.5l0 -800'/></defs>
+  <path d='M0.0 -29.0l-8 0M0.0 -59.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-29.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-59.0'>1</text>
+  <defs><path id='pvlabel' d='M-48 376.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -10.0l54.0 0' />
+  <path d='M0 -29.0l54.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='54' height='15.2'
+            x='0' y='0.0' width='54' height='45.7'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record20647046000'>
-<path d='M3.000 7.0L9.000 10.8 15.000 12.1 21.000 0.8 27.000 15.7 33.000 7.1 39.000 7.7 45.000 16.1' />
+<path d='M3.000 20.0L9.000 31.5 15.000 35.2 21.000 1.5 27.000 46.2 33.000 20.2 39.000 22.2 45.000 47.2' />
 </g>
 </g>
 </g>

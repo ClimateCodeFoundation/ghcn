@@ -1,4 +1,4 @@
-<svg width='862px' height='152px'
+<svg width='862px' height='170px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,27 +17,27 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>50793116003 -36.85+174.77  AUCKLAND, ALBERT PARK</text>
 </g>
-<g transform='translate(0, 12.0)'>
+<g transform='translate(0, 30.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
   <path d='' />
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -6.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-6.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 394.0l0 -800'/></defs>
+  <path d='M0.0 -15.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-15.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 385.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -6.0l42.0 0' />
+  <path d='M0 -15.0l42.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='42' height='9.5'
+            x='0' y='0.0' width='42' height='28.5'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record50793116003'>
-<path d='M3.000 5.1L9.000 1.2 15.000 6.0 21.000 10.7 27.000 10.5 33.000 4.6 39.000 3.3' />
+<path d='M3.000 12.3L9.000 0.7 15.000 15.0 21.000 29.2 27.000 28.6 33.000 10.7 39.000 7.0' />
 </g>
 </g>
 </g>

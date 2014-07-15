@@ -1,4 +1,4 @@
-<svg width='750px' height='178px'
+<svg width='750px' height='249px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,11 +17,11 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>30383064000 -10.52-048.72  PORTO NACIONA</text>
 </g>
-<g transform='translate(0, 38.0)'>
+<g transform='translate(0, 109.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M6 16.0l0 -54.0M66 16.0l0 -54.0M126 16.0l0 -54.0M186 16.0l0 -54.0M246 16.0l0 -54.0M306 16.0l0 -54.0M366 16.0l0 -54.0' />
+  <path d='M6 16.0l0 -125.0M66 16.0l0 -125.0M126 16.0l0 -125.0M186 16.0l0 -125.0M246 16.0l0 -125.0M306 16.0l0 -125.0M366 16.0l0 -125.0' />
   <text text-anchor='middle' font-size='16.0' x='6' y='16'>1950</text>
   <text text-anchor='middle' font-size='16.0' x='66' y='16'>1960</text>
   <text text-anchor='middle' font-size='16.0' x='126' y='16'>1970</text>
@@ -31,28 +31,28 @@
   <text text-anchor='middle' font-size='16.0' x='366' y='16'>2010</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -18.0l-8 0M0.0 -38.0l-8 0M0.0 -58.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-18.0'>0</text>
-  <text alignment-baseline='middle' x='-8.0' y='-38.0'>2</text>
-  <text alignment-baseline='middle' x='-8.0' y='-58.0'>4</text>
-  <defs><path id='pvlabel' d='M-48 381.0l0 -800'/></defs>
+  <path d='M0.0 -22.0l-8 0M0.0 -52.0l-8 0M0.0 -82.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-22.0'>-1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-52.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-82.0'>1</text>
+  <defs><path id='pvlabel' d='M-48 345.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -18.0l396.0 0' />
+  <path d='M0 -52.0l396.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='396' height='35.7'
+            x='0' y='0.0' width='396' height='107.1'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record30383064000'>
-<path d='M9.000 1.0L15.000 6.8 21.000 13.6 27.000 11.3 33.000 16.0 39.000 11.7 45.000 3.5 51.000 10.2 57.000 19.0 63.000 15.2 69.000 11.0 75.000 13.2 81.000 13.2 87.000 9.4 93.000 11.0 99.000 12.3 105.000 16.7 111.000 12.7 117.000 11.5 123.000 19.7 129.000 17.0 135.000 1.9' />
-<path d='M153.000 10.4L159.000 8.8 165.000 4.5 171.000 15.3 177.000 16.2 183.000 17.3' />
-<path d='M195.000 15.5L201.000 20.4 207.000 23.0 213.000 16.7 219.000 12.6 225.000 18.5 231.000 24.0 237.000 21.6 243.000 17.3' />
-<path class='singleton' d='M261.000 24.6l 0 0' />
-<path class='singleton' d='M279.000 23.1l 0 0' />
-<path d='M291.000 27.1L297.000 33.3 303.000 26.3 309.000 21.0 315.000 22.4 321.000 27.8 327.000 31.0 333.000 30.2 339.000 34.1 345.000 29.5 351.000 36.7 357.000 23.0 363.000 23.5 369.000 34.8 375.000 25.2' />
-<path class='singleton' d='M387.000 33.6l 0 0' />
+<path d='M9.000 1.0L15.000 18.4 21.000 38.8 27.000 31.9 33.000 46.1 39.000 33.2 45.000 8.6 51.000 28.7 57.000 54.9 63.000 43.6 69.000 31.1 75.000 37.6 81.000 37.6 87.000 26.1 93.000 31.1 99.000 34.9 105.000 48.1 111.000 36.1 117.000 32.6 123.000 57.2 129.000 49.0 135.000 3.6' />
+<path d='M153.000 29.3L159.000 24.5 165.000 11.4 171.000 43.8 177.000 46.6 183.000 49.9' />
+<path d='M195.000 44.5L201.000 59.1 207.000 66.9 213.000 48.0 219.000 35.9 225.000 53.4 231.000 70.1 237.000 62.7 243.000 49.9' />
+<path class='singleton' d='M261.000 71.9l 0 0' />
+<path class='singleton' d='M279.000 67.2l 0 0' />
+<path d='M291.000 79.3L297.000 98.0 303.000 76.8 309.000 61.1 315.000 65.1 321.000 81.4 327.000 91.1 333.000 88.7 339.000 100.2 345.000 86.6 351.000 108.1 357.000 67.0 363.000 68.5 369.000 102.5 375.000 73.6' />
+<path class='singleton' d='M387.000 98.8l 0 0' />
 </g>
 </g>
 </g>

@@ -1,4 +1,4 @@
-<svg width='680px' height='148px'
+<svg width='680px' height='159px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,31 +17,32 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>50998546000 +12.48+124.63  CATARMAN</text>
 </g>
-<g transform='translate(0, 8.0)'>
+<g transform='translate(0, 19.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M54 16.0l0 -24.0M114 16.0l0 -24.0' />
+  <path d='M54 16.0l0 -35.0M114 16.0l0 -35.0' />
   <text text-anchor='middle' font-size='16.0' x='54' y='16'>1960</text>
   <text text-anchor='middle' font-size='16.0' x='114' y='16'>1970</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -4.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-4.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 396.0l0 -800'/></defs>
+  <path d='M0.0 -10.0l-8 0M0.0 -40.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-10.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-40.0'>1</text>
+  <defs><path id='pvlabel' d='M-48 390.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -4.0l150.0 0' />
+  <path d='M0 -10.0l150.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='150' height='5.4'
+            x='0' y='0.0' width='150' height='16.2'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record50998546000'>
-<path d='M3.000 5.8L9.000 4.6 15.000 5.8 21.000 4.5 27.000 1.9 33.000 3.7 39.000 6.6 45.000 5.4 51.000 4.8 57.000 5.6' />
-<path d='M81.000 2.3L87.000 1.9 93.000 4.4 99.000 1.5 105.000 3.1' />
-<path d='M123.000 1.2L129.000 4.3 135.000 3.6 141.000 4.0 147.000 4.3' />
+<path d='M3.000 15.4L9.000 11.7 15.000 15.5 21.000 11.4 27.000 3.7 33.000 9.2 39.000 17.7 45.000 14.2 51.000 12.4 57.000 14.8' />
+<path d='M81.000 4.8L87.000 3.7 93.000 11.2 99.000 2.5 105.000 7.2' />
+<path d='M123.000 1.5L129.000 11.0 135.000 8.7 141.000 10.0 147.000 11.0' />
 </g>
 </g>
 </g>

@@ -1,4 +1,4 @@
-<svg width='1016px' height='163px'
+<svg width='1016px' height='205px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,35 +17,36 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>30984673000 -13.13-074.22  AYACUCHO                       2</text>
 </g>
-<g transform='translate(0, 23.0)'>
+<g transform='translate(0, 65.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M30 16.0l0 -39.0M90 16.0l0 -39.0M150 16.0l0 -39.0M210 16.0l0 -39.0' />
+  <path d='M30 16.0l0 -81.0M90 16.0l0 -81.0M150 16.0l0 -81.0M210 16.0l0 -81.0' />
   <text text-anchor='middle' font-size='16.0' x='30' y='16'>1970</text>
   <text text-anchor='middle' font-size='16.0' x='90' y='16'>1980</text>
   <text text-anchor='middle' font-size='16.0' x='150' y='16'>1990</text>
   <text text-anchor='middle' font-size='16.0' x='210' y='16'>2000</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -9.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-9.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 388.5l0 -800'/></defs>
+  <path d='M0.0 -25.0l-8 0M0.0 -55.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-25.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-55.0'>1</text>
+  <defs><path id='pvlabel' d='M-48 367.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -9.0l222.0 0' />
+  <path d='M0 -25.0l222.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='222' height='21.0'
+            x='0' y='0.0' width='222' height='62.9'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record30984673000'>
-<path d='M3.000 10.3L9.000 10.9 15.000 5.1 21.000 7.5 27.000 15.1 33.000 10.6 39.000 8.3' />
-<path d='M51.000 8.5L57.000 3.4 63.000 4.4 69.000 0.9 75.000 6.3 81.000 6.3 87.000 9.3 93.000 12.7' />
-<path d='M105.000 10.1L111.000 21.9 117.000 3.8' />
-<path d='M129.000 6.6L135.000 21.2 141.000 8.5 147.000 6.6 153.000 10.8' />
-<path class='singleton' d='M189.000 10.7l 0 0' />
+<path d='M3.000 28.9L9.000 30.7 15.000 13.4 21.000 20.6 27.000 43.4 33.000 29.9 39.000 22.9' />
+<path d='M51.000 23.4L57.000 8.1 63.000 11.1 69.000 0.8 75.000 16.8 81.000 17.0 87.000 26.0 93.000 36.1' />
+<path d='M105.000 28.3L111.000 63.7 117.000 9.4' />
+<path d='M129.000 17.8L135.000 61.5 141.000 23.5 147.000 17.7 153.000 30.4' />
+<path class='singleton' d='M189.000 30.1l 0 0' />
 </g>
 </g>
 </g>

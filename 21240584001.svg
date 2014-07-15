@@ -1,4 +1,4 @@
-<svg width='890px' height='159px'
+<svg width='890px' height='192px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,31 +17,32 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>21240584001 +29.05+048.15  MENA AL-AHMADI/FAHAHEEL</text>
 </g>
-<g transform='translate(0, 19.0)'>
+<g transform='translate(0, 52.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M54 16.0l0 -35.0M114 16.0l0 -35.0' />
+  <path d='M54 16.0l0 -68.0M114 16.0l0 -68.0' />
   <text text-anchor='middle' font-size='16.0' x='54' y='16'>1970</text>
   <text text-anchor='middle' font-size='16.0' x='114' y='16'>1980</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -9.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-9.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 390.5l0 -800'/></defs>
+  <path d='M0.0 -25.0l-8 0M0.0 -55.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-25.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-55.0'>1</text>
+  <defs><path id='pvlabel' d='M-48 374.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -9.0l120.0 0' />
+  <path d='M0 -25.0l120.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='120' height='16.6'
+            x='0' y='0.0' width='120' height='49.8'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record21240584001'>
-<path d='M3.000 7.7L9.000 17.6 15.000 9.7 21.000 1.0 27.000 10.3 33.000 12.3 39.000 2.8 45.000 11.2 51.000 10.9' />
-<path d='M75.000 5.3L81.000 6.3 87.000 5.2 93.000 6.0' />
-<path d='M105.000 3.4L111.000 16.3 117.000 12.9' />
+<path d='M3.000 21.2L9.000 50.7 15.000 27.0 21.000 1.0 27.000 29.0 33.000 35.0 39.000 6.5 45.000 31.7 51.000 30.7' />
+<path d='M75.000 14.0L81.000 17.0 87.000 13.6 93.000 16.1' />
+<path d='M105.000 8.2L111.000 46.9 117.000 36.6' />
 </g>
 </g>
 </g>

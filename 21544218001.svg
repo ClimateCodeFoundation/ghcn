@@ -1,4 +1,4 @@
-<svg width='1016px' height='186px'
+<svg width='1016px' height='273px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,31 +17,33 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>21544218001 +47.10+092.80  MONGOLIAN STATION, HOVD        1</text>
 </g>
-<g transform='translate(0, 46.0)'>
+<g transform='translate(0, 133.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M36 16.0l0 -62.0' />
+  <path d='M36 16.0l0 -149.0' />
   <text text-anchor='middle' font-size='16.0' x='36' y='16'>1980</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -2.0l-8 0M0.0 -22.0l-8 0M0.0 -42.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-2.0'>-2</text>
-  <text alignment-baseline='middle' x='-8.0' y='-22.0'>0</text>
-  <text alignment-baseline='middle' x='-8.0' y='-42.0'>2</text>
-  <defs><path id='pvlabel' d='M-48 377.0l0 -800'/></defs>
+  <path d='M0.0 -3.0l-8 0M0.0 -33.0l-8 0M0.0 -63.0l-8 0M0.0 -93.0l-8 0M0.0 -123.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-3.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-33.0'>-1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-63.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-93.0'>1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-123.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 333.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -22.0l60.0 0' />
+  <path d='M0 -63.0l60.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='60' height='43.8'
+            x='0' y='0.0' width='60' height='131.3'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record21544218001'>
-<path d='M3.000 19.2L9.000 21.1 15.000 20.4' />
-<path d='M33.000 45.1L39.000 15.8 45.000 8.6 51.000 30.9 57.000 1.4' />
+<path d='M3.000 54.6L9.000 60.3 15.000 58.1' />
+<path d='M33.000 132.4L39.000 44.3 45.000 22.9 51.000 89.7 57.000 1.1' />
 </g>
 </g>
 </g>

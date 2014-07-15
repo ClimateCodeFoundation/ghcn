@@ -1,4 +1,4 @@
-<svg width='680px' height='160px'
+<svg width='680px' height='197px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,32 +17,34 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>50194208000 -15.48+124.52  KURI BAY</text>
 </g>
-<g transform='translate(0, 20.0)'>
+<g transform='translate(0, 57.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M30 16.0l0 -36.0M90 16.0l0 -36.0' />
+  <path d='M30 16.0l0 -73.0M90 16.0l0 -73.0' />
   <text text-anchor='middle' font-size='16.0' x='30' y='16'>1970</text>
   <text text-anchor='middle' font-size='16.0' x='90' y='16'>1980</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -8.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-8.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 390.0l0 -800'/></defs>
+  <path d='M0.0 -23.0l-8 0M0.0 -53.0l-8 0M0.0 -83.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-23.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-53.0'>1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-83.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 371.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -8.0l144.0 0' />
+  <path d='M0 -23.0l144.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='144' height='18.4'
+            x='0' y='0.0' width='144' height='55.1'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record50194208000'>
-<path d='M9.000 8.6L15.000 4.0 21.000 7.3 27.000 7.0 33.000 8.1 39.000 4.1' />
-<path d='M57.000 4.6L63.000 11.9 69.000 0.7 75.000 4.0' />
-<path d='M99.000 19.1L105.000 10.1 111.000 11.2' />
-<path class='singleton' d='M135.000 12.0l 0 0' />
+<path d='M9.000 24.9L15.000 10.9 21.000 20.9 27.000 20.1 33.000 23.4 39.000 11.2' />
+<path d='M57.000 12.9L63.000 34.8 69.000 1.1 75.000 11.0' />
+<path d='M99.000 56.2L105.000 29.4 111.000 32.6' />
+<path class='singleton' d='M135.000 35.0l 0 0' />
 </g>
 </g>
 </g>

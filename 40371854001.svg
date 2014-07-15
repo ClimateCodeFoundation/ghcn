@@ -1,4 +1,4 @@
-<svg width='736px' height='194px'
+<svg width='736px' height='296px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,11 +17,11 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>40371854001 +50.63-093.22  EAR FALLS,ON</text>
 </g>
-<g transform='translate(0, 54.0)'>
+<g transform='translate(0, 156.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M12 16.0l0 -70.0M72 16.0l0 -70.0M132 16.0l0 -70.0M192 16.0l0 -70.0M252 16.0l0 -70.0M312 16.0l0 -70.0M372 16.0l0 -70.0' />
+  <path d='M12 16.0l0 -172.0M72 16.0l0 -172.0M132 16.0l0 -172.0M192 16.0l0 -172.0M252 16.0l0 -172.0M312 16.0l0 -172.0M372 16.0l0 -172.0' />
   <text text-anchor='middle' font-size='16.0' x='12' y='16'>1930</text>
   <text text-anchor='middle' font-size='16.0' x='72' y='16'>1940</text>
   <text text-anchor='middle' font-size='16.0' x='132' y='16'>1950</text>
@@ -31,23 +31,26 @@
   <text text-anchor='middle' font-size='16.0' x='372' y='16'>1990</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -3.0l-8 0M0.0 -23.0l-8 0M0.0 -43.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-3.0'>-2</text>
-  <text alignment-baseline='middle' x='-8.0' y='-23.0'>0</text>
-  <text alignment-baseline='middle' x='-8.0' y='-43.0'>2</text>
-  <defs><path id='pvlabel' d='M-48 373.0l0 -800'/></defs>
+  <path d='M0.0 -6.0l-8 0M0.0 -36.0l-8 0M0.0 -66.0l-8 0M0.0 -96.0l-8 0M0.0 -126.0l-8 0M0.0 -156.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-6.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-36.0'>-1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-66.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-96.0'>1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-126.0'>2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-156.0'>3</text>
+  <defs><path id='pvlabel' d='M-48 322.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -23.0l372.0 0' />
+  <path d='M0 -66.0l372.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='372' height='51.2'
+            x='0' y='0.0' width='372' height='153.8'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record40371854001'>
-<path d='M15.000 24.5L21.000 37.1 27.000 15.2 33.000 10.7 39.000 13.6 45.000 14.6 51.000 1.4 57.000 13.5 63.000 25.7 69.000 12.3' />
-<path d='M135.000 4.1L141.000 17.2 147.000 35.8 153.000 36.3 159.000 24.8 165.000 26.8 171.000 19.4 177.000 22.4 183.000 25.1 189.000 20.2 195.000 23.9 201.000 32.3 207.000 21.5 213.000 29.8 219.000 27.2 225.000 13.7 231.000 14.9 237.000 15.7 243.000 22.8 249.000 28.6 255.000 22.2 261.000 23.7 267.000 9.0 273.000 31.8 279.000 18.1 285.000 26.6 291.000 21.6 297.000 31.0 303.000 17.3 309.000 13.9 315.000 24.7 321.000 41.6 327.000 14.1 333.000 35.6 339.000 32.3 345.000 13.2 351.000 31.7 357.000 52.7 363.000 27.2 369.000 21.5' />
+<path d='M15.000 70.6L21.000 108.4 27.000 42.6 33.000 29.1 39.000 37.9 45.000 40.8 51.000 1.3 57.000 37.5 63.000 74.0 69.000 33.9' />
+<path d='M135.000 9.3L141.000 48.5 147.000 104.5 153.000 106.0 159.000 71.3 165.000 77.5 171.000 55.3 177.000 64.3 183.000 72.3 189.000 57.5 195.000 68.7 201.000 94.0 207.000 61.4 213.000 86.5 219.000 78.5 225.000 38.0 231.000 41.8 237.000 44.0 243.000 65.5 249.000 82.8 255.000 63.5 261.000 68.2 267.000 24.0 273.000 92.5 279.000 51.3 285.000 76.8 291.000 61.8 297.000 90.0 303.000 49.0 309.000 38.8 315.000 71.0 321.000 121.7 327.000 39.3 333.000 103.7 339.000 93.8 345.000 36.5 351.000 92.0 357.000 155.0 363.000 78.6 369.000 61.6' />
 </g>
 </g>
 </g>

@@ -1,4 +1,4 @@
-<svg width='848px' height='150px'
+<svg width='848px' height='165px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,29 +17,30 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>40678368001 +20.13-075.20  GUANTANAMO/INST.TEC.</text>
 </g>
-<g transform='translate(0, 10.0)'>
+<g transform='translate(0, 25.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M54 16.0l0 -26.0' />
+  <path d='M54 16.0l0 -41.0' />
   <text text-anchor='middle' font-size='16.0' x='54' y='16'>1980</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -4.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-4.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 395.0l0 -800'/></defs>
+  <path d='M0.0 -10.0l-8 0M0.0 -40.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-10.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-40.0'>1</text>
+  <defs><path id='pvlabel' d='M-48 387.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -4.0l60.0 0' />
+  <path d='M0 -10.0l60.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='60' height='7.8'
+            x='0' y='0.0' width='60' height='23.5'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record40678368001'>
-<path d='M3.000 0.9L9.000 3.6 15.000 3.9 21.000 2.4 27.000 4.2 33.000 2.1' />
-<path d='M45.000 5.6L51.000 4.0 57.000 8.8' />
+<path d='M3.000 0.8L9.000 8.8 15.000 9.8 21.000 5.3 27.000 10.6 33.000 4.3' />
+<path d='M45.000 14.7L51.000 10.1 57.000 24.3' />
 </g>
 </g>
 </g>

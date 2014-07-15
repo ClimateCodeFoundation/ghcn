@@ -1,4 +1,4 @@
-<svg width='750px' height='203px'
+<svg width='750px' height='326px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,33 +17,36 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>63401008000 +78.25+015.47  SVALBARD LUFT</text>
 </g>
-<g transform='translate(0, 63.0)'>
+<g transform='translate(0, 186.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M18 16.0l0 -79.0M78 16.0l0 -79.0M138 16.0l0 -79.0M198 16.0l0 -79.0' />
+  <path d='M18 16.0l0 -202.0M78 16.0l0 -202.0M138 16.0l0 -202.0M198 16.0l0 -202.0' />
   <text text-anchor='middle' font-size='16.0' x='18' y='16'>1980</text>
   <text text-anchor='middle' font-size='16.0' x='78' y='16'>1990</text>
   <text text-anchor='middle' font-size='16.0' x='138' y='16'>2000</text>
   <text text-anchor='middle' font-size='16.0' x='198' y='16'>2010</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -17.0l-8 0M0.0 -37.0l-8 0M0.0 -57.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-17.0'>-2</text>
-  <text alignment-baseline='middle' x='-8.0' y='-37.0'>0</text>
-  <text alignment-baseline='middle' x='-8.0' y='-57.0'>2</text>
-  <defs><path id='pvlabel' d='M-48 368.5l0 -800'/></defs>
+  <path d='M0.0 -20.0l-8 0M0.0 -50.0l-8 0M0.0 -80.0l-8 0M0.0 -110.0l-8 0M0.0 -140.0l-8 0M0.0 -170.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-20.0'>-3</text>
+  <text alignment-baseline='middle' x='-8.0' y='-50.0'>-2</text>
+  <text alignment-baseline='middle' x='-8.0' y='-80.0'>-1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-110.0'>0</text>
+  <text alignment-baseline='middle' x='-8.0' y='-140.0'>1</text>
+  <text alignment-baseline='middle' x='-8.0' y='-170.0'>2</text>
+  <defs><path id='pvlabel' d='M-48 307.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -37.0l228.0 0' />
+  <path d='M0 -110.0l228.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='228' height='61.4'
+            x='0' y='0.0' width='228' height='184.2'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record63401008000'>
-<path d='M9.000 20.6L15.000 10.4 21.000 24.0 27.000 25.1 33.000 31.5 39.000 31.7 45.000 58.6 51.000 35.2 57.000 23.3 63.000 20.6 69.000 0.6 75.000 24.8 81.000 50.4 87.000 39.2 93.000 38.5 99.000 28.6 105.000 29.9 111.000 29.5 117.000 40.2 123.000 29.0 129.000 27.7 135.000 50.8 141.000 49.4 147.000 43.6 153.000 46.6 159.000 28.3 165.000 36.8 171.000 48.5 177.000 62.0 183.000 53.2 189.000 38.7 195.000 41.4 201.000 37.3 207.000 45.1 213.000 58.9 219.000 43.4' />
+<path d='M9.000 60.9L15.000 30.2 21.000 70.9 27.000 74.2 33.000 93.4 39.000 94.2 45.000 174.7 51.000 104.7 57.000 68.9 63.000 60.7 69.000 0.7 75.000 73.4 81.000 150.2 87.000 116.7 93.000 114.4 99.000 84.7 105.000 88.7 111.000 87.5 117.000 119.7 123.000 85.9 129.000 82.2 135.000 151.4 141.000 147.2 147.000 129.9 153.000 138.7 159.000 83.9 165.000 109.4 171.000 144.4 177.000 184.9 183.000 158.7 189.000 115.2 195.000 123.2 201.000 110.9 207.000 134.4 213.000 175.7 219.000 129.2' />
 </g>
 </g>
 </g>

@@ -1,4 +1,4 @@
-<svg width='918px' height='157px'
+<svg width='918px' height='187px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,30 +17,29 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>50194461001 -26.10+126.60  WARBURTON RANGE AUSTRALIA</text>
 </g>
-<g transform='translate(0, 17.0)'>
+<g transform='translate(0, 47.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M54 16.0l0 -33.0' />
+  <path d='M54 16.0l0 -63.0' />
   <text text-anchor='middle' font-size='16.0' x='54' y='16'>1960</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -10.0l-8 0M0.0 -30.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-10.0'>0</text>
-  <text alignment-baseline='middle' x='-8.0' y='-30.0'>2</text>
-  <defs><path id='pvlabel' d='M-48 391.5l0 -800'/></defs>
+  <path d='M0.0 -27.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-27.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 376.5l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -10.0l84.0 0' />
+  <path d='M0 -27.0l84.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='84' height='15.2'
+            x='0' y='0.0' width='84' height='45.5'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record50194461001'>
-<path d='M3.000 16.4L9.000 1.2 15.000 6.8 21.000 15.0 27.000 3.6 33.000 4.0' />
-<path d='M63.000 15.3L69.000 13.9 75.000 16.1' />
+<path d='M3.000 46.1L9.000 0.6 15.000 17.4 21.000 41.9 27.000 7.9 33.000 9.1' />
+<path d='M63.000 43.0L69.000 38.8 75.000 45.4' />
 </g>
 </g>
 </g>

@@ -1,4 +1,4 @@
-<svg width='736px' height='151px'
+<svg width='736px' height='170px'
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
       version="1.1">
@@ -17,28 +17,28 @@
 <g id="title">
   <text font-size='20.0' x='0' y='-4'>30382741000 -07.35-057.52  ALTO TAPAJOS</text>
 </g>
-<g transform='translate(0, 11.0)'>
+<g transform='translate(0, 30.0)'>
 <g id="legend">
 </g>
 <g id='axes'>
-  <path d='M54 16.0l0 -27.0' />
+  <path d='M54 16.0l0 -46.0' />
   <text text-anchor='middle' font-size='16.0' x='54' y='16'>1970</text>
 <g font-size="16.0" id="vaxis">
 <g text-anchor="end">
-  <path d='M0.0 -6.0l-8 0' />
-  <text alignment-baseline='middle' x='-8.0' y='-6.0'>0</text>
-  <defs><path id='pvlabel' d='M-48 394.5l0 -800'/></defs>
+  <path d='M0.0 -16.0l-8 0' />
+  <text alignment-baseline='middle' x='-8.0' y='-16.0'>0</text>
+  <defs><path id='pvlabel' d='M-48 385.0l0 -800'/></defs>
   <text text-anchor='middle'><textPath xlink:href='#pvlabel' startOffset='50%'>Anomaly (°C)</textPath></text>
 </g>
-  <path d='M0 -6.0l90.0 0' />
+  <path d='M0 -16.0l90.0 0' />
 </g>
 </g>
 <g transform="scale(1, -1)">
 <rect class='debug'
-            x='0' y='0.0' width='90' height='9.4'
+            x='0' y='0.0' width='90' height='28.1'
             stroke='pink' fill='none' opacity='0.30' />
 <g class='record30382741000'>
-<path d='M3.000 5.0L9.000 5.0 15.000 6.6 21.000 3.8 27.000 7.5 33.000 8.4 39.000 6.8 45.000 3.4 51.000 10.4 57.000 8.4 63.000 1.0 69.000 6.5 75.000 9.0 81.000 3.9 87.000 1.8' />
+<path d='M3.000 13.1L9.000 13.1 15.000 17.8 21.000 9.3 27.000 20.4 33.000 23.1 39.000 18.3 45.000 8.1 51.000 29.1 57.000 23.1 63.000 0.9 69.000 17.6 75.000 24.9 81.000 9.8 87.000 3.3' />
 </g>
 </g>
 </g>
