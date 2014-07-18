@@ -1,0 +1,7 @@
+#!/bin/sh
+cat /home/drj/zontem/input/ghcnm.v3.2.2.20140611/ghcnm.tavg.v3.2.2.20140611.qca.inv |
+  cut -c -30 | while read id lat lon
+do
+  printf '{"id": "%s", "latitude": %s, "longitude": %s}\n' $id $lat $lon
+done |
+  sed '1s/^/[/;$!s/$/,/;$s/$/]/'
