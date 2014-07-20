@@ -7319,12 +7319,18 @@ $(document).keypress(function(e){
   }
   showWhere()
 })
+marker = null
 function showWhere() {
   var station = all[where]
   var url = station.id + ".svg"
   var frag = url.substr(0, url.indexOf('.'))
   window.location.hash = '#'+frag
   $('#plot').attr('src', url)
+  if(marker) {
+    map.removeLayer(marker)
+  }
+  marker = L.marker([station.latitude, station.longitude])
+  marker.addTo(map)
   map.panTo([station.latitude, station.longitude])
 }
 $(function() {
