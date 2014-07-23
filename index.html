@@ -7334,11 +7334,14 @@ function showWhere() {
   map.panTo([station.latitude, station.longitude])
 }
 $(function() {
-  map = L.map('map', {
-      layers: MQ.mapLayer(),
-      center: [ 40.731701, -73.993411 ],
-      zoom: 9
-  });
+  // The "if" here, let's us work offline.
+  if(window.L) {
+    map = L.map('map', {
+        layers: MQ.mapLayer(),
+        center: [ 40.731701, -73.993411 ],
+        zoom: 9
+    });
+  }
 
   showWhere()
 })
