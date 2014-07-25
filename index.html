@@ -53,8 +53,12 @@ function latlonFromFeature(feature) {
 
 function markerFromFeature(feature, color) {
   var latlon = latlonFromFeature(feature)
+  var shape = 'circle'
+  if(/000$/.test(feature.id)) {
+    shape = 'star'
+  }
   var icon = L.AwesomeMarkers.icon({
-    icon: 'circle',
+    icon: shape,
     prefix: 'fa',
     markerColor: color,
   })
