@@ -4,6 +4,12 @@
 
 <script src="http://code.jquery.com/jquery-2.1.1.js"></script>
 <script src="http://open.mapquestapi.com/sdk/js/v7.1.0/mqa.toolkit.js?key=Fmjtd%7Cluur20uznh%2C8g%3Do5-9ay01f"></script>
+
+<!-- required for https://github.com/lvoogdt/Leaflet.awesome-markers -->
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="css/leaflet.awesome-markers.css">
+<script src="js/leaflet.awesome-markers.js"></script>
+
 <script src="pointsin.js"></script>
 <script>
 // To test locally, you'll need to run a web server so that AJAX works.
@@ -45,9 +51,14 @@ function latlonFromFeature(feature) {
   return [coords[1], coords[0]]
 }
 
-function markerFromFeature(feature) {
+function markerFromFeature(feature, color) {
   var latlon = latlonFromFeature(feature)
-  var marker = L.marker(latlon)
+  var icon = L.AwesomeMarkers.icon({
+    icon: 'circle',
+    prefix: 'fa',
+    markerColor: color,
+  })
+  var marker = L.marker(latlon, {icon: icon})
   return marker
 }
     
@@ -100,14 +111,17 @@ function showMarkers() {
       left:b.getWest(),
       right:b.getEast()
       }
-    if(!allTree) {
-      return
-    }
     var points = boxClip(box, allTree)
     var markers = []
+    var theStation = all.features[where]
     $(points).each(function(i, point) {
       var marker
-      marker = markerFromFeature(point.feature)
+      var color = 'blue'
+      if(point.feature.id == theStation.id) {
+          color = 'red'
+      }
+      marker = markerFromFeature(point.feature, color)
+      console.log(marker)
       markers.push(marker)
     })
     if(markersGroup) {
