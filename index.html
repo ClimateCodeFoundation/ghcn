@@ -52,12 +52,14 @@ function markerFromFeature(feature) {
 }
     
 $(function() {
-  $.ajax("alltree.json", {dataType:"json"}).done(function(data) {
+  var loadAllTree = $.ajax("alltree.json", {dataType:"json"}).done(function(data) {
     allTree = data
   })
 
-  $.ajax("all.geojson", {dataType:"json"}).done(function(data) {
+  var loadAll = $.ajax("all.geojson", {dataType:"json"}).done(function(data) {
     all = data
+  })
+  $.when(loadAllTree, loadAll).then(function(){
     if (window.location.hash) {
         var i, n
         var s = window.location.hash.substr(1)
@@ -77,8 +79,6 @@ $(function() {
     }
 
     showWhere()
-  }).error(function(foo){
-    console.log("I'm error", foo)
   })
 
   // The "if" here, let's us work offline.
