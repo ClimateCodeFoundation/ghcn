@@ -1,0 +1,5 @@
+#!/bin/sh
+set -x
+set -e
+./make_tree.py > alltree.json
+~/ghcntool/ghcnm_to_geojson > all.geojson

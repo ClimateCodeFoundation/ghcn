@@ -4,10 +4,13 @@
 
 <script src="http://code.jquery.com/jquery-2.1.1.js"></script>
 <script src="http://open.mapquestapi.com/sdk/js/v7.1.0/mqa.toolkit.js?key=Fmjtd%7Cluur20uznh%2C8g%3Do5-9ay01f"></script>
+<script src="pointsin.js"></script>
 <script>
 // To test locally, you'll need to run a web server so that AJAX works.
 // "all" gets populated from the file all.geojson, via AJAX.
 var all = null
+// "allTree" gets populated from the file alltree.json, via AJAX.
+var allTree = null
 var where = 0
 $(document).keypress(function(e){
   if(e.keyCode == 112) {
@@ -24,25 +27,35 @@ $(document).keypress(function(e){
   }
   showWhere()
 })
-marker = null
+var markersGroup = null
 function showWhere() {
   var station = all.features[where]
   var url = station.properties.id + ".svg"
   var frag = url.substr(0, url.indexOf('.'))
   window.location.hash = '#'+frag
   $('#plot').attr('src', url)
-  if(marker) {
-    map.removeLayer(marker)
-  }
-  // GeoJSON convention, [longitude, latitude]
-  var coords = station.geometry.coordinates
-  // leaflet.js convention, [latitude, longitude]
-  var latlon = [coords[1], coords[0]]
-  marker = L.marker(latlon)
-  marker.addTo(map)
+  var latlon = latlonFromFeature(station)
   map.panTo(latlon)
 }
+function latlonFromFeature(feature) {
+  // Convert from GeoJSON convention, [longitude, latitude]
+  // to leaflet.js convention, [latitude, longitude].
+  // Just the 2 element array is retuned.
+  var coords = feature.geometry.coordinates
+  return [coords[1], coords[0]]
+}
+
+function markerFromFeature(feature) {
+  var latlon = latlonFromFeature(feature)
+  var marker = L.marker(latlon)
+  return marker
+}
+    
 $(function() {
+  $.ajax("alltree.json", {dataType:"json"}).done(function(data) {
+    allTree = data
+  })
+
   $.ajax("all.geojson", {dataType:"json"}).done(function(data) {
     all = data
     if (window.location.hash) {
@@ -75,8 +88,34 @@ $(function() {
         center: [ 40.731701, -73.993411 ],
         zoom: 9
     });
+    map.on('moveend', function() {
+      showMarkers()
+    })
   }
 })
+function showMarkers() {
+    var b = map.getBounds()
+    var box = {top:b.getNorth(),
+      bottom:b.getSouth(),
+      left:b.getWest(),
+      right:b.getEast()
+      }
+    if(!allTree) {
+      return
+    }
+    var points = boxClip(box, allTree)
+    var markers = []
+    $(points).each(function(i, point) {
+      var marker
+      marker = markerFromFeature(point.feature)
+      markers.push(marker)
+    })
+    if(markersGroup) {
+        map.removeLayer(markersGroup)
+    }
+    markersGroup = L.layerGroup(markers)
+    markersGroup.addTo(map)
+}
 </script>
 <style>
 body {
