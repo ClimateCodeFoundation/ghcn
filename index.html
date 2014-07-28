@@ -33,7 +33,27 @@ $(document).keypress(function(e){
   }
   showWhere()
 })
+
 var markersGroup = null
+
+function setWhereFromHash() {
+  var s = window.location.hash.substr(1)
+  setWhere(s)
+}
+function setWhere(s) {
+  var i, n
+  if(s.length < 11) {
+      where = parseInt(s);
+  } else {
+      n = s.length
+      for(i=0; i<all.features.length; ++i) {
+          if(all.features[i].properties.id.substr(0, n) == s) {
+              where = i
+              break
+          }
+      }
+  }
+}
 function showWhere() {
   var station = all.features[where]
   var url = station.properties.id + ".svg"
@@ -76,19 +96,7 @@ $(function() {
   })
   $.when(loadAllTree, loadAll).then(function(){
     if (window.location.hash) {
-        var i, n
-        var s = window.location.hash.substr(1)
-        if(s.length < 11) {
-            where = parseInt(s);
-        } else {
-            n = s.length
-            for(i=0; i<all.features.length; ++i) {
-                if(all.features[i].properties.id.substr(0, n) == s) {
-                    where = i
-                    break
-                }
-            }
-        }
+        setWhereFromHash()
     } else {
         where = Math.floor(Math.random()*all.features.length)
     }
@@ -125,6 +133,10 @@ function showMarkers() {
           color = 'red'
       }
       marker = markerFromFeature(point.feature, color)
+      marker.on('click', function(){
+        setWhere(point.feature.id)
+        showWhere()
+      })
       markers.push(marker)
     })
     if(markersGroup) {
