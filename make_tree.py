@@ -1,6 +1,14 @@
 #!/usr/bin/env python3
+
+"""
+make_tree features.geojson
+"""
+
 import json
 import sys
+
+def usage(out):
+    out.write(__doc__.strip() + '\n')
 
 def convert_feature_to_point(f):
     coords = f['geometry']['coordinates']
@@ -50,7 +58,11 @@ def split_features(geo):
 def main(argv=None):
     if argv is None:
         argv = sys.argv
-    tree = split_features(json.load(open("all.geojson")))
+    arg = argv[1:]
+    if not arg:
+        usage(sys.stderr)
+        return 4
+    tree = split_features(json.load(open(arg[0])))
     json.dump(tree, sys.stdout, indent=2)
 
 if __name__ == '__main__':

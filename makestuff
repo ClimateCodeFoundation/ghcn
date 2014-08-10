@@ -2,4 +2,4 @@
 set -x
 set -e
 ~/ghcntool/ghcnm_to_geojson > all.geojson
-./make_tree.py > alltree.json
+./make_tree.py all.geojson > alltree.json
