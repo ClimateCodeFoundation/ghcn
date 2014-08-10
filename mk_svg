@@ -1,6 +1,22 @@
 #!/bin/sh
-for a in $(cat all)
+
+if [ "$1" ]
+then
+    Dat=$1
+else
+    Dat=$(ls ~/.local/share/data/ghcn/ghcnm*/*.dat 2>/dev/null)
+    if [ $? != 0 ]
+    then
+        echo "Can't find .dat file" 1>&2
+        exit 4
+    fi
+    Dat=$(printf '%s' $Dat | tail -n 1)
+    echo "Using $Dat" 1>&2
+fi
+Inv=${Dat%.dat}.inv
+
+for a in $(cut -c 1-11 < $Inv)
 do
-  ~/ghcntool/stationplot.py -c yscale=30 -c ytick=1 -c legend=none -y -d ~/zontem/input/ghcnm.v3.2.2.20140611/ghcnm.tavg.v3.2.2.20140611.qca.dat $a
+  ~/ghcntool/stationplot.py -c yscale=30 -c ytick=1 -c legend=none -y -d "$Dat" $a
   echo $a
 done
