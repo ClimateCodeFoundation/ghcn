@@ -15,7 +15,7 @@
 // To test locally, you'll need to run a web server so that AJAX works.
 // "all" gets populated from the file all.geojson, via AJAX.
 var all = null
-// "allTree" gets populated from the file alltree.json, via AJAX.
+// "allTree" gets populated from the file all.tree.json, via AJAX.
 var allTree = null
 var where = 0
 $(document).keypress(function(e){
@@ -87,7 +87,7 @@ function markerFromFeature(feature, color) {
 }
     
 $(function() {
-  var loadAllTree = $.ajax("alltree.json", {dataType:"json"}).done(function(data) {
+  var loadAllTree = $.ajax("all.tree.json", {dataType:"json"}).done(function(data) {
     allTree = data
   })
 

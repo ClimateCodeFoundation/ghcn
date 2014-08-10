@@ -5,6 +5,7 @@ make_tree features.geojson
 """
 
 import json
+import re
 import sys
 
 def usage(out):
@@ -62,8 +63,11 @@ def main(argv=None):
     if not arg:
         usage(sys.stderr)
         return 4
-    tree = split_features(json.load(open(arg[0])))
-    json.dump(tree, sys.stdout, indent=2)
+    geojson_name = arg[0]
+    tree = split_features(json.load(open(geojson_name)))
+    tree_name = re.sub(r'\.geojson$', '.tree.json', geojson_name)
+    with open(tree_name, 'w') as out:
+        json.dump(tree, out, indent=2)
 
 if __name__ == '__main__':
     main()
