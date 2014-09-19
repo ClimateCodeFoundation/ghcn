@@ -10,7 +10,7 @@ else
         echo "Can't find .dat file" 1>&2
         exit 4
     fi
-    Dat=$(printf '%s' $Dat | tail -n 1)
+    Dat=$(printf '%s\n' $Dat | tail -n 1)
     echo "Using $Dat" 1>&2
 fi
 Inv=${Dat%.dat}.inv
